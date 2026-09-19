@@ -129,6 +129,29 @@ Unten in Daumenreichweite genau ein großer Knopf: die Aktion, die dran ist —
 **Nächste Frage**. Darüber das Eingabefeld, ganz oben vier kleine:
 Vorlesen, Sprechen, Lösung, Ende.
 
+## Die Vorlesestimme
+
+Auf dem Startbildschirm lässt sich die Stimme auswählen; mit „Probe“ hörst du
+sie an. Die Wahl wird auf dem Gerät gemerkt.
+
+Klingt es blechern, liegt es an den Stimmen des Systems, nicht an der App.
+Auf iOS und macOS sind nur die Kompaktversionen vorinstalliert. Die guten
+Stimmen gibt es seit iOS 16 zum Nachladen:
+
+**Einstellungen → Bedienungshilfen → Vorlesen → Stimmen → Deutsch**
+
+Dort eine Stimme mit dem Zusatz „Erweitert“ oder „Premium“ laden — das sind
+je über 100 MB, deshalb sind sie nicht ab Werk dabei. Danach in der App unter
+Vorlesestimme auswählen. Der Unterschied ist deutlich.
+
+Die App sortiert die verfügbaren Stimmen selbst nach Qualität und schlägt die
+beste vor. Siri-Stimmen stehen Webseiten nicht zur Verfügung, die lassen sich
+nicht nutzen.
+
+Auf Android hängt es an den Sprachpaketen der Sprachausgabe von Google, unter
+Einstellungen bei Sprache und Eingabe zu finden. Auf Windows liefern die
+Stimmen von Google Chrome meist das bessere Ergebnis als die von Windows.
+
 ## Vorlesen und Einsprechen auf Geräten
 
 **Vorlesen** funktioniert überall: Windows, macOS, Android, iPhone, iPad,
