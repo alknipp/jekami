@@ -121,7 +121,8 @@ und falsch, alle anderen spielen mit.
    dran war, bekommt den Chip.
 
 Chips zählt ihr selbst. Wer lieber klassisch mit Spielleiter spielt, nutzt
-dieselbe Oberfläche — dann bedient eben einer das Gerät und löst auf.
+dieselbe Oberfläche — dann bedient einer das Gerät und löst auf, und in den
+Einstellungen wird das Vorlesen für Frage und Lösung abgeschaltet.
 
 ## Knöpfe
 
@@ -130,14 +131,28 @@ Unten in Daumenreichweite genau ein großer Knopf: die Aktion, die dran ist —
 **Nächste Frage**. Darüber das Eingabefeld, ganz oben vier kleine:
 Vorlesen, Sprechen, Lösung, Ende.
 
-## Die Vorlesestimme
+## Einstellungen
 
-Auf dem Startbildschirm lässt sich die Stimme auswählen; mit „Probe“ hörst du
-sie an. Die Wahl wird auf dem Gerät gemerkt.
+Auf dem Startbildschirm lässt sich unter **Einstellungen** dreierlei regeln:
 
-Klingt es blechern, liegt es an den Stimmen des Systems, nicht an der App.
-Auf iOS und macOS sind nur die Kompaktversionen vorinstalliert. Die guten
-Stimmen gibt es seit iOS 16 zum Nachladen:
+**Vorlesen** — zwei getrennte Schalter. „Frage“ steuert, ob die App jede Frage
+von sich aus vorliest. „Lösung und Rückmeldung“ steuert das Auflösen, das
+„Richtig!“ nach einer Antwort und den Schlusssatz der Runde.
+
+Spielt ihr **mit Spielleiter**, stellt beides auf Aus: Dann bleibt die App
+still, und der Knopf „Vorlesen“ während des Spiels liest nur auf Zuruf vor.
+Ohne Spielleiter bleiben beide auf Ein — dann ist die App der Vorleser.
+
+**Vorlesestimme** — Auswahl plus Probeknopf. Die Wahl wird gemerkt.
+
+**Darstellung** — Automatisch folgt dem System, Hell und Dunkel überschreiben
+es dauerhaft.
+
+## Die Vorlesestimme klingt blechern?
+
+Das liegt an den Stimmen des Systems, nicht an der App. Auf iOS und macOS
+sind nur die Kompaktversionen vorinstalliert. Die guten Stimmen gibt es seit
+iOS 16 zum Nachladen:
 
 **Einstellungen → Bedienungshilfen → Vorlesen → Stimmen → Deutsch**
 
@@ -146,8 +161,7 @@ je über 100 MB, deshalb sind sie nicht ab Werk dabei. Danach in der App unter
 Vorlesestimme auswählen. Der Unterschied ist deutlich.
 
 Die App sortiert die verfügbaren Stimmen selbst nach Qualität und schlägt die
-beste vor. Siri-Stimmen stehen Webseiten nicht zur Verfügung, die lassen sich
-nicht nutzen.
+beste vor. Siri-Stimmen stehen Webseiten nicht zur Verfügung.
 
 Auf Android hängt es an den Sprachpaketen der Sprachausgabe von Google, unter
 Einstellungen bei Sprache und Eingabe zu finden. Auf Windows liefern die

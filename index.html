@@ -162,6 +162,25 @@ h1{font-size:1.45rem;font-weight:650;letter-spacing:-.01em;margin:0 0 6px}
   border-radius:12px;padding:0 16px;font:inherit;font-size:.85rem;font-weight:550;cursor:pointer}
 #probe:hover{border-color:var(--muted);color:var(--fg)}
 
+details.einst{margin-top:26px;border:1px solid var(--line);border-radius:12px;
+  background:var(--surface);overflow:hidden}
+details.einst>summary{list-style:none;cursor:pointer;padding:15px 16px;
+  font-size:.94rem;font-weight:600;color:var(--fg);display:flex;
+  align-items:center;justify-content:space-between;gap:10px}
+details.einst>summary::-webkit-details-marker{display:none}
+details.einst>summary::after{content:"";width:8px;height:8px;flex:0 0 auto;
+  border-right:2px solid var(--muted);border-bottom:2px solid var(--muted);
+  transform:rotate(45deg);margin-right:4px;transition:transform .15s}
+details.einst[open]>summary::after{transform:rotate(-135deg)}
+details.einst>summary:hover{background:var(--surface-2)}
+.einstinhalt{padding:4px 16px 18px;border-top:1px solid var(--line)}
+.einstinhalt .sec{margin:18px 0 9px}
+.einstinhalt .sec:first-child{margin-top:16px}
+.zeile{display:flex;align-items:center;justify-content:space-between;gap:12px;
+  margin-bottom:8px}
+.zeile>span{font-size:.94rem}
+.segment.eng{flex:0 0 auto;width:148px}
+.segment.eng button{padding:8px 4px;font-size:.84rem}
 .hidden{display:none !important}
 .foot{color:var(--muted);font-size:.78rem;text-align:center;margin-top:14px;line-height:1.6}
 .info{background:var(--surface);border:1px solid var(--accent);border-radius:14px;
@@ -185,18 +204,39 @@ h1{font-size:1.45rem;font-weight:650;letter-spacing:-.01em;margin:0 0 6px}
   <div class="grid" id="levels"></div>
   <div class="sec">Themengebiet</div>
   <div class="grid" id="topics"></div>
-  <div class="sec">Vorlesestimme</div>
-  <div class="stimmzeile">
-    <select id="stimme"></select>
-    <button id="probe">Probe</button>
-  </div>
-  <p class="foot" id="stimmhinweis" style="text-align:left;margin-top:9px"></p>
-  <div class="sec">Darstellung</div>
-  <div class="segment" id="thema">
-    <button data-t="auto">Automatisch</button>
-    <button data-t="light">Hell</button>
-    <button data-t="dark">Dunkel</button>
-  </div>
+  <details class="einst" id="einst">
+    <summary>Einstellungen</summary>
+    <div class="einstinhalt">
+      <div class="sec">Vorlesen</div>
+      <div class="zeile">
+        <span>Frage</span>
+        <div class="segment eng" id="swFrage">
+          <button data-v="1">Ein</button><button data-v="0">Aus</button>
+        </div>
+      </div>
+      <div class="zeile">
+        <span>Lösung und Rückmeldung</span>
+        <div class="segment eng" id="swLoesung">
+          <button data-v="1">Ein</button><button data-v="0">Aus</button>
+        </div>
+      </div>
+      <p class="foot" style="text-align:left;margin-top:4px">Mit Spielleiter beides auf Aus — dann bleibt die App still und liest nur auf Knopfdruck vor.</p>
+
+      <div class="sec">Vorlesestimme</div>
+      <div class="stimmzeile">
+        <select id="stimme"></select>
+        <button id="probe">Probe</button>
+      </div>
+      <p class="foot" id="stimmhinweis" style="text-align:left;margin-top:9px"></p>
+
+      <div class="sec">Darstellung</div>
+      <div class="segment" id="thema">
+        <button data-t="auto">Automatisch</button>
+        <button data-t="light">Hell</button>
+        <button data-t="dark">Dunkel</button>
+      </div>
+    </div>
+  </details>
   <button id="start">Quiz starten</button>
   <p class="foot" id="bestand"></p>
 </div>
@@ -365,6 +405,23 @@ function sprich(t,fertig){
   }catch(e){if(fertig)fertig();}
 }
 
+/* ---------- Vorleseschalter ---------- */
+function holSchalter(k,vorgabe){
+  try{var v=localStorage.getItem(k);if(v==="0")return false;if(v==="1")return true;}catch(e){}
+  return vorgabe;
+}
+var lesFrage=holSchalter("jekami-les-frage",true);
+var lesLoesung=holSchalter("jekami-les-loesung",true);
+function zeichneSchalter(id,an){
+  var b=S(id).getElementsByTagName("button"),i;
+  for(i=0;i<b.length;i++)
+    b[i].className=(b[i].getAttribute("data-v")==="1")===an?"on":"";
+}
+function schalte(id,k,an){
+  try{localStorage.setItem(k,an?"1":"0");}catch(e){}
+  zeichneSchalter(id,an);
+}
+
 /* ---------- Zuhören (optionale Zugabe) ---------- */
 var rec=null;
 function hoerZu(){
@@ -524,7 +581,7 @@ function naechste(){
   S("eingabe").value="";
   setStatus("");
   zeichneKnoepfe();
-  sprich(cur.frage,starteUhr);
+  if(lesFrage)sprich(cur.frage,starteUhr); else starteUhr();
 }
 function zeichneKnoepfe(){
   var h=S("haupt"), l=S("loesung"), e=S("eingabe");
@@ -557,7 +614,8 @@ function alsRichtig(text){
   erledigt=true;stoppUhr();
   S("board").innerHTML='<div class="mark">✓</div><div>'+(text||"Richtig!")+'</div>'+
     '<div class="note">Chip für den, der gelöst hat.</div>';
-  setStatus("");zeichneKnoepfe();sprich("Richtig!");
+  setStatus("");zeichneKnoepfe();
+  if(lesLoesung)sprich("Richtig!");
 }
 function aufloesen(){
   stoppUhr();erledigt=true;
@@ -565,8 +623,9 @@ function aufloesen(){
     (cur.schaetzfrage?'<div class="note">Wer war am nächsten dran? Der bekommt den Chip.</div>'
                      :'<div class="note">Kein Chip für diese Frage.</div>');
   setStatus("");zeichneKnoepfe();
-  sprich(cur.schaetzfrage?("Richtig wäre "+cur.loesung+". Wer war am nächsten dran?")
-                         :("Die Antwort lautet "+cur.loesung));
+  if(lesLoesung)
+    sprich(cur.schaetzfrage?("Richtig wäre "+cur.loesung+". Wer war am nächsten dran?")
+                           :("Die Antwort lautet "+cur.loesung));
 }
 function pruefe(alts){
   if(erledigt)return;
@@ -587,7 +646,7 @@ function schluss(){
   S("eingabe").classList.add("hidden");S("loesung").classList.add("hidden");
   S("sprechen").classList.add("hidden");
   setStatus("");
-  sprich("Das war die Runde. Zählt eure Chips!");
+  if(lesLoesung)sprich("Das war die Runde. Zählt eure Chips!");
   var h=S("haupt");
   h.textContent="Neue Runde";h.className="";
   h.onclick=function(){zeige("setup");S("clock").textContent="3:00";};
@@ -614,6 +673,21 @@ S("stimme").onchange=function(){
 S("probe").onclick=function(){
   sprich("Schätzfrage: Wie weit ist der Mond von der Erde entfernt?");
 };
+(function(){
+  var f=S("swFrage").getElementsByTagName("button"),i;
+  for(i=0;i<f.length;i++)(function(btn){
+    btn.onclick=function(){lesFrage=(btn.getAttribute("data-v")==="1");
+      schalte("swFrage","jekami-les-frage",lesFrage);};
+  })(f[i]);
+  var l=S("swLoesung").getElementsByTagName("button"),j;
+  for(j=0;j<l.length;j++)(function(btn){
+    btn.onclick=function(){lesLoesung=(btn.getAttribute("data-v")==="1");
+      schalte("swLoesung","jekami-les-loesung",lesLoesung);};
+  })(l[j]);
+  zeichneSchalter("swFrage",lesFrage);
+  zeichneSchalter("swLoesung",lesLoesung);
+})();
+
 var tb=S("thema").getElementsByTagName("button"),ti;
 for(ti=0;ti<tb.length;ti++)
   (function(btn){btn.onclick=function(){setzeThema(btn.getAttribute("data-t"));};})(tb[ti]);
