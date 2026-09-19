@@ -297,6 +297,205 @@ JEKAMI_FRAGEN.allgemein = {
           "gelb und blau"
         ],
         "loesung": "Blau und Gelb"
+      },
+      {
+        "frage": "Wie viele Tage hat eine Woche?",
+        "antworten": [
+          "7",
+          "sieben"
+        ],
+        "loesung": "7",
+        "zahlenbereich": [
+          7,
+          7
+        ]
+      },
+      {
+        "frage": "Welcher Tag kommt nach dem Mittwoch?",
+        "antworten": [
+          "donnerstag"
+        ],
+        "loesung": "Der Donnerstag"
+      },
+      {
+        "frage": "Wie heißen die beiden Tage am Wochenende?",
+        "antworten": [
+          "samstag und sonntag",
+          "samstag sonntag"
+        ],
+        "loesung": "Samstag und Sonntag"
+      },
+      {
+        "frage": "Welcher Monat ist der kürzeste?",
+        "antworten": [
+          "februar"
+        ],
+        "loesung": "Der Februar"
+      },
+      {
+        "frage": "Wie viele Wochen hat ein Monat ungefähr?",
+        "antworten": [
+          "4",
+          "vier"
+        ],
+        "loesung": "4",
+        "zahlenbereich": [
+          4,
+          4
+        ]
+      },
+      {
+        "frage": "Wie viele Minuten sind eine Viertelstunde?",
+        "antworten": [
+          "15",
+          "fünfzehn"
+        ],
+        "loesung": "15",
+        "zahlenbereich": [
+          15,
+          15
+        ]
+      },
+      {
+        "frage": "Wie viele Zentimeter hat ein Meter?",
+        "antworten": [
+          "100",
+          "hundert"
+        ],
+        "loesung": "100",
+        "zahlenbereich": [
+          100,
+          100
+        ]
+      },
+      {
+        "frage": "Was ergibt fünf mal fünf?",
+        "antworten": [
+          "25",
+          "fünfundzwanzig"
+        ],
+        "loesung": "25",
+        "zahlenbereich": [
+          25,
+          25
+        ]
+      },
+      {
+        "frage": "Was ergibt hundert minus dreißig?",
+        "antworten": [
+          "70",
+          "siebzig"
+        ],
+        "loesung": "70",
+        "zahlenbereich": [
+          70,
+          70
+        ]
+      },
+      {
+        "frage": "Was ist das Doppelte von fünfzehn?",
+        "antworten": [
+          "30",
+          "dreißig"
+        ],
+        "loesung": "30",
+        "zahlenbereich": [
+          30,
+          30
+        ]
+      },
+      {
+        "frage": "Wie viele Ecken hat ein Viereck?",
+        "antworten": [
+          "4",
+          "vier"
+        ],
+        "loesung": "4",
+        "zahlenbereich": [
+          4,
+          4
+        ]
+      },
+      {
+        "frage": "Wie viele Seiten hat ein Würfel?",
+        "antworten": [
+          "6",
+          "sechs"
+        ],
+        "loesung": "6",
+        "zahlenbereich": [
+          6,
+          6
+        ]
+      },
+      {
+        "frage": "Welche Farbe entsteht aus Rot und Gelb?",
+        "antworten": [
+          "orange"
+        ],
+        "loesung": "Orange"
+      },
+      {
+        "frage": "Welche Farbe entsteht aus Rot und Blau?",
+        "antworten": [
+          "lila",
+          "violett"
+        ],
+        "loesung": "Lila"
+      },
+      {
+        "frage": "Wie viele Buchstaben hat das Wort Haus?",
+        "antworten": [
+          "4",
+          "vier"
+        ],
+        "loesung": "4",
+        "zahlenbereich": [
+          4,
+          4
+        ]
+      },
+      {
+        "frage": "Wie nennt man Wörter, die gleich klingen wie Haus und Maus?",
+        "antworten": [
+          "reim",
+          "reime",
+          "reimwörter"
+        ],
+        "loesung": "Reime"
+      },
+      {
+        "frage": "Wie heißt das Zeichen am Ende eines normalen Satzes?",
+        "antworten": [
+          "punkt"
+        ],
+        "loesung": "Der Punkt"
+      },
+      {
+        "frage": "Wie heißt der erste Buchstabe im Alphabet?",
+        "antworten": [
+          "a"
+        ],
+        "loesung": "A"
+      },
+      {
+        "frage": "Wie heißt der letzte Buchstabe im Alphabet?",
+        "antworten": [
+          "z"
+        ],
+        "loesung": "Z"
+      },
+      {
+        "frage": "Wie viele Beine hat ein Tisch meistens?",
+        "antworten": [
+          "4",
+          "vier"
+        ],
+        "loesung": "4",
+        "zahlenbereich": [
+          4,
+          4
+        ]
       }
     ],
     "unterstufe": [
@@ -562,6 +761,191 @@ JEKAMI_FRAGEN.allgemein = {
           "akkusativ"
         ],
         "loesung": "Das Akkusativobjekt"
+      },
+      {
+        "frage": "Wie viele Sekunden hat eine Minute?",
+        "antworten": [
+          "60",
+          "sechzig"
+        ],
+        "loesung": "60",
+        "zahlenbereich": [
+          60,
+          60
+        ]
+      },
+      {
+        "frage": "Wie viele Liter hat ein Kubikmeter?",
+        "antworten": [
+          "1000",
+          "tausend"
+        ],
+        "loesung": "1000",
+        "zahlenbereich": [
+          1000,
+          1000
+        ]
+      },
+      {
+        "frage": "Wie viel Grad hat ein voller Kreis?",
+        "antworten": [
+          "360"
+        ],
+        "loesung": "360 Grad",
+        "zahlenbereich": [
+          360,
+          360
+        ]
+      },
+      {
+        "frage": "Wie nennt man den Abstand vom Kreismittelpunkt zum Rand?",
+        "antworten": [
+          "radius"
+        ],
+        "loesung": "Der Radius"
+      },
+      {
+        "frage": "Wie nennt man die Strecke durch den Kreismittelpunkt von Rand zu Rand?",
+        "antworten": [
+          "durchmesser"
+        ],
+        "loesung": "Der Durchmesser"
+      },
+      {
+        "frage": "Was ergibt sieben mal acht?",
+        "antworten": [
+          "56",
+          "sechsundfünfzig"
+        ],
+        "loesung": "56",
+        "zahlenbereich": [
+          56,
+          56
+        ]
+      },
+      {
+        "frage": "Wie viel Prozent sind die Hälfte?",
+        "antworten": [
+          "50",
+          "fünfzig"
+        ],
+        "loesung": "50 Prozent",
+        "zahlenbereich": [
+          50,
+          50
+        ]
+      },
+      {
+        "frage": "Wie lautet drei Viertel als Dezimalzahl?",
+        "antworten": [
+          "0,75",
+          "null komma sieben fünf"
+        ],
+        "loesung": "0,75",
+        "zahlenbereich": [
+          0.75,
+          0.75
+        ]
+      },
+      {
+        "frage": "Wie nennt man Zahlen, die durch zwei teilbar sind?",
+        "antworten": [
+          "gerade",
+          "gerade zahlen"
+        ],
+        "loesung": "Gerade Zahlen"
+      },
+      {
+        "frage": "Wie heißt die Zahl, die bei einer Division geteilt wird?",
+        "antworten": [
+          "dividend"
+        ],
+        "loesung": "Der Dividend"
+      },
+      {
+        "frage": "Wie viele Fälle hat die deutsche Sprache?",
+        "antworten": [
+          "4",
+          "vier"
+        ],
+        "loesung": "4",
+        "zahlenbereich": [
+          4,
+          4
+        ]
+      },
+      {
+        "frage": "Wie heißen die vier Fälle des Deutschen?",
+        "antworten": [
+          "nominativ genitiv dativ akkusativ"
+        ],
+        "loesung": "Nominativ, Genitiv, Dativ, Akkusativ"
+      },
+      {
+        "frage": "Welches Satzglied erfragt man mit Wem?",
+        "antworten": [
+          "dativobjekt",
+          "dativ"
+        ],
+        "loesung": "Das Dativobjekt"
+      },
+      {
+        "frage": "Wie nennt man die Wortart, die ein Verb näher bestimmt?",
+        "antworten": [
+          "adverb",
+          "umstandswort"
+        ],
+        "loesung": "Das Adverb"
+      },
+      {
+        "frage": "Wie heißt die Grundform eines Verbs?",
+        "antworten": [
+          "infinitiv",
+          "grundform"
+        ],
+        "loesung": "Der Infinitiv"
+      },
+      {
+        "frage": "Wie heißt die Zeitform, die eine abgeschlossene Handlung mit Bezug zur Gegenwart ausdrückt?",
+        "antworten": [
+          "perfekt"
+        ],
+        "loesung": "Das Perfekt"
+      },
+      {
+        "frage": "Wie nennt man die wörtliche Rede in Anführungszeichen?",
+        "antworten": [
+          "direkte rede",
+          "wörtliche rede"
+        ],
+        "loesung": "Die direkte Rede"
+      },
+      {
+        "frage": "Wie nennt man ein Wort, das mehrere Bedeutungen hat?",
+        "antworten": [
+          "homonym",
+          "teekesselchen"
+        ],
+        "loesung": "Ein Homonym"
+      },
+      {
+        "frage": "Wie lautet die Mehrzahl von Atlas?",
+        "antworten": [
+          "atlanten"
+        ],
+        "loesung": "Atlanten"
+      },
+      {
+        "frage": "Wie viele Zentimeter hat ein Zoll ungefähr?",
+        "antworten": [
+          "2,54",
+          "2,5"
+        ],
+        "loesung": "2,54 Zentimeter",
+        "zahlenbereich": [
+          2.4,
+          2.7
+        ]
       }
     ],
     "mittelstufe": [

@@ -266,6 +266,164 @@ JEKAMI_FRAGEN.natur = {
           "rund"
         ],
         "loesung": "Eine Kugel"
+      },
+      {
+        "frage": "Wie heißt das Gerät, mit dem man die Zeit abliest?",
+        "antworten": [
+          "uhr"
+        ],
+        "loesung": "Die Uhr"
+      },
+      {
+        "frage": "Wie heißt das Gerät, mit dem man Sterne beobachtet?",
+        "antworten": [
+          "fernrohr",
+          "teleskop"
+        ],
+        "loesung": "Ein Fernrohr"
+      },
+      {
+        "frage": "Wie heißt das Gerät, mit dem man beim Sport die Zeit stoppt?",
+        "antworten": [
+          "stoppuhr"
+        ],
+        "loesung": "Die Stoppuhr"
+      },
+      {
+        "frage": "Was passiert mit einer Kerze, wenn man ein Glas darüberstülpt?",
+        "antworten": [
+          "geht aus",
+          "erlischt",
+          "sie geht aus"
+        ],
+        "loesung": "Sie geht aus"
+      },
+      {
+        "frage": "Was passiert mit einem Luftballon, wenn man ihn an den Haaren reibt?",
+        "antworten": [
+          "er zieht haare an",
+          "elektrisch",
+          "lädt sich auf"
+        ],
+        "loesung": "Er zieht die Haare an"
+      },
+      {
+        "frage": "Wann ist der Schatten am kürzesten?",
+        "antworten": [
+          "mittags",
+          "zu mittag",
+          "am mittag"
+        ],
+        "loesung": "Mittags"
+      },
+      {
+        "frage": "Wie nennt man Wasser, wenn es zu Dampf geworden ist?",
+        "antworten": [
+          "gasförmig",
+          "gas",
+          "dampf"
+        ],
+        "loesung": "Gasförmig"
+      },
+      {
+        "frage": "Wie nennt man Wasser, das weder Eis noch Dampf ist?",
+        "antworten": [
+          "flüssig"
+        ],
+        "loesung": "Flüssig"
+      },
+      {
+        "frage": "Was schwimmt oben, wenn man Öl in Wasser gießt?",
+        "antworten": [
+          "öl",
+          "das öl"
+        ],
+        "loesung": "Das Öl"
+      },
+      {
+        "frage": "Welcher ist größer: die Erde oder der Mond?",
+        "antworten": [
+          "erde",
+          "die erde"
+        ],
+        "loesung": "Die Erde"
+      },
+      {
+        "frage": "Zieht ein Magnet Holz oder Eisen an?",
+        "antworten": [
+          "eisen"
+        ],
+        "loesung": "Eisen"
+      },
+      {
+        "frage": "Wie nennt man die winzigen Teilchen, aus denen alles besteht?",
+        "antworten": [
+          "atome",
+          "atom"
+        ],
+        "loesung": "Atome"
+      },
+      {
+        "frage": "Womit kann man verschüttetes Wasser aufsaugen?",
+        "antworten": [
+          "schwamm",
+          "lappen",
+          "tuch"
+        ],
+        "loesung": "Mit einem Schwamm"
+      },
+      {
+        "frage": "Was passiert mit Zucker, wenn man ihn in Wasser rührt?",
+        "antworten": [
+          "löst sich auf",
+          "er löst sich"
+        ],
+        "loesung": "Er löst sich auf"
+      },
+      {
+        "frage": "Wie nennt man die Kraft, mit der ein Magnet zieht?",
+        "antworten": [
+          "magnetkraft",
+          "magnetismus"
+        ],
+        "loesung": "Die Magnetkraft"
+      },
+      {
+        "frage": "Welchen Stoff aus der Luft brauchen wir zum Atmen?",
+        "antworten": [
+          "sauerstoff"
+        ],
+        "loesung": "Sauerstoff"
+      },
+      {
+        "frage": "Wie nennt man die vielen kleinen Lichter am Nachthimmel?",
+        "antworten": [
+          "sterne"
+        ],
+        "loesung": "Sterne"
+      },
+      {
+        "frage": "Wie nennt man die Jahreszeit, in der die Blätter fallen?",
+        "antworten": [
+          "herbst"
+        ],
+        "loesung": "Der Herbst"
+      },
+      {
+        "frage": "Was braucht eine Pflanze außer Licht und Wasser noch?",
+        "antworten": [
+          "erde",
+          "luft",
+          "nährstoffe"
+        ],
+        "loesung": "Erde und Luft"
+      },
+      {
+        "frage": "Wie nennt man die dunkle Stelle hinter einem Gegenstand im Licht?",
+        "antworten": [
+          "schatten"
+        ],
+        "loesung": "Der Schatten"
       }
     ],
     "unterstufe": [
@@ -503,6 +661,168 @@ JEKAMI_FRAGEN.natur = {
           "orbit"
         ],
         "loesung": "Die Umlaufbahn"
+      },
+      {
+        "frage": "Wie heißt der Übergang von flüssig zu fest?",
+        "antworten": [
+          "erstarren",
+          "gefrieren"
+        ],
+        "loesung": "Das Erstarren"
+      },
+      {
+        "frage": "Wie nennt man Stoffe, die sich in Wasser auflösen?",
+        "antworten": [
+          "löslich",
+          "lösliche stoffe"
+        ],
+        "loesung": "Lösliche Stoffe"
+      },
+      {
+        "frage": "Welches chemische Zeichen hat Stickstoff?",
+        "antworten": [
+          "n"
+        ],
+        "loesung": "N"
+      },
+      {
+        "frage": "Welches chemische Zeichen hat Eisen?",
+        "antworten": [
+          "fe"
+        ],
+        "loesung": "Fe"
+      },
+      {
+        "frage": "Welches Gas ist in der Luft am häufigsten?",
+        "antworten": [
+          "stickstoff"
+        ],
+        "loesung": "Stickstoff"
+      },
+      {
+        "frage": "Wie viel Prozent der Luft sind ungefähr Sauerstoff?",
+        "antworten": [
+          "21",
+          "21 prozent",
+          "20"
+        ],
+        "loesung": "Rund 21 Prozent",
+        "zahlenbereich": [
+          19,
+          23
+        ]
+      },
+      {
+        "frage": "Wie nennt man den Druck, den die Luft ausübt?",
+        "antworten": [
+          "luftdruck"
+        ],
+        "loesung": "Der Luftdruck"
+      },
+      {
+        "frage": "Womit misst man den Luftdruck?",
+        "antworten": [
+          "barometer"
+        ],
+        "loesung": "Mit einem Barometer"
+      },
+      {
+        "frage": "Wie heißt die Einheit der Zeit im internationalen System?",
+        "antworten": [
+          "sekunde"
+        ],
+        "loesung": "Die Sekunde"
+      },
+      {
+        "frage": "Wie heißt die Einheit der Länge im internationalen System?",
+        "antworten": [
+          "meter"
+        ],
+        "loesung": "Das Meter"
+      },
+      {
+        "frage": "Wie nennt man eine Linse, die Lichtstrahlen bündelt?",
+        "antworten": [
+          "sammellinse",
+          "konvexlinse"
+        ],
+        "loesung": "Eine Sammellinse"
+      },
+      {
+        "frage": "Wie heißt der Punkt, in dem gebündeltes Licht zusammentrifft?",
+        "antworten": [
+          "brennpunkt",
+          "fokus"
+        ],
+        "loesung": "Der Brennpunkt"
+      },
+      {
+        "frage": "Wie nennt man den vollständig dunklen Teil eines Schattens?",
+        "antworten": [
+          "kernschatten"
+        ],
+        "loesung": "Der Kernschatten"
+      },
+      {
+        "frage": "Was geschieht bei einer Sonnenfinsternis?",
+        "antworten": [
+          "mond schiebt sich vor die sonne",
+          "der mond"
+        ],
+        "loesung": "Der Mond schiebt sich vor die Sonne"
+      },
+      {
+        "frage": "Was geschieht bei einer Mondfinsternis?",
+        "antworten": [
+          "erde wirft schatten",
+          "erdschatten",
+          "die erde"
+        ],
+        "loesung": "Die Erde wirft ihren Schatten auf den Mond"
+      },
+      {
+        "frage": "Wie lange braucht die Erde für einen Umlauf um die Sonne?",
+        "antworten": [
+          "ein jahr",
+          "365 tage",
+          "1 jahr"
+        ],
+        "loesung": "Ein Jahr"
+      },
+      {
+        "frage": "Wie viele Monde hat der Mars?",
+        "antworten": [
+          "2",
+          "zwei"
+        ],
+        "loesung": "2",
+        "zahlenbereich": [
+          2,
+          2
+        ]
+      },
+      {
+        "frage": "Welcher Stern zeigt die Nordrichtung an?",
+        "antworten": [
+          "polarstern"
+        ],
+        "loesung": "Der Polarstern"
+      },
+      {
+        "frage": "Wie nennt man einen riesigen Zusammenschluss von Sternen?",
+        "antworten": [
+          "galaxie"
+        ],
+        "loesung": "Eine Galaxie"
+      },
+      {
+        "frage": "Wie nennt man ein Bauteil, das elektrische Energie speichert?",
+        "antworten": [
+          "batterie",
+          "akku",
+          "akkumulator"
+        ],
+        "loesung": "Eine Batterie"
       }
     ],
     "mittelstufe": [

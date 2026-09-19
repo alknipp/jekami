@@ -243,6 +243,167 @@ JEKAMI_FRAGEN.unterhaltung = {
         "frage": "Schätzfrage: Wie lange dauert ein Kinofilm für Kinder ungefähr?",
         "schaetzfrage": true,
         "loesung": "rund 90 Minuten"
+      },
+      {
+        "frage": "Wer weckt Dornröschen aus dem Schlaf?",
+        "antworten": [
+          "prinz",
+          "ein prinz",
+          "kuss"
+        ],
+        "loesung": "Ein Prinz"
+      },
+      {
+        "frage": "Wie lange schläft Dornröschen?",
+        "antworten": [
+          "100",
+          "hundert",
+          "hundert jahre"
+        ],
+        "loesung": "100 Jahre",
+        "zahlenbereich": [
+          100,
+          100
+        ]
+      },
+      {
+        "frage": "In welchem Märchen steht ein Haus aus Lebkuchen im Wald?",
+        "antworten": [
+          "hänsel und gretel",
+          "hänsel gretel"
+        ],
+        "loesung": "Hänsel und Gretel"
+      },
+      {
+        "frage": "Wer wohnt in dem Lebkuchenhaus?",
+        "antworten": [
+          "hexe",
+          "eine hexe"
+        ],
+        "loesung": "Eine Hexe"
+      },
+      {
+        "frage": "In welchem Märchen fressen sich sieben kleine Ziegen vor einem Wolf?",
+        "antworten": [
+          "wolf und die sieben geißlein",
+          "sieben geißlein",
+          "geißlein"
+        ],
+        "loesung": "Der Wolf und die sieben Geißlein"
+      },
+      {
+        "frage": "In welchem Märchen wird Stroh zu Gold gesponnen?",
+        "antworten": [
+          "rumpelstilzchen"
+        ],
+        "loesung": "Rumpelstilzchen"
+      },
+      {
+        "frage": "In welchem Märchen wird ein Frosch zum Prinzen?",
+        "antworten": [
+          "froschkönig",
+          "der froschkönig"
+        ],
+        "loesung": "Der Froschkönig"
+      },
+      {
+        "frage": "Wie viele Wünsche hat man bei einer Wunderlampe im Märchen?",
+        "antworten": [
+          "3",
+          "drei"
+        ],
+        "loesung": "3",
+        "zahlenbereich": [
+          3,
+          3
+        ]
+      },
+      {
+        "frage": "Welches Tier ist Käpt'n Blaubär?",
+        "antworten": [
+          "bär",
+          "blaubär"
+        ],
+        "loesung": "Ein Bär"
+      },
+      {
+        "frage": "Welches Tier ist Paddington?",
+        "antworten": [
+          "bär"
+        ],
+        "loesung": "Ein Bär"
+      },
+      {
+        "frage": "Wie heißt das Buch von Michael Ende über einen Lokführer und einen Jungen?",
+        "antworten": [
+          "jim knopf"
+        ],
+        "loesung": "Jim Knopf"
+      },
+      {
+        "frage": "Wie heißt die Lokomotive von Jim Knopf?",
+        "antworten": [
+          "emma"
+        ],
+        "loesung": "Emma"
+      },
+      {
+        "frage": "Welches Tier ist die Hauptfigur in der kleinen Raupe Nimmersatt?",
+        "antworten": [
+          "raupe"
+        ],
+        "loesung": "Eine Raupe"
+      },
+      {
+        "frage": "Wie heißt die Zeichentrickserie über eine kleine Biene?",
+        "antworten": [
+          "biene maja",
+          "maja"
+        ],
+        "loesung": "Biene Maja"
+      },
+      {
+        "frage": "Wie heißt der beste Freund der Biene Maja?",
+        "antworten": [
+          "willi"
+        ],
+        "loesung": "Willi"
+      },
+      {
+        "frage": "Wie nennt man ein Buch mit vielen Bildern und wenig Text?",
+        "antworten": [
+          "bilderbuch"
+        ],
+        "loesung": "Ein Bilderbuch"
+      },
+      {
+        "frage": "Wie heißt das Spiel, bei dem man verdeckte Karten aufdeckt und Paare sucht?",
+        "antworten": [
+          "memory"
+        ],
+        "loesung": "Memory"
+      },
+      {
+        "frage": "Wie heißt das Spiel, bei dem man aus Buchstaben Wörter legt?",
+        "antworten": [
+          "scrabble"
+        ],
+        "loesung": "Scrabble"
+      },
+      {
+        "frage": "Wie nennt man eine Vorstellung mit Clowns und Artisten im Zelt?",
+        "antworten": [
+          "zirkus"
+        ],
+        "loesung": "Der Zirkus"
+      },
+      {
+        "frage": "Wie nennt man Puppen, die an Fäden bewegt werden?",
+        "antworten": [
+          "marionetten",
+          "marionette"
+        ],
+        "loesung": "Marionetten"
       }
     ],
     "unterstufe": [
@@ -475,6 +636,155 @@ JEKAMI_FRAGEN.unterhaltung = {
         "frage": "Schätzfrage: Wie viele Asterix-Bände sind bisher erschienen?",
         "schaetzfrage": true,
         "loesung": "rund 40"
+      },
+      {
+        "frage": "Wie heißt der Schulleiter von Hogwarts?",
+        "antworten": [
+          "dumbledore",
+          "albus dumbledore"
+        ],
+        "loesung": "Albus Dumbledore"
+      },
+      {
+        "frage": "Wie heißt die Eule von Harry Potter?",
+        "antworten": [
+          "hedwig"
+        ],
+        "loesung": "Hedwig"
+      },
+      {
+        "frage": "Wie heißt der Sport, der bei Harry Potter auf Besen gespielt wird?",
+        "antworten": [
+          "quidditch"
+        ],
+        "loesung": "Quidditch"
+      },
+      {
+        "frage": "Wer schrieb den Roman Der Hobbit?",
+        "antworten": [
+          "tolkien",
+          "j r r tolkien"
+        ],
+        "loesung": "J. R. R. Tolkien"
+      },
+      {
+        "frage": "Wie heißt der Hobbit, der den Ring nach Mordor bringt?",
+        "antworten": [
+          "frodo",
+          "frodo beutlin"
+        ],
+        "loesung": "Frodo Beutlin"
+      },
+      {
+        "frage": "Wie heißt die Prinzessin in den Super-Mario-Spielen?",
+        "antworten": [
+          "peach",
+          "prinzessin peach"
+        ],
+        "loesung": "Prinzessin Peach"
+      },
+      {
+        "frage": "Wie heißt Marios größter Gegenspieler?",
+        "antworten": [
+          "bowser"
+        ],
+        "loesung": "Bowser"
+      },
+      {
+        "frage": "Wie heißt die Spielkonsole von Sony?",
+        "antworten": [
+          "playstation"
+        ],
+        "loesung": "Die PlayStation"
+      },
+      {
+        "frage": "Wie heißt die Spielkonsole von Microsoft?",
+        "antworten": [
+          "xbox"
+        ],
+        "loesung": "Die Xbox"
+      },
+      {
+        "frage": "In welchem Spiel füllt man mit fallenden Klötzen Reihen aus?",
+        "antworten": [
+          "tetris"
+        ],
+        "loesung": "Tetris"
+      },
+      {
+        "frage": "Wie heißt der Held der Legend-of-Zelda-Spiele?",
+        "antworten": [
+          "link"
+        ],
+        "loesung": "Link"
+      },
+      {
+        "frage": "Wie heißt der Superheld, der vom Planeten Krypton stammt?",
+        "antworten": [
+          "superman"
+        ],
+        "loesung": "Superman"
+      },
+      {
+        "frage": "Wer zeichnete die Asterix-Bände?",
+        "antworten": [
+          "uderzo",
+          "albert uderzo"
+        ],
+        "loesung": "Albert Uderzo"
+      },
+      {
+        "frage": "Wer schrieb die Texte der Asterix-Bände?",
+        "antworten": [
+          "goscinny",
+          "rene goscinny"
+        ],
+        "loesung": "René Goscinny"
+      },
+      {
+        "frage": "Wie heißt der belgische Comicreporter mit dem weißen Hund?",
+        "antworten": [
+          "tim",
+          "tintin"
+        ],
+        "loesung": "Tim"
+      },
+      {
+        "frage": "Wie heißt der Hund von Tim?",
+        "antworten": [
+          "struppi",
+          "struppy"
+        ],
+        "loesung": "Struppi"
+      },
+      {
+        "frage": "Wie heißt die Buchreihe von Cornelia Funke über einen Jungen, der Figuren aus Büchern liest?",
+        "antworten": [
+          "tintenherz"
+        ],
+        "loesung": "Tintenherz"
+      },
+      {
+        "frage": "Wie heißt die Buchreihe über einen Halbgott und die griechischen Sagen?",
+        "antworten": [
+          "percy jackson"
+        ],
+        "loesung": "Percy Jackson"
+      },
+      {
+        "frage": "Wie heißt der Ghibli-Film über ein Mädchen in einer Geisterwelt?",
+        "antworten": [
+          "chihiro",
+          "chihiros reise ins zauberland"
+        ],
+        "loesung": "Chihiros Reise ins Zauberland"
+      },
+      {
+        "frage": "Wie heißt das Kartenspiel, bei dem man bei der vorletzten Karte etwas ruft?",
+        "antworten": [
+          "uno"
+        ],
+        "loesung": "UNO"
       }
     ],
     "mittelstufe": [

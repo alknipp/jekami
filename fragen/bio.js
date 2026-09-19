@@ -267,6 +267,165 @@ JEKAMI_FRAGEN.bio = {
         "frage": "Schätzfrage: Wie viele Knochen hat ein Mensch ungefähr?",
         "schaetzfrage": true,
         "loesung": "rund 200 Knochen"
+      },
+      {
+        "frage": "Wie heißt das Junge vom Schwein?",
+        "antworten": [
+          "ferkel"
+        ],
+        "loesung": "Ein Ferkel"
+      },
+      {
+        "frage": "Wie heißt das Junge von der Ziege?",
+        "antworten": [
+          "zicklein",
+          "kitz"
+        ],
+        "loesung": "Ein Zicklein"
+      },
+      {
+        "frage": "Welcher Vogel legt die größten Eier?",
+        "antworten": [
+          "strauß",
+          "vogel strauß"
+        ],
+        "loesung": "Der Strauß"
+      },
+      {
+        "frage": "Wie nennt man Tiere, die ihre Jungen mit Milch säugen?",
+        "antworten": [
+          "säugetiere",
+          "säugetier"
+        ],
+        "loesung": "Säugetiere"
+      },
+      {
+        "frage": "Welches Tier kann seinen Schwanz abwerfen und neu wachsen lassen?",
+        "antworten": [
+          "eidechse"
+        ],
+        "loesung": "Die Eidechse"
+      },
+      {
+        "frage": "Wie heißt das Zuhause eines Bienenvolks?",
+        "antworten": [
+          "bienenstock",
+          "stock"
+        ],
+        "loesung": "Der Bienenstock"
+      },
+      {
+        "frage": "Wie nennt man das Zuhause, das ein Vogel für seine Eier baut?",
+        "antworten": [
+          "nest"
+        ],
+        "loesung": "Ein Nest"
+      },
+      {
+        "frage": "Welches Tier baut Dämme aus Ästen?",
+        "antworten": [
+          "biber"
+        ],
+        "loesung": "Der Biber"
+      },
+      {
+        "frage": "Welches Meerestier hat acht Arme?",
+        "antworten": [
+          "krake",
+          "oktopus",
+          "tintenfisch"
+        ],
+        "loesung": "Der Krake"
+      },
+      {
+        "frage": "Welcher Baum bleibt auch im Winter grün?",
+        "antworten": [
+          "tanne",
+          "fichte",
+          "nadelbaum",
+          "kiefer"
+        ],
+        "loesung": "Die Tanne"
+      },
+      {
+        "frage": "Was machen viele Vögel im Herbst?",
+        "antworten": [
+          "in den süden fliegen",
+          "wegfliegen",
+          "ziehen"
+        ],
+        "loesung": "Sie fliegen in den Süden"
+      },
+      {
+        "frage": "Welcher Vogel kann seinen Kopf fast ganz herumdrehen?",
+        "antworten": [
+          "eule"
+        ],
+        "loesung": "Die Eule"
+      },
+      {
+        "frage": "Wie nennt man die spitzen Haare eines Igels?",
+        "antworten": [
+          "stacheln"
+        ],
+        "loesung": "Stacheln"
+      },
+      {
+        "frage": "Wovon ernährt sich ein Marienkäfer?",
+        "antworten": [
+          "blattläuse",
+          "läuse"
+        ],
+        "loesung": "Von Blattläusen"
+      },
+      {
+        "frage": "Wie viele Punkte hat der häufigste Marienkäfer?",
+        "antworten": [
+          "7",
+          "sieben"
+        ],
+        "loesung": "7",
+        "zahlenbereich": [
+          7,
+          7
+        ]
+      },
+      {
+        "frage": "Wie heißt der Teil der Pflanze, der die Blüte trägt?",
+        "antworten": [
+          "stängel",
+          "stiel"
+        ],
+        "loesung": "Der Stängel"
+      },
+      {
+        "frage": "Was wird aus einer Blüte, nachdem die Biene sie bestäubt hat?",
+        "antworten": [
+          "frucht",
+          "früchte"
+        ],
+        "loesung": "Eine Frucht"
+      },
+      {
+        "frage": "Welches Tier wechselt seine Farbe, um sich zu tarnen?",
+        "antworten": [
+          "chamäleon"
+        ],
+        "loesung": "Das Chamäleon"
+      },
+      {
+        "frage": "Womit riecht ein Hund besonders gut?",
+        "antworten": [
+          "nase"
+        ],
+        "loesung": "Mit der Nase"
+      },
+      {
+        "frage": "Wie nennt man Tiere, die Fleisch fressen?",
+        "antworten": [
+          "fleischfresser"
+        ],
+        "loesung": "Fleischfresser"
       }
     ],
     "unterstufe": [
@@ -520,6 +679,168 @@ JEKAMI_FRAGEN.bio = {
         "frage": "Schätzfrage: Wie viele Muskeln hat der menschliche Körper ungefähr?",
         "schaetzfrage": true,
         "loesung": "über 600"
+      },
+      {
+        "frage": "Wie heißen die weiblichen Keimzellen?",
+        "antworten": [
+          "eizellen",
+          "eizelle"
+        ],
+        "loesung": "Eizellen"
+      },
+      {
+        "frage": "Wie viele Zähne hat das Milchgebiss eines Kindes?",
+        "antworten": [
+          "20",
+          "zwanzig"
+        ],
+        "loesung": "20",
+        "zahlenbereich": [
+          20,
+          20
+        ]
+      },
+      {
+        "frage": "Wie heißt der längste Knochen des Menschen?",
+        "antworten": [
+          "oberschenkelknochen",
+          "oberschenkel"
+        ],
+        "loesung": "Der Oberschenkelknochen"
+      },
+      {
+        "frage": "Welches Organ entgiftet das Blut und bildet die Galle?",
+        "antworten": [
+          "leber"
+        ],
+        "loesung": "Die Leber"
+      },
+      {
+        "frage": "Wie heißt der Muskel unter der Lunge, der beim Atmen hilft?",
+        "antworten": [
+          "zwerchfell"
+        ],
+        "loesung": "Das Zwerchfell"
+      },
+      {
+        "frage": "Wie heißt der Blutkreislauf, der den ganzen Körper versorgt?",
+        "antworten": [
+          "körperkreislauf",
+          "großer kreislauf"
+        ],
+        "loesung": "Der Körperkreislauf"
+      },
+      {
+        "frage": "Wie nennt man Tiere ohne Wirbelsäule?",
+        "antworten": [
+          "wirbellose",
+          "wirbellose tiere"
+        ],
+        "loesung": "Wirbellose Tiere"
+      },
+      {
+        "frage": "Wie heißt die Tiergruppe mit Federn?",
+        "antworten": [
+          "vögel"
+        ],
+        "loesung": "Die Vögel"
+      },
+      {
+        "frage": "Wie nennt man Tiere, deren Körpertemperatur von der Umgebung abhängt?",
+        "antworten": [
+          "wechselwarm",
+          "wechselwarme tiere",
+          "poikilotherm"
+        ],
+        "loesung": "Wechselwarme Tiere"
+      },
+      {
+        "frage": "Wie nennt man die Fressbeziehungen in einem Lebensraum?",
+        "antworten": [
+          "nahrungskette",
+          "nahrungsnetz"
+        ],
+        "loesung": "Die Nahrungskette"
+      },
+      {
+        "frage": "Was steht am Anfang jeder Nahrungskette?",
+        "antworten": [
+          "pflanzen",
+          "produzenten"
+        ],
+        "loesung": "Pflanzen"
+      },
+      {
+        "frage": "Wie vermehren sich Farne und Moose?",
+        "antworten": [
+          "sporen",
+          "durch sporen"
+        ],
+        "loesung": "Durch Sporen"
+      },
+      {
+        "frage": "Wie nennt man Bäume, die im Herbst ihre Blätter abwerfen?",
+        "antworten": [
+          "laubbäume",
+          "laubbaum"
+        ],
+        "loesung": "Laubbäume"
+      },
+      {
+        "frage": "Wie nennt man Bäume mit Nadeln statt Blättern?",
+        "antworten": [
+          "nadelbäume",
+          "nadelbaum"
+        ],
+        "loesung": "Nadelbäume"
+      },
+      {
+        "frage": "Welches Pflanzenorgan nimmt Wasser aus dem Boden auf?",
+        "antworten": [
+          "wurzel",
+          "wurzeln"
+        ],
+        "loesung": "Die Wurzel"
+      },
+      {
+        "frage": "Wie heißt der Vorgang, bei dem Pflanzen über die Blätter Wasser abgeben?",
+        "antworten": [
+          "transpiration",
+          "verdunstung"
+        ],
+        "loesung": "Die Transpiration"
+      },
+      {
+        "frage": "Wie nennt man eine Art, der das Aussterben droht?",
+        "antworten": [
+          "bedrohte art",
+          "gefährdete art",
+          "vom aussterben bedroht"
+        ],
+        "loesung": "Eine bedrohte Art"
+      },
+      {
+        "frage": "Wie nennt man die Muskeln, die wir bewusst steuern können?",
+        "antworten": [
+          "skelettmuskeln",
+          "willkürliche muskulatur"
+        ],
+        "loesung": "Die Skelettmuskeln"
+      },
+      {
+        "frage": "Wie heißt die Gruppe der Tiere mit Fell, die lebende Junge gebären?",
+        "antworten": [
+          "säugetiere"
+        ],
+        "loesung": "Die Säugetiere"
+      },
+      {
+        "frage": "Wie nennt man Pflanzen, die Blüten und Samen bilden?",
+        "antworten": [
+          "blütenpflanzen",
+          "samenpflanzen"
+        ],
+        "loesung": "Blütenpflanzen"
       }
     ],
     "mittelstufe": [

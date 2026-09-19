@@ -224,6 +224,153 @@ JEKAMI_FRAGEN.geografie = {
         "frage": "Schätzfrage: Wie viele Menschen leben in Deutschland?",
         "schaetzfrage": true,
         "loesung": "rund 84 Millionen"
+      },
+      {
+        "frage": "Auf welchem Erdteil leben Löwen und Elefanten in freier Wildbahn?",
+        "antworten": [
+          "afrika"
+        ],
+        "loesung": "In Afrika"
+      },
+      {
+        "frage": "In welchem Land steht die Freiheitsstatue?",
+        "antworten": [
+          "usa",
+          "amerika",
+          "vereinigte staaten"
+        ],
+        "loesung": "In den USA"
+      },
+      {
+        "frage": "In welchem Land leben Kängurus?",
+        "antworten": [
+          "australien"
+        ],
+        "loesung": "In Australien"
+      },
+      {
+        "frage": "In welchem Land steht die Chinesische Mauer?",
+        "antworten": [
+          "china"
+        ],
+        "loesung": "In China"
+      },
+      {
+        "frage": "In welchem Land wurden Pizza und Spaghetti erfunden?",
+        "antworten": [
+          "italien"
+        ],
+        "loesung": "In Italien"
+      },
+      {
+        "frage": "Welches Land ist für Tulpen und Windmühlen bekannt?",
+        "antworten": [
+          "niederlande",
+          "holland"
+        ],
+        "loesung": "Die Niederlande"
+      },
+      {
+        "frage": "Welche Stadt hat einen berühmten schiefen Turm?",
+        "antworten": [
+          "pisa"
+        ],
+        "loesung": "Pisa"
+      },
+      {
+        "frage": "Welcher Fluss fließt durch Paris?",
+        "antworten": [
+          "seine"
+        ],
+        "loesung": "Die Seine"
+      },
+      {
+        "frage": "Welches Meer liegt zwischen Deutschland und Schweden?",
+        "antworten": [
+          "ostsee"
+        ],
+        "loesung": "Die Ostsee"
+      },
+      {
+        "frage": "Welche Farbe hat die Flagge der Schweiz?",
+        "antworten": [
+          "rot",
+          "rot mit weißem kreuz"
+        ],
+        "loesung": "Rot mit weißem Kreuz"
+      },
+      {
+        "frage": "Wie nennt man den Ort, an dem Schiffe anlegen?",
+        "antworten": [
+          "hafen"
+        ],
+        "loesung": "Ein Hafen"
+      },
+      {
+        "frage": "In welcher deutschen Stadt ist der größte Hafen?",
+        "antworten": [
+          "hamburg"
+        ],
+        "loesung": "In Hamburg"
+      },
+      {
+        "frage": "Wie nennt man die Stelle, an der ein Fluss ins Meer fließt?",
+        "antworten": [
+          "mündung"
+        ],
+        "loesung": "Die Mündung"
+      },
+      {
+        "frage": "Wie nennt man den Anfang eines Flusses?",
+        "antworten": [
+          "quelle"
+        ],
+        "loesung": "Die Quelle"
+      },
+      {
+        "frage": "Wie nennt man das Eis, das auf hohen Bergen liegt und langsam fließt?",
+        "antworten": [
+          "gletscher"
+        ],
+        "loesung": "Ein Gletscher"
+      },
+      {
+        "frage": "Wie heißt der längste Fluss Afrikas?",
+        "antworten": [
+          "nil"
+        ],
+        "loesung": "Der Nil"
+      },
+      {
+        "frage": "Auf welchem Erdteil leben Pinguine?",
+        "antworten": [
+          "antarktis",
+          "südpol"
+        ],
+        "loesung": "In der Antarktis"
+      },
+      {
+        "frage": "Wie nennt man Menschen, die in der Wüste mit Zelten umherziehen?",
+        "antworten": [
+          "nomaden"
+        ],
+        "loesung": "Nomaden"
+      },
+      {
+        "frage": "Wie nennt man eine Karte, auf der alle Straßen eingezeichnet sind?",
+        "antworten": [
+          "straßenkarte",
+          "landkarte"
+        ],
+        "loesung": "Eine Straßenkarte"
+      },
+      {
+        "frage": "Wie nennt man ein Gebiet, in dem es das ganze Jahr sehr warm ist?",
+        "antworten": [
+          "tropen",
+          "tropisch"
+        ],
+        "loesung": "Die Tropen"
       }
     ],
     "unterstufe": [
@@ -446,6 +593,153 @@ JEKAMI_FRAGEN.geografie = {
         "frage": "Schätzfrage: Wie viele Menschen leben auf der Erde?",
         "schaetzfrage": true,
         "loesung": "rund 8 Milliarden"
+      },
+      {
+        "frage": "Wie heißt die Hauptstadt von Belgien?",
+        "antworten": [
+          "brüssel"
+        ],
+        "loesung": "Brüssel"
+      },
+      {
+        "frage": "Wie heißt die Hauptstadt von Dänemark?",
+        "antworten": [
+          "kopenhagen"
+        ],
+        "loesung": "Kopenhagen"
+      },
+      {
+        "frage": "Wie heißt die Hauptstadt von Schweden?",
+        "antworten": [
+          "stockholm"
+        ],
+        "loesung": "Stockholm"
+      },
+      {
+        "frage": "Wie heißt die Hauptstadt von Griechenland?",
+        "antworten": [
+          "athen"
+        ],
+        "loesung": "Athen"
+      },
+      {
+        "frage": "Wie heißt die Hauptstadt von Russland?",
+        "antworten": [
+          "moskau"
+        ],
+        "loesung": "Moskau"
+      },
+      {
+        "frage": "Wie heißt die Hauptstadt von China?",
+        "antworten": [
+          "peking",
+          "beijing"
+        ],
+        "loesung": "Peking"
+      },
+      {
+        "frage": "Wie heißt die Hauptstadt von Bayern?",
+        "antworten": [
+          "münchen"
+        ],
+        "loesung": "München"
+      },
+      {
+        "frage": "Wie heißt die Hauptstadt von Nordrhein-Westfalen?",
+        "antworten": [
+          "düsseldorf"
+        ],
+        "loesung": "Düsseldorf"
+      },
+      {
+        "frage": "Nenne ein Bundesland, das zugleich eine Stadt ist.",
+        "antworten": [
+          "berlin",
+          "hamburg",
+          "bremen"
+        ],
+        "loesung": "Berlin, Hamburg oder Bremen"
+      },
+      {
+        "frage": "Welcher Fluss fließt durch Frankfurt?",
+        "antworten": [
+          "main"
+        ],
+        "loesung": "Der Main"
+      },
+      {
+        "frage": "Welcher Fluss fließt durch Dresden?",
+        "antworten": [
+          "elbe"
+        ],
+        "loesung": "Die Elbe"
+      },
+      {
+        "frage": "Welches Mittelgebirge in Baden-Württemberg ist für Kuckucksuhren bekannt?",
+        "antworten": [
+          "schwarzwald"
+        ],
+        "loesung": "Der Schwarzwald"
+      },
+      {
+        "frage": "Wie heißt die größte deutsche Insel?",
+        "antworten": [
+          "rügen"
+        ],
+        "loesung": "Rügen"
+      },
+      {
+        "frage": "Wie heißt der zweitgrößte Ozean der Erde?",
+        "antworten": [
+          "atlantik",
+          "atlantischer ozean"
+        ],
+        "loesung": "Der Atlantik"
+      },
+      {
+        "frage": "Wie heißt die große Wüste in der Mongolei und in China?",
+        "antworten": [
+          "gobi"
+        ],
+        "loesung": "Die Gobi"
+      },
+      {
+        "frage": "Auf welchem Kontinent liegt Brasilien?",
+        "antworten": [
+          "südamerika"
+        ],
+        "loesung": "In Südamerika"
+      },
+      {
+        "frage": "Wie heißt der größte Regenwald der Erde?",
+        "antworten": [
+          "amazonas",
+          "amazonas regenwald",
+          "amazonien"
+        ],
+        "loesung": "Der Amazonas-Regenwald"
+      },
+      {
+        "frage": "Wie heißt der Breitenkreis, ab dem die Sonne im Sommer nicht untergeht?",
+        "antworten": [
+          "polarkreis",
+          "nördlicher polarkreis"
+        ],
+        "loesung": "Der Polarkreis"
+      },
+      {
+        "frage": "Wie heißt der höchste Berg Österreichs?",
+        "antworten": [
+          "großglockner"
+        ],
+        "loesung": "Der Großglockner"
+      },
+      {
+        "frage": "Welcher südostasiatische Staat besteht aus über 17000 Inseln?",
+        "antworten": [
+          "indonesien"
+        ],
+        "loesung": "Indonesien"
       }
     ],
     "mittelstufe": [
