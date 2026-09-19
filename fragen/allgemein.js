@@ -191,6 +191,112 @@ JEKAMI_FRAGEN.allgemein = {
         "frage": "Schätzfrage: Wie viele Seiten hat ein normales Schulheft mit 16 Blatt?",
         "schaetzfrage": true,
         "loesung": "32 Seiten"
+      },
+      {
+        "frage": "Wie viele Minuten hat eine Stunde?",
+        "antworten": [
+          "60",
+          "sechzig"
+        ],
+        "loesung": "60",
+        "zahlenbereich": [
+          60,
+          60
+        ]
+      },
+      {
+        "frage": "Wie viele Stunden hat ein Tag?",
+        "antworten": [
+          "24",
+          "vierundzwanzig"
+        ],
+        "loesung": "24",
+        "zahlenbereich": [
+          24,
+          24
+        ]
+      },
+      {
+        "frage": "Wie viele Monate hat ein Jahr?",
+        "antworten": [
+          "12",
+          "zwölf"
+        ],
+        "loesung": "12",
+        "zahlenbereich": [
+          12,
+          12
+        ]
+      },
+      {
+        "frage": "Welcher Monat kommt nach dem März?",
+        "antworten": [
+          "april"
+        ],
+        "loesung": "Der April"
+      },
+      {
+        "frage": "Wie heißt der erste Tag der Arbeitswoche?",
+        "antworten": [
+          "montag"
+        ],
+        "loesung": "Der Montag"
+      },
+      {
+        "frage": "Was ist die Hälfte von zwanzig?",
+        "antworten": [
+          "10",
+          "zehn"
+        ],
+        "loesung": "10",
+        "zahlenbereich": [
+          10,
+          10
+        ]
+      },
+      {
+        "frage": "Wie viele Finger hat ein Mensch an beiden Händen zusammen?",
+        "antworten": [
+          "10",
+          "zehn"
+        ],
+        "loesung": "10",
+        "zahlenbereich": [
+          10,
+          10
+        ]
+      },
+      {
+        "frage": "Wie viele Cent sind ein Euro?",
+        "antworten": [
+          "100",
+          "hundert"
+        ],
+        "loesung": "100",
+        "zahlenbereich": [
+          100,
+          100
+        ]
+      },
+      {
+        "frage": "Wie viele Ecken hat ein Dreieck?",
+        "antworten": [
+          "3",
+          "drei"
+        ],
+        "loesung": "3",
+        "zahlenbereich": [
+          3,
+          3
+        ]
+      },
+      {
+        "frage": "Welche beiden Farben ergeben zusammen Grün?",
+        "antworten": [
+          "blau und gelb",
+          "gelb und blau"
+        ],
+        "loesung": "Blau und Gelb"
       }
     ],
     "unterstufe": [
@@ -366,9 +472,355 @@ JEKAMI_FRAGEN.allgemein = {
         "frage": "Schätzfrage: Wie viele Schülerinnen und Schüler sitzen in einer typischen Klasse 6 am Gymnasium?",
         "schaetzfrage": true,
         "loesung": "rund 27"
+      },
+      {
+        "frage": "Wie viele Gramm sind ein Kilogramm?",
+        "antworten": [
+          "1000",
+          "tausend"
+        ],
+        "loesung": "1000",
+        "zahlenbereich": [
+          1000,
+          1000
+        ]
+      },
+      {
+        "frage": "Wie viele Meter sind ein Kilometer?",
+        "antworten": [
+          "1000",
+          "tausend"
+        ],
+        "loesung": "1000",
+        "zahlenbereich": [
+          1000,
+          1000
+        ]
+      },
+      {
+        "frage": "Wie viele Millimeter hat ein Zentimeter?",
+        "antworten": [
+          "10",
+          "zehn"
+        ],
+        "loesung": "10",
+        "zahlenbereich": [
+          10,
+          10
+        ]
+      },
+      {
+        "frage": "Wie nennt man das Ergebnis einer Addition?",
+        "antworten": [
+          "summe"
+        ],
+        "loesung": "Die Summe"
+      },
+      {
+        "frage": "Wie nennt man das Ergebnis einer Multiplikation?",
+        "antworten": [
+          "produkt"
+        ],
+        "loesung": "Das Produkt"
+      },
+      {
+        "frage": "Wie nennt man das Ergebnis einer Division?",
+        "antworten": [
+          "quotient"
+        ],
+        "loesung": "Der Quotient"
+      },
+      {
+        "frage": "Wie groß ist die Winkelsumme in einem Dreieck?",
+        "antworten": [
+          "180"
+        ],
+        "loesung": "180 Grad",
+        "zahlenbereich": [
+          180,
+          180
+        ]
+      },
+      {
+        "frage": "Wie nennt man eine Zahl, die nur durch eins und sich selbst teilbar ist?",
+        "antworten": [
+          "primzahl"
+        ],
+        "loesung": "Eine Primzahl"
+      },
+      {
+        "frage": "Wie heißt die Zeitform, mit der man im Deutschen die Zukunft ausdrückt?",
+        "antworten": [
+          "futur"
+        ],
+        "loesung": "Das Futur"
+      },
+      {
+        "frage": "Welches Satzglied erfragt man mit Wen oder was?",
+        "antworten": [
+          "akkusativobjekt",
+          "akkusativ"
+        ],
+        "loesung": "Das Akkusativobjekt"
       }
     ],
-    "mittelstufe": [],
+    "mittelstufe": [
+      {
+        "frage": "Wie nennt man das Ergebnis einer Subtraktion?",
+        "antworten": [
+          "differenz"
+        ],
+        "loesung": "Die Differenz"
+      },
+      {
+        "frage": "Wie lautet der Satz des Pythagoras?",
+        "antworten": [
+          "a quadrat plus b quadrat gleich c quadrat",
+          "a²+b²=c²"
+        ],
+        "loesung": "a² plus b² gleich c²"
+      },
+      {
+        "frage": "Wie berechnet man den Flächeninhalt eines Kreises?",
+        "antworten": [
+          "pi mal radius zum quadrat",
+          "pi r quadrat",
+          "pi mal r hoch 2"
+        ],
+        "loesung": "Pi mal Radius zum Quadrat"
+      },
+      {
+        "frage": "Wie nennt man eine Gleichung, in der x im Quadrat vorkommt?",
+        "antworten": [
+          "quadratische gleichung"
+        ],
+        "loesung": "Eine quadratische Gleichung"
+      },
+      {
+        "frage": "Wie viel ist ein Prozent von 400?",
+        "antworten": [
+          "4",
+          "vier"
+        ],
+        "loesung": "4",
+        "zahlenbereich": [
+          4,
+          4
+        ]
+      },
+      {
+        "frage": "Wie nennt man den Durchschnitt mehrerer Zahlen mit dem Fachwort?",
+        "antworten": [
+          "mittelwert",
+          "arithmetisches mittel"
+        ],
+        "loesung": "Das arithmetische Mittel"
+      },
+      {
+        "frage": "Wie nennt man Brüche mit gleichem Nenner?",
+        "antworten": [
+          "gleichnamig"
+        ],
+        "loesung": "Gleichnamig"
+      },
+      {
+        "frage": "Wie viele Nullen hat eine Million?",
+        "antworten": [
+          "6",
+          "sechs"
+        ],
+        "loesung": "6",
+        "zahlenbereich": [
+          6,
+          6
+        ]
+      },
+      {
+        "frage": "Wie viele Nullen hat eine Milliarde?",
+        "antworten": [
+          "9",
+          "neun"
+        ],
+        "loesung": "9",
+        "zahlenbereich": [
+          9,
+          9
+        ]
+      },
+      {
+        "frage": "Wie heißt das Stilmittel, bei dem etwas mit dem Wort wie verglichen wird?",
+        "antworten": [
+          "vergleich"
+        ],
+        "loesung": "Der Vergleich"
+      },
+      {
+        "frage": "Wie heißt das Stilmittel, bei dem mehrere Wörter mit demselben Laut beginnen?",
+        "antworten": [
+          "alliteration"
+        ],
+        "loesung": "Die Alliteration"
+      },
+      {
+        "frage": "Wie nennt man eine starke Übertreibung als Stilmittel?",
+        "antworten": [
+          "hyperbel",
+          "übertreibung"
+        ],
+        "loesung": "Die Hyperbel"
+      },
+      {
+        "frage": "Wie nennt man die Erzählform, in der eine Figur von sich selbst erzählt?",
+        "antworten": [
+          "ich erzähler",
+          "ich perspektive",
+          "ichform"
+        ],
+        "loesung": "Der Ich-Erzähler"
+      },
+      {
+        "frage": "Wie nennt man die Vorsilbe eines Wortes mit dem Fachwort?",
+        "antworten": [
+          "präfix",
+          "vorsilbe"
+        ],
+        "loesung": "Das Präfix"
+      },
+      {
+        "frage": "Wie nennt man ein Wort, das aus zwei Wörtern zusammengesetzt ist?",
+        "antworten": [
+          "kompositum",
+          "zusammensetzung"
+        ],
+        "loesung": "Ein Kompositum"
+      },
+      {
+        "frage": "Wofür steht die Abkürzung z B?",
+        "antworten": [
+          "zum beispiel"
+        ],
+        "loesung": "Zum Beispiel"
+      },
+      {
+        "frage": "Wie viele Bit hat ein Byte?",
+        "antworten": [
+          "8",
+          "acht"
+        ],
+        "loesung": "8",
+        "zahlenbereich": [
+          8,
+          8
+        ]
+      },
+      {
+        "frage": "Wie heißt die kleinste Informationseinheit im Computer?",
+        "antworten": [
+          "bit"
+        ],
+        "loesung": "Das Bit"
+      },
+      {
+        "frage": "Wie heißt die Währung Großbritanniens?",
+        "antworten": [
+          "pfund",
+          "britisches pfund"
+        ],
+        "loesung": "Das Pfund"
+      },
+      {
+        "frage": "Wie heißt die Währung der Schweiz?",
+        "antworten": [
+          "franken",
+          "schweizer franken"
+        ],
+        "loesung": "Der Schweizer Franken"
+      },
+      {
+        "frage": "Wie viele Zeitzonen hat die Erde?",
+        "antworten": [
+          "24",
+          "vierundzwanzig"
+        ],
+        "loesung": "24",
+        "zahlenbereich": [
+          24,
+          24
+        ]
+      },
+      {
+        "frage": "Alle wie viele Jahre gibt es ein Schaltjahr?",
+        "antworten": [
+          "4",
+          "vier"
+        ],
+        "loesung": "Alle 4 Jahre",
+        "zahlenbereich": [
+          4,
+          4
+        ]
+      },
+      {
+        "frage": "Wie viele Tage hat der Februar in einem Schaltjahr?",
+        "antworten": [
+          "29",
+          "neunundzwanzig"
+        ],
+        "loesung": "29",
+        "zahlenbereich": [
+          29,
+          29
+        ]
+      },
+      {
+        "frage": "Aus welcher Sprache stammen die meisten medizinischen Fachbegriffe?",
+        "antworten": [
+          "latein",
+          "lateinisch"
+        ],
+        "loesung": "Aus dem Lateinischen"
+      },
+      {
+        "frage": "Welche Sprache ist die internationale Verkehrssprache der Luftfahrt?",
+        "antworten": [
+          "englisch"
+        ],
+        "loesung": "Englisch"
+      },
+      {
+        "frage": "Wie heißt die Schrift, die Blinde mit den Fingern lesen?",
+        "antworten": [
+          "blindenschrift",
+          "brailleschrift",
+          "braille"
+        ],
+        "loesung": "Die Brailleschrift"
+      },
+      {
+        "frage": "Welche römische Zahl steht für 50?",
+        "antworten": [
+          "l"
+        ],
+        "loesung": "L"
+      },
+      {
+        "frage": "Welche römische Zahl steht für 1000?",
+        "antworten": [
+          "m"
+        ],
+        "loesung": "M"
+      },
+      {
+        "frage": "Schätzfrage: Wie viele Sekunden hat ein Tag?",
+        "schaetzfrage": true,
+        "loesung": "86.400 Sekunden"
+      },
+      {
+        "frage": "Schätzfrage: Wie viele Stunden hat ein Jahr?",
+        "schaetzfrage": true,
+        "loesung": "rund 8760 Stunden"
+      }
+    ],
     "erwachsene": [
       {
         "frage": "Welche internationale Schulleistungsstudie löste 2001 in Deutschland einen Schock aus?",
@@ -530,6 +982,92 @@ JEKAMI_FRAGEN.allgemein = {
         "frage": "Schätzfrage: Wie viele Lehrkräfte arbeiten an allgemeinbildenden Schulen in Deutschland?",
         "schaetzfrage": true,
         "loesung": "rund 700.000"
+      },
+      {
+        "frage": "Wie viele Buchstaben hat das griechische Alphabet?",
+        "antworten": [
+          "24",
+          "vierundzwanzig"
+        ],
+        "loesung": "24",
+        "zahlenbereich": [
+          24,
+          24
+        ]
+      },
+      {
+        "frage": "Wofür steht die Abkürzung EU?",
+        "antworten": [
+          "europäische union"
+        ],
+        "loesung": "Europäische Union"
+      },
+      {
+        "frage": "Wie heißt die Währung Japans?",
+        "antworten": [
+          "yen"
+        ],
+        "loesung": "Der Yen"
+      },
+      {
+        "frage": "Wie nennt man die Lehre von der richtigen Rechtschreibung?",
+        "antworten": [
+          "orthografie",
+          "orthographie",
+          "rechtschreibung"
+        ],
+        "loesung": "Die Orthografie"
+      },
+      {
+        "frage": "Wie nennt man eine Aussage, die sich selbst zu widersprechen scheint?",
+        "antworten": [
+          "paradoxon",
+          "paradox"
+        ],
+        "loesung": "Ein Paradoxon"
+      },
+      {
+        "frage": "Welche Sprache ist Amtssprache im Vatikan?",
+        "antworten": [
+          "latein",
+          "lateinisch"
+        ],
+        "loesung": "Latein"
+      },
+      {
+        "frage": "Wofür steht die Abkürzung i d R?",
+        "antworten": [
+          "in der regel"
+        ],
+        "loesung": "In der Regel"
+      },
+      {
+        "frage": "Wie viele Bogenminuten hat ein Winkelgrad?",
+        "antworten": [
+          "60",
+          "sechzig"
+        ],
+        "loesung": "60",
+        "zahlenbereich": [
+          60,
+          60
+        ]
+      },
+      {
+        "frage": "Durch welchen Londoner Stadtteil verläuft der Nullmeridian?",
+        "antworten": [
+          "greenwich"
+        ],
+        "loesung": "Greenwich"
+      },
+      {
+        "frage": "Wie heißt das Rechtsgebiet, das Verträge zwischen Privatpersonen regelt?",
+        "antworten": [
+          "zivilrecht",
+          "bürgerliches recht",
+          "privatrecht"
+        ],
+        "loesung": "Das Zivilrecht"
       }
     ]
   }

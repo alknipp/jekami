@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <rect x="0" y="0" width="400" height="400" fill="#2F4F43"/>
+
+  <!-- hintere Blase: die Antwort -->
+  <path d="M 220 166 H 330 a 40 40 0 0 1 40 40 v 84 a 40 40 0 0 1 -40 40 h -12 v 36 l -40 -36 h -48 a 40 40 0 0 1 -40 -40 v -84 a 40 40 0 0 1 40 -40 z"
+        fill="#D97757"/>
+  <g transform="translate(280 248) scale(0.60) translate(-201 -191)" fill="#2F4F43">
+    <rect x="186" y="100" width="30" height="116" rx="15"/>
+    <circle cx="201" cy="262" r="21"/>
+  </g>
+
+  <!-- vordere Blase: die Frage -->
+  <path d="M 72 60 H 208 a 42 42 0 0 1 42 42 v 88 a 42 42 0 0 1 -42 42 H 148 l -62 54 v -54 h -14 a 42 42 0 0 1 -42 -42 V 102 a 42 42 0 0 1 42 -42 z"
+        fill="#F5F3E9" stroke="#2F4F43" stroke-width="16" stroke-linejoin="round"/>
+  <g transform="translate(140 146) scale(0.58) translate(-201 -204)"
+     fill="none" stroke="#2F4F43" stroke-width="46" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 145 158 C 145 106, 257 106, 257 160 C 257 204, 200 204, 200 244"/>
+  </g>
+  <g transform="translate(140 146) scale(0.58) translate(-201 -204)" fill="#2F4F43">
+    <circle cx="200" cy="302" r="24"/>
+  </g>
+</svg>

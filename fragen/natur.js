@@ -185,6 +185,87 @@ JEKAMI_FRAGEN.natur = {
         "frage": "Schätzfrage: Wie viele Minuten hat ein ganzer Tag?",
         "schaetzfrage": true,
         "loesung": "1440 Minuten"
+      },
+      {
+        "frage": "Wie nennt man Wasser in fester Form?",
+        "antworten": [
+          "eis"
+        ],
+        "loesung": "Eis"
+      },
+      {
+        "frage": "Was passiert mit Schnee, wenn die Sonne darauf scheint?",
+        "antworten": [
+          "schmilzt",
+          "es schmilzt",
+          "wird zu wasser"
+        ],
+        "loesung": "Er schmilzt"
+      },
+      {
+        "frage": "Was braucht eine Lampe, damit sie leuchtet?",
+        "antworten": [
+          "strom",
+          "elektrizität"
+        ],
+        "loesung": "Strom"
+      },
+      {
+        "frage": "Wie heißt das Gerät, dessen Nadel immer nach Norden zeigt?",
+        "antworten": [
+          "kompass"
+        ],
+        "loesung": "Ein Kompass"
+      },
+      {
+        "frage": "Welches Gas ist in Luftballons, die nach oben steigen?",
+        "antworten": [
+          "helium"
+        ],
+        "loesung": "Helium"
+      },
+      {
+        "frage": "Woraus besteht eine Wolke?",
+        "antworten": [
+          "wasser",
+          "wassertropfen",
+          "wasserdampf"
+        ],
+        "loesung": "Aus winzigen Wassertropfen"
+      },
+      {
+        "frage": "Was ist schwerer: ein Kilo Federn oder ein Kilo Steine?",
+        "antworten": [
+          "gleich",
+          "gleich schwer",
+          "beides gleich"
+        ],
+        "loesung": "Beides ist gleich schwer"
+      },
+      {
+        "frage": "Womit kann man aus Sonnenlicht Strom machen?",
+        "antworten": [
+          "solarzelle",
+          "solaranlage",
+          "photovoltaik",
+          "solar"
+        ],
+        "loesung": "Mit einer Solarzelle"
+      },
+      {
+        "frage": "Wie nennt man es, wenn die Sonne morgens am Himmel erscheint?",
+        "antworten": [
+          "sonnenaufgang"
+        ],
+        "loesung": "Sonnenaufgang"
+      },
+      {
+        "frage": "Welche Form hat ein Ball?",
+        "antworten": [
+          "kugel",
+          "rund"
+        ],
+        "loesung": "Eine Kugel"
       }
     ],
     "unterstufe": [
@@ -339,9 +420,330 @@ JEKAMI_FRAGEN.natur = {
         "frage": "Schätzfrage: Wie weit ist der Mond von der Erde entfernt?",
         "schaetzfrage": true,
         "loesung": "rund 384.400 Kilometer"
+      },
+      {
+        "frage": "Wie nennt man den Übergang von flüssig zu gasförmig?",
+        "antworten": [
+          "verdampfen",
+          "verdunsten"
+        ],
+        "loesung": "Verdampfen"
+      },
+      {
+        "frage": "Wie nennt man den Übergang von gasförmig zu flüssig?",
+        "antworten": [
+          "kondensieren",
+          "kondensation"
+        ],
+        "loesung": "Kondensieren"
+      },
+      {
+        "frage": "Wie heißt der ständige Kreislauf des Wassers auf der Erde?",
+        "antworten": [
+          "wasserkreislauf"
+        ],
+        "loesung": "Der Wasserkreislauf"
+      },
+      {
+        "frage": "Welches chemische Zeichen hat Wasserstoff?",
+        "antworten": [
+          "h"
+        ],
+        "loesung": "H"
+      },
+      {
+        "frage": "Wie heißt die in Deutschland übliche Einheit für die Temperatur?",
+        "antworten": [
+          "grad celsius",
+          "celsius"
+        ],
+        "loesung": "Grad Celsius"
+      },
+      {
+        "frage": "Wie nennt man Stoffe, die elektrischen Strom nicht leiten?",
+        "antworten": [
+          "isolatoren",
+          "nichtleiter",
+          "isolator"
+        ],
+        "loesung": "Isolatoren"
+      },
+      {
+        "frage": "Wie viele Pole hat ein Magnet?",
+        "antworten": [
+          "2",
+          "zwei"
+        ],
+        "loesung": "2",
+        "zahlenbereich": [
+          2,
+          2
+        ]
+      },
+      {
+        "frage": "Stoßen sich bei Magneten gleiche oder ungleiche Pole ab?",
+        "antworten": [
+          "gleiche",
+          "gleiche pole"
+        ],
+        "loesung": "Gleiche Pole"
+      },
+      {
+        "frage": "Wie heißt die Kraft, die einen Körper im Wasser nach oben drückt?",
+        "antworten": [
+          "auftrieb"
+        ],
+        "loesung": "Der Auftrieb"
+      },
+      {
+        "frage": "Wie nennt man die Bahn, auf der die Erde die Sonne umkreist?",
+        "antworten": [
+          "umlaufbahn",
+          "erdbahn",
+          "orbit"
+        ],
+        "loesung": "Die Umlaufbahn"
       }
     ],
-    "mittelstufe": [],
+    "mittelstufe": [
+      {
+        "frage": "Wie heißt die Einheit der Energie?",
+        "antworten": [
+          "joule"
+        ],
+        "loesung": "Das Joule"
+      },
+      {
+        "frage": "Wie berechnet man die Geschwindigkeit?",
+        "antworten": [
+          "weg durch zeit",
+          "strecke durch zeit",
+          "s durch t"
+        ],
+        "loesung": "Weg geteilt durch Zeit"
+      },
+      {
+        "frage": "Wie heißt das Gesetz, das Spannung, Stromstärke und Widerstand verbindet?",
+        "antworten": [
+          "ohmsches gesetz",
+          "ohm"
+        ],
+        "loesung": "Das ohmsche Gesetz"
+      },
+      {
+        "frage": "Wie heißt die Einheit des elektrischen Widerstands?",
+        "antworten": [
+          "ohm"
+        ],
+        "loesung": "Das Ohm"
+      },
+      {
+        "frage": "Wie heißt die Einheit der Frequenz?",
+        "antworten": [
+          "hertz"
+        ],
+        "loesung": "Das Hertz"
+      },
+      {
+        "frage": "Wie heißt die Einheit der Masse im internationalen Einheitensystem?",
+        "antworten": [
+          "kilogramm"
+        ],
+        "loesung": "Das Kilogramm"
+      },
+      {
+        "frage": "Wie viele Protonen hat ein Kohlenstoffatom?",
+        "antworten": [
+          "6",
+          "sechs"
+        ],
+        "loesung": "6",
+        "zahlenbereich": [
+          6,
+          6
+        ]
+      },
+      {
+        "frage": "Welche Teilchen bilden den Atomkern?",
+        "antworten": [
+          "protonen und neutronen",
+          "protonen",
+          "neutronen"
+        ],
+        "loesung": "Protonen und Neutronen"
+      },
+      {
+        "frage": "Welche Ladung trägt ein Elektron?",
+        "antworten": [
+          "negativ",
+          "minus"
+        ],
+        "loesung": "Eine negative Ladung"
+      },
+      {
+        "frage": "Wie heißt die geordnete Übersicht aller chemischen Elemente?",
+        "antworten": [
+          "periodensystem"
+        ],
+        "loesung": "Das Periodensystem"
+      },
+      {
+        "frage": "Wie heißt die Verbindung aus Natrium und Chlor im Alltag?",
+        "antworten": [
+          "kochsalz",
+          "salz",
+          "natriumchlorid"
+        ],
+        "loesung": "Kochsalz"
+      },
+      {
+        "frage": "Wie nennt man eine Reaktion, bei der Wärme frei wird?",
+        "antworten": [
+          "exotherm"
+        ],
+        "loesung": "Exotherm"
+      },
+      {
+        "frage": "Wie nennt man eine Reaktion, die Wärme aufnimmt?",
+        "antworten": [
+          "endotherm"
+        ],
+        "loesung": "Endotherm"
+      },
+      {
+        "frage": "In welchem Bereich liegt der pH-Wert von Säuren?",
+        "antworten": [
+          "unter 7",
+          "kleiner 7",
+          "unter sieben"
+        ],
+        "loesung": "Unter 7"
+      },
+      {
+        "frage": "Wie heißt die kleinste Einheit eines chemischen Elements?",
+        "antworten": [
+          "atom"
+        ],
+        "loesung": "Das Atom"
+      },
+      {
+        "frage": "Wie heißt der vierte Aggregatzustand mit frei beweglichen Ladungen?",
+        "antworten": [
+          "plasma"
+        ],
+        "loesung": "Das Plasma"
+      },
+      {
+        "frage": "Wie nennt man unsichtbares Licht mit mehr Energie als Violett?",
+        "antworten": [
+          "ultraviolett",
+          "uv",
+          "uv strahlung"
+        ],
+        "loesung": "Ultraviolettes Licht"
+      },
+      {
+        "frage": "Wie nennt man die Strahlung jenseits von Rot, die wir als Wärme spüren?",
+        "antworten": [
+          "infrarot"
+        ],
+        "loesung": "Infrarotstrahlung"
+      },
+      {
+        "frage": "Wie nennt man die Richtungsänderung von Licht an einer Grenzfläche?",
+        "antworten": [
+          "brechung",
+          "lichtbrechung",
+          "refraktion"
+        ],
+        "loesung": "Die Lichtbrechung"
+      },
+      {
+        "frage": "Wie nennt man das Zurückwerfen von Licht an einer Oberfläche?",
+        "antworten": [
+          "reflexion"
+        ],
+        "loesung": "Die Reflexion"
+      },
+      {
+        "frage": "Wie heißt das Weltraumteleskop, das seit 1990 die Erde umkreist?",
+        "antworten": [
+          "hubble"
+        ],
+        "loesung": "Das Hubble-Teleskop"
+      },
+      {
+        "frage": "Wie heißt die Galaxie, in der sich unser Sonnensystem befindet?",
+        "antworten": [
+          "milchstraße"
+        ],
+        "loesung": "Die Milchstraße"
+      },
+      {
+        "frage": "Wie heißt der Vorgang, bei dem schwere Atomkerne gespalten werden?",
+        "antworten": [
+          "kernspaltung"
+        ],
+        "loesung": "Die Kernspaltung"
+      },
+      {
+        "frage": "Wie heißt der Vorgang in der Sonne, bei dem leichte Kerne verschmelzen?",
+        "antworten": [
+          "kernfusion"
+        ],
+        "loesung": "Die Kernfusion"
+      },
+      {
+        "frage": "Welches Treibhausgas entsteht vor allem beim Verbrennen von Kohle, Öl und Gas?",
+        "antworten": [
+          "kohlenstoffdioxid",
+          "kohlendioxid",
+          "co2"
+        ],
+        "loesung": "Kohlenstoffdioxid"
+      },
+      {
+        "frage": "Wie nennt man Energie aus Wind, Sonne und Wasser?",
+        "antworten": [
+          "erneuerbare energie",
+          "regenerative energie",
+          "erneuerbar"
+        ],
+        "loesung": "Erneuerbare Energie"
+      },
+      {
+        "frage": "Um wie viel nimmt die Geschwindigkeit eines frei fallenden Körpers pro Sekunde zu?",
+        "antworten": [
+          "9,81",
+          "9,8",
+          "10"
+        ],
+        "loesung": "Um rund 9,81 Meter pro Sekunde",
+        "zahlenbereich": [
+          9,
+          10
+        ]
+      },
+      {
+        "frage": "Wie heißt der Fachbegriff für die Umwandlung von Licht in elektrischen Strom?",
+        "antworten": [
+          "photoeffekt",
+          "fotoeffekt",
+          "photovoltaik"
+        ],
+        "loesung": "Der photoelektrische Effekt"
+      },
+      {
+        "frage": "Schätzfrage: Wie viele chemische Elemente umfasst das Periodensystem?",
+        "schaetzfrage": true,
+        "loesung": "118 Elemente"
+      },
+      {
+        "frage": "Schätzfrage: Wie lange braucht das Sonnenlicht bis zur Erde?",
+        "schaetzfrage": true,
+        "loesung": "rund 8 Minuten"
+      }
+    ],
     "erwachsene": [
       {
         "frage": "Welches Element hat die Ordnungszahl 1?",
@@ -494,6 +896,81 @@ JEKAMI_FRAGEN.natur = {
         "frage": "Schätzfrage: Wie weit ist die Sonne von der Erde entfernt?",
         "schaetzfrage": true,
         "loesung": "rund 150 Millionen Kilometer"
+      },
+      {
+        "frage": "Wie heißt die Einheit für die Aktivität radioaktiver Stoffe?",
+        "antworten": [
+          "becquerel"
+        ],
+        "loesung": "Das Becquerel"
+      },
+      {
+        "frage": "Wie heißt die Einheit für die Strahlendosis beim Menschen?",
+        "antworten": [
+          "sievert"
+        ],
+        "loesung": "Das Sievert"
+      },
+      {
+        "frage": "Wie heißt die Einheit der elektrischen Ladung?",
+        "antworten": [
+          "coulomb"
+        ],
+        "loesung": "Das Coulomb"
+      },
+      {
+        "frage": "Welches Element hat das Symbol K?",
+        "antworten": [
+          "kalium"
+        ],
+        "loesung": "Kalium"
+      },
+      {
+        "frage": "Welches Element hat das Symbol Pb?",
+        "antworten": [
+          "blei"
+        ],
+        "loesung": "Blei"
+      },
+      {
+        "frage": "Welche Zahl gibt die Anzahl der Protonen eines Elements an?",
+        "antworten": [
+          "ordnungszahl",
+          "kernladungszahl"
+        ],
+        "loesung": "Die Ordnungszahl"
+      },
+      {
+        "frage": "Wer ordnete die Elemente erstmals nach steigender Masse zu einem System?",
+        "antworten": [
+          "mendelejew",
+          "dmitri mendelejew"
+        ],
+        "loesung": "Dmitri Mendelejew"
+      },
+      {
+        "frage": "Wie heißt das Prinzip, nach dem Ort und Impuls nicht gleichzeitig genau bestimmbar sind?",
+        "antworten": [
+          "unschärferelation",
+          "heisenberg"
+        ],
+        "loesung": "Die Unschärferelation"
+      },
+      {
+        "frage": "Wie heißt die Theorie zur Entstehung des Universums?",
+        "antworten": [
+          "urknall",
+          "urknalltheorie",
+          "big bang"
+        ],
+        "loesung": "Die Urknalltheorie"
+      },
+      {
+        "frage": "Wie nennt man Materie, die nicht leuchtet und sich nur über ihre Schwerkraft bemerkbar macht?",
+        "antworten": [
+          "dunkle materie"
+        ],
+        "loesung": "Dunkle Materie"
       }
     ]
   }

@@ -180,6 +180,93 @@ JEKAMI_FRAGEN.bio = {
         "frage": "Schätzfrage: Wie alt wird ein Hund durchschnittlich?",
         "schaetzfrage": true,
         "loesung": "rund 13 Jahre"
+      },
+      {
+        "frage": "Wie heißt das Junge von einem Pferd?",
+        "antworten": [
+          "fohlen"
+        ],
+        "loesung": "Ein Fohlen"
+      },
+      {
+        "frage": "Wie heißt das Junge von einer Kuh?",
+        "antworten": [
+          "kalb"
+        ],
+        "loesung": "Ein Kalb"
+      },
+      {
+        "frage": "Welches Tier hat einen langen Hals und frisst Blätter von hohen Bäumen?",
+        "antworten": [
+          "giraffe"
+        ],
+        "loesung": "Die Giraffe"
+      },
+      {
+        "frage": "Welches Tier trägt sein Haus auf dem Rücken?",
+        "antworten": [
+          "schnecke"
+        ],
+        "loesung": "Die Schnecke"
+      },
+      {
+        "frage": "Wie nennt man Tiere, die nachts wach sind?",
+        "antworten": [
+          "nachttiere",
+          "nachtaktiv"
+        ],
+        "loesung": "Nachtaktive Tiere"
+      },
+      {
+        "frage": "Welcher Teil einer Blume lockt die Bienen an?",
+        "antworten": [
+          "blüte",
+          "blütenblätter"
+        ],
+        "loesung": "Die Blüte"
+      },
+      {
+        "frage": "Was sammeln Bienen aus den Blüten?",
+        "antworten": [
+          "nektar",
+          "pollen"
+        ],
+        "loesung": "Nektar"
+      },
+      {
+        "frage": "Wie heißt der Baum, an dem Eicheln wachsen?",
+        "antworten": [
+          "eiche"
+        ],
+        "loesung": "Die Eiche"
+      },
+      {
+        "frage": "Welche Farbe haben die Blätter im Herbst?",
+        "antworten": [
+          "bunt",
+          "gelb",
+          "rot",
+          "braun",
+          "orange"
+        ],
+        "loesung": "Bunt, zum Beispiel gelb und rot"
+      },
+      {
+        "frage": "Wie viele Flügel hat ein Schmetterling?",
+        "antworten": [
+          "4",
+          "vier"
+        ],
+        "loesung": "4",
+        "zahlenbereich": [
+          4,
+          4
+        ]
+      },
+      {
+        "frage": "Schätzfrage: Wie viele Knochen hat ein Mensch ungefähr?",
+        "schaetzfrage": true,
+        "loesung": "rund 200 Knochen"
       }
     ],
     "unterstufe": [
@@ -346,9 +433,328 @@ JEKAMI_FRAGEN.bio = {
         "frage": "Schätzfrage: Wie viele Atemzüge macht ein Erwachsener in Ruhe pro Minute?",
         "schaetzfrage": true,
         "loesung": "rund 14"
+      },
+      {
+        "frage": "Wie heißen die männlichen Keimzellen bei Tieren?",
+        "antworten": [
+          "spermien",
+          "samenzellen"
+        ],
+        "loesung": "Spermien"
+      },
+      {
+        "frage": "Wie nennt man Tiere, die sich von Fleisch ernähren?",
+        "antworten": [
+          "fleischfresser",
+          "karnivoren"
+        ],
+        "loesung": "Fleischfresser"
+      },
+      {
+        "frage": "Wie heißt das Organ, das Nahrung zerkleinert und mit Säure vermischt?",
+        "antworten": [
+          "magen"
+        ],
+        "loesung": "Der Magen"
+      },
+      {
+        "frage": "Wie viele Herzkammern hat ein Fisch?",
+        "antworten": [
+          "1",
+          "eine"
+        ],
+        "loesung": "1",
+        "zahlenbereich": [
+          1,
+          1
+        ]
+      },
+      {
+        "frage": "Welches Blutgefäß führt Blut zum Herzen hin?",
+        "antworten": [
+          "vene",
+          "venen"
+        ],
+        "loesung": "Eine Vene"
+      },
+      {
+        "frage": "Wie heißen die kleinen Öffnungen an der Blattunterseite für den Gasaustausch?",
+        "antworten": [
+          "spaltöffnungen"
+        ],
+        "loesung": "Spaltöffnungen"
+      },
+      {
+        "frage": "Wie nennt man Lebewesen, die abgestorbenes Material zersetzen?",
+        "antworten": [
+          "destruenten",
+          "zersetzer"
+        ],
+        "loesung": "Destruenten"
+      },
+      {
+        "frage": "Wie heißt der Vorgang, bei dem Insekten Blüten bestäuben?",
+        "antworten": [
+          "bestäubung"
+        ],
+        "loesung": "Die Bestäubung"
+      },
+      {
+        "frage": "Welches Sinnesorgan sitzt in der Nase?",
+        "antworten": [
+          "geruchssinn",
+          "riechen",
+          "nase"
+        ],
+        "loesung": "Der Geruchssinn"
+      },
+      {
+        "frage": "Wie heißt die Schutzschicht, die Knochen an den Gelenken überzieht?",
+        "antworten": [
+          "knorpel",
+          "gelenkknorpel"
+        ],
+        "loesung": "Der Knorpel"
+      },
+      {
+        "frage": "Schätzfrage: Wie viele Muskeln hat der menschliche Körper ungefähr?",
+        "schaetzfrage": true,
+        "loesung": "über 600"
       }
     ],
-    "mittelstufe": [],
+    "mittelstufe": [
+      {
+        "frage": "Wie heißen die Grundbausteine der Eiweiße?",
+        "antworten": [
+          "aminosäuren"
+        ],
+        "loesung": "Aminosäuren"
+      },
+      {
+        "frage": "Wie heißt der Zellbestandteil, in dem die Erbinformation liegt?",
+        "antworten": [
+          "zellkern"
+        ],
+        "loesung": "Der Zellkern"
+      },
+      {
+        "frage": "Was unterscheidet eine Pflanzenzelle von einer Tierzelle?",
+        "antworten": [
+          "zellwand",
+          "chloroplasten",
+          "vakuole"
+        ],
+        "loesung": "Zellwand, Chloroplasten und Vakuole"
+      },
+      {
+        "frage": "Wie heißt die Zellteilung, bei der Keimzellen entstehen?",
+        "antworten": [
+          "meiose"
+        ],
+        "loesung": "Die Meiose"
+      },
+      {
+        "frage": "Wie lautet die Summenformel der Fotosynthese als Endprodukt?",
+        "antworten": [
+          "traubenzucker",
+          "glucose",
+          "glukose"
+        ],
+        "loesung": "Traubenzucker und Sauerstoff"
+      },
+      {
+        "frage": "Wie heißt das Hormon, das den Blutzucker senkt?",
+        "antworten": [
+          "insulin"
+        ],
+        "loesung": "Insulin"
+      },
+      {
+        "frage": "Wie heißt der Gegenspieler dieses Hormons?",
+        "antworten": [
+          "glucagon",
+          "glukagon"
+        ],
+        "loesung": "Glucagon"
+      },
+      {
+        "frage": "Wie nennt man Merkmale, die sich in einer Generation nicht zeigen?",
+        "antworten": [
+          "rezessiv"
+        ],
+        "loesung": "Rezessiv"
+      },
+      {
+        "frage": "Wie nennt man Merkmale, die sich immer durchsetzen?",
+        "antworten": [
+          "dominant"
+        ],
+        "loesung": "Dominant"
+      },
+      {
+        "frage": "Wer formulierte die Regeln der Vererbung an Erbsenpflanzen?",
+        "antworten": [
+          "mendel",
+          "gregor mendel"
+        ],
+        "loesung": "Gregor Mendel"
+      },
+      {
+        "frage": "Wie heißen die Zellen des Nervensystems?",
+        "antworten": [
+          "nervenzellen",
+          "neuronen"
+        ],
+        "loesung": "Nervenzellen"
+      },
+      {
+        "frage": "Wie heißt die Stelle, an der zwei Nervenzellen Signale austauschen?",
+        "antworten": [
+          "synapse"
+        ],
+        "loesung": "Die Synapse"
+      },
+      {
+        "frage": "Wie heißt der Teil des Gehirns, der Bewegungen koordiniert?",
+        "antworten": [
+          "kleinhirn"
+        ],
+        "loesung": "Das Kleinhirn"
+      },
+      {
+        "frage": "Wie nennt man Lebewesen, die ihre Körpertemperatur selbst regeln?",
+        "antworten": [
+          "gleichwarm",
+          "warmblüter",
+          "homoiotherm"
+        ],
+        "loesung": "Gleichwarme Tiere"
+      },
+      {
+        "frage": "Wie nennt man die Gesamtheit aller Lebewesen eines Lebensraums?",
+        "antworten": [
+          "biozönose",
+          "lebensgemeinschaft"
+        ],
+        "loesung": "Die Biozönose"
+      },
+      {
+        "frage": "Wie heißt die Beziehung, bei der ein Lebewesen auf Kosten eines anderen lebt?",
+        "antworten": [
+          "parasitismus"
+        ],
+        "loesung": "Parasitismus"
+      },
+      {
+        "frage": "Wie nennt man die Anpassung eines Tieres an seine Umgebung durch Färbung?",
+        "antworten": [
+          "tarnung",
+          "mimese"
+        ],
+        "loesung": "Tarnung"
+      },
+      {
+        "frage": "Wie heißt der Vorgang, bei dem Zellen ohne Sauerstoff Energie gewinnen?",
+        "antworten": [
+          "gärung"
+        ],
+        "loesung": "Die Gärung"
+      },
+      {
+        "frage": "Wie viele Wirbel hat die menschliche Wirbelsäule ungefähr?",
+        "antworten": [
+          "33",
+          "32",
+          "34"
+        ],
+        "loesung": "33",
+        "zahlenbereich": [
+          32,
+          34
+        ]
+      },
+      {
+        "frage": "Wie heißt das Organ, in dem rote Blutkörperchen gebildet werden?",
+        "antworten": [
+          "knochenmark"
+        ],
+        "loesung": "Das Knochenmark"
+      },
+      {
+        "frage": "Wie nennt man Bakterien, die dem Menschen nützen, etwa im Darm?",
+        "antworten": [
+          "darmflora",
+          "mikrobiom",
+          "darmbakterien"
+        ],
+        "loesung": "Die Darmflora"
+      },
+      {
+        "frage": "Wie heißt die äußere Hautschicht?",
+        "antworten": [
+          "oberhaut",
+          "epidermis"
+        ],
+        "loesung": "Die Oberhaut"
+      },
+      {
+        "frage": "Welches Vitamin ist für die Blutgerinnung wichtig?",
+        "antworten": [
+          "vitamin k",
+          "k"
+        ],
+        "loesung": "Vitamin K"
+      },
+      {
+        "frage": "Wie heißt der Fachbegriff für die Lehre von den Lebewesen?",
+        "antworten": [
+          "biologie"
+        ],
+        "loesung": "Die Biologie"
+      },
+      {
+        "frage": "Wie nennt man Arten, die nur in einem einzigen Gebiet vorkommen?",
+        "antworten": [
+          "endemisch",
+          "endemiten"
+        ],
+        "loesung": "Endemisch"
+      },
+      {
+        "frage": "Wie heißt der Kreislauf, der Blut durch die Lunge führt?",
+        "antworten": [
+          "lungenkreislauf",
+          "kleiner kreislauf"
+        ],
+        "loesung": "Der Lungenkreislauf"
+      },
+      {
+        "frage": "Wie nennt man die Entwicklung der Arten über lange Zeiträume?",
+        "antworten": [
+          "evolution"
+        ],
+        "loesung": "Die Evolution"
+      },
+      {
+        "frage": "Wie heißt der Prozess, mit dem der Körper Krankheitserreger bekämpft?",
+        "antworten": [
+          "immunantwort",
+          "immunsystem",
+          "immunreaktion"
+        ],
+        "loesung": "Die Immunantwort"
+      },
+      {
+        "frage": "Schätzfrage: Wie viele Gene hat der Mensch ungefähr?",
+        "schaetzfrage": true,
+        "loesung": "rund 20.000"
+      },
+      {
+        "frage": "Schätzfrage: Wie viele Liter Luft atmet ein Erwachsener pro Minute in Ruhe?",
+        "schaetzfrage": true,
+        "loesung": "rund 7 Liter"
+      }
+    ],
     "erwachsene": [
       {
         "frage": "Wie heißt der Träger der Erbinformation?",
@@ -501,6 +907,92 @@ JEKAMI_FRAGEN.bio = {
         "frage": "Schätzfrage: Wie lang sind alle Blutgefäße eines Menschen zusammengerechnet?",
         "schaetzfrage": true,
         "loesung": "rund 100.000 Kilometer"
+      },
+      {
+        "frage": "Wie heißt der Fachbegriff für den programmierten Zelltod?",
+        "antworten": [
+          "apoptose"
+        ],
+        "loesung": "Die Apoptose"
+      },
+      {
+        "frage": "Wie heißen die Zellen des Immunsystems, die Antikörper bilden?",
+        "antworten": [
+          "b zellen",
+          "b lymphozyten",
+          "plasmazellen"
+        ],
+        "loesung": "B-Lymphozyten"
+      },
+      {
+        "frage": "Wie heißt der Erreger, der keine eigene Zelle besitzt und einen Wirt braucht?",
+        "antworten": [
+          "virus",
+          "viren"
+        ],
+        "loesung": "Ein Virus"
+      },
+      {
+        "frage": "Wie nennt man die Anzahl aller Arten in einem Lebensraum?",
+        "antworten": [
+          "artenvielfalt",
+          "biodiversität"
+        ],
+        "loesung": "Die Artenvielfalt"
+      },
+      {
+        "frage": "Wie heißt der Botenstoff, der als Glückshormon gilt?",
+        "antworten": [
+          "serotonin",
+          "dopamin"
+        ],
+        "loesung": "Serotonin"
+      },
+      {
+        "frage": "Wie heißt die Schilddrüsenhormongruppe, die den Stoffwechsel steuert?",
+        "antworten": [
+          "thyroxin",
+          "t4",
+          "schilddrüsenhormone"
+        ],
+        "loesung": "Thyroxin"
+      },
+      {
+        "frage": "Wie heißt die Erbkrankheit, bei der ein Chromosom dreifach vorliegt?",
+        "antworten": [
+          "trisomie",
+          "trisomie 21"
+        ],
+        "loesung": "Eine Trisomie"
+      },
+      {
+        "frage": "Wie nennt man die Gesamtheit der chemischen Vorgänge in einer Zelle?",
+        "antworten": [
+          "stoffwechsel",
+          "metabolismus"
+        ],
+        "loesung": "Der Stoffwechsel"
+      },
+      {
+        "frage": "Wie heißt das Verfahren, mit dem DNA im Labor vervielfältigt wird?",
+        "antworten": [
+          "pcr",
+          "polymerase kettenreaktion"
+        ],
+        "loesung": "Die PCR"
+      },
+      {
+        "frage": "Wie heißt die Methode, mit der sich Gene gezielt verändern lassen und die 2020 den Nobelpreis erhielt?",
+        "antworten": [
+          "crispr",
+          "crispr cas9"
+        ],
+        "loesung": "CRISPR/Cas9"
+      },
+      {
+        "frage": "Schätzfrage: Wie viele Basenpaare hat das menschliche Erbgut?",
+        "schaetzfrage": true,
+        "loesung": "rund 3 Milliarden"
       }
     ]
   }

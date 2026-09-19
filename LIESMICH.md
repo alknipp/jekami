@@ -15,6 +15,7 @@ Mitmach-Quiz mit Vorlesefunktion. Vier Altersstufen, neun Themengebiete,
 | `manifest.webmanifest` | Name und Icons für die Installation |
 | `sw.js` | Offline-Speicher (nur bei Betrieb über einen Server) |
 | `icon-*.png` | App-Symbole |
+| `icon.svg` | Quelldatei des Symbols zum Nachbearbeiten |
 
 Alle Dateien gehören in denselben Ordner.
 
