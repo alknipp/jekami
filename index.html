@@ -1,0 +1,444 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Jekami Quiz</title>
+<meta name="theme-color" content="#2f4f43">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Jekami">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" href="icon-192.png">
+<link rel="icon" href="icon-192.png">
+<style>
+:root{
+  --bg:#f4efe4;--fg:#2c2a26;--muted:#6c675d;--card:#fffdf7;--line:#d9d1bf;
+  --board:#2f4f43;--board-fg:#f5f3e9;--accent:#c8553d;--green:#2e8b57;--blue:#3d6b8c;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --bg:#1a1916;--fg:#f0ece3;--muted:#a49d90;--card:#26241f;--line:#3d3a33;
+  --board:#24382f;--board-fg:#f3f1e6;--accent:#e07a63;--green:#4caf82;--blue:#6b9cc4;}}
+:root[data-theme="dark"]{
+  --bg:#1a1916;--fg:#f0ece3;--muted:#a49d90;--card:#26241f;--line:#3d3a33;
+  --board:#24382f;--board-fg:#f3f1e6;--accent:#e07a63;--green:#4caf82;--blue:#6b9cc4;}
+*{box-sizing:border-box}
+html,body{margin:0;padding:0}
+body{background:var(--bg);color:var(--fg);
+  font-family:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
+  padding:14px 12px calc(20px + env(safe-area-inset-bottom));max-width:760px;margin:0 auto;
+  -webkit-text-size-adjust:100%}
+h1{font-size:1.6rem;margin:0 0 4px}
+.sub{color:var(--muted);font-size:.88rem;margin:0 0 18px}
+.sec{font-weight:800;font-size:.75rem;letter-spacing:1.5px;text-transform:uppercase;
+  color:var(--muted);margin:16px 0 8px}
+.grid{display:grid;gap:8px;grid-template-columns:repeat(auto-fit,minmax(148px,1fr))}
+.pick{border:2px solid var(--line);background:var(--card);color:var(--fg);font:inherit;
+  font-weight:700;padding:14px 12px;border-radius:14px;cursor:pointer;text-align:left;line-height:1.3}
+.pick b{display:block;font-size:1.05rem}
+.pick small{color:var(--muted);font-size:.8rem;font-weight:400}
+.pick.on{background:var(--blue);border-color:var(--blue);color:#fff}
+.pick.on small{color:rgba(255,255,255,.85)}
+.pick:disabled{opacity:.42;cursor:not-allowed}
+#start{width:100%;border:none;border-radius:16px;padding:20px;background:var(--green);color:#fff;
+  font:inherit;font-weight:900;font-size:1.15rem;cursor:pointer;box-shadow:0 5px 0 rgba(0,0,0,.14)}
+#start:disabled{opacity:.4}
+.bar{display:flex;align-items:center;justify-content:space-between;gap:10px;
+  margin-bottom:10px;font-weight:800;font-size:.9rem;color:var(--muted)}
+.clock{font-size:1.5rem;font-weight:800;color:var(--fg);padding:2px 12px;border-radius:12px;
+  background:var(--card);border:2px solid var(--line);min-width:92px;text-align:center}
+.clock.warn{color:var(--accent);border-color:var(--accent)}
+.board{background:var(--board);color:var(--board-fg);border:5px solid #8a6a43;border-radius:16px;
+  padding:26px 18px;min-height:200px;display:flex;flex-direction:column;justify-content:center;
+  align-items:center;text-align:center;font-size:1.32rem;font-weight:600;line-height:1.4;
+  margin-bottom:10px;overflow-wrap:anywhere}
+.board .meta{font-size:.7rem;font-weight:800;letter-spacing:1.5px;text-transform:uppercase;
+  opacity:.7;margin-bottom:14px}
+.board .note{font-size:.92rem;font-weight:400;opacity:.85;margin-top:14px}
+.mark{font-size:3.8rem;line-height:1;margin-bottom:6px}
+.status{font-size:.87rem;color:var(--muted);min-height:1.3em;margin:0 0 12px;text-align:center}
+.klein{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:10px}
+.klein button{flex:1 1 70px;background:transparent;color:var(--muted);border:2px solid var(--line);
+  border-radius:11px;padding:10px 4px;font:inherit;font-weight:700;font-size:.8rem;cursor:pointer}
+.klein button.warnung{color:var(--accent);border-color:var(--accent)}
+#eingabe{width:100%;padding:16px;border-radius:14px;border:2px solid var(--line);
+  background:var(--card);color:var(--fg);font:inherit;font-size:1.05rem;margin-bottom:10px}
+#eingabe:focus{outline:none;border-color:var(--blue)}
+#haupt{width:100%;border:none;border-radius:16px;padding:22px 14px;font:inherit;
+  font-weight:900;font-size:1.2rem;color:#fff;background:var(--blue);cursor:pointer;
+  box-shadow:0 5px 0 rgba(0,0,0,.14)}
+#haupt.weiter{background:var(--green)}
+#haupt.loesen{background:#6d6a62}
+#haupt.hoert{background:var(--accent);opacity:.7}
+.hidden{display:none !important}
+.foot{color:var(--muted);font-size:.78rem;text-align:center;margin-top:16px;line-height:1.6}
+.info{background:var(--card);border:2px solid var(--accent);border-radius:14px;padding:16px;
+  line-height:1.5;font-size:.95rem}
+.info code{background:rgba(0,0,0,.08);padding:1px 5px;border-radius:5px}
+</style>
+</head>
+<body>
+
+<div id="laden"><h1>🎤 Jekami Quiz</h1><p class="sub">Fragen werden geladen …</p></div>
+
+<div id="fehler" class="hidden">
+  <h1>Fragen fehlen</h1>
+  <div class="info" id="fehlerText"></div>
+</div>
+
+<div id="setup" class="hidden">
+  <h1>🎤 Jekami Quiz</h1>
+  <p class="sub">Frage wird vorgelesen · wer zuerst dran ist, antwortet · Chips verteilt ihr selbst</p>
+  <div class="sec">Altersstufe</div>
+  <div class="grid" id="levels"></div>
+  <div class="sec">Themengebiet</div>
+  <div class="grid" id="topics"></div>
+  <div style="margin-top:20px"><button id="start">▶️ Quiz starten</button></div>
+  <p class="foot" id="bestand"></p>
+</div>
+
+<div id="game" class="hidden">
+  <div class="bar"><span id="hdr">–</span><span class="clock" id="clock">3:00</span></div>
+  <div class="board" id="board"></div>
+  <div class="status" id="status"></div>
+  <div class="klein">
+    <button id="vorlesen">🔊 Vorlesen</button>
+    <button id="sprechen" class="hidden">🎤 Sprechen</button>
+    <button id="loesung">🔓 Lösung</button>
+    <button id="ende">🏁 Ende</button>
+  </div>
+  <input id="eingabe" placeholder="Antwort eintippen…" autocomplete="off"
+         autocapitalize="off" autocorrect="off" enterkeyhint="go">
+  <button id="haupt">Antwort prüfen</button>
+</div>
+
+<script src="fragen/liste.js"></script>
+<script>
+function S(id){return document.getElementById(id);}
+function setStatus(t){S("status").textContent=t||"";}
+function zeige(id){
+  ["laden","fehler","setup","game"].forEach(function(x){S(x).classList.add("hidden");});
+  S(id).classList.remove("hidden");
+}
+function fehler(txt){S("fehlerText").innerHTML=txt;zeige("fehler");}
+
+/* ---------- Themendateien nachladen ----------
+   Klassische Script-Tags mit async=false: laufen in der angegebenen
+   Reihenfolge und funktionieren auch ohne Webserver per Doppelklick. */
+(function(){
+  if(typeof JEKAMI_THEMEN==="undefined"){
+    fehler("Die Datei <code>fragen/liste.js</code> wurde nicht gefunden.");return;
+  }
+  var offen=JEKAMI_THEMEN.length, fehlend=[];
+  if(!offen){fehler("In <code>fragen/liste.js</code> ist kein Themengebiet eingetragen.");return;}
+  function fertig(){if(--offen===0)start(fehlend);}
+  for(var i=0;i<JEKAMI_THEMEN.length;i++){
+    (function(name){
+      var s=document.createElement("script");
+      s.src="fragen/"+name+".js";s.async=false;
+      s.onload=fertig;
+      s.onerror=function(){fehlend.push(name);fertig();};
+      document.head.appendChild(s);
+    })(JEKAMI_THEMEN[i]);
+  }
+})();
+
+function start(fehlend){
+  var STUFEN=JEKAMI_STUFEN, THEMEN=[];
+  for(var i=0;i<JEKAMI_THEMEN.length;i++){
+    var id=JEKAMI_THEMEN[i], t=JEKAMI_FRAGEN[id];
+    if(!t)continue;
+    THEMEN.push({id:id,name:t.name||id,symbol:t.symbol||"",stufen:t.stufen||{}});
+  }
+  if(!THEMEN.length){
+    fehler("Keine Themendatei konnte geladen werden.<br>Fehlt: <code>fragen/"+
+           (fehlend[0]||"?")+".js</code>");return;
+  }
+  if(fehlend.length)
+    console.warn("Nicht geladen: "+fehlend.join(", "));
+
+/* ---------- Mikrofon: Plattform prüfen, nicht nur die API ----------
+   iOS stellt die Spracherkennung in installierten Web-Apps bereit,
+   führt sie dort aber nicht aus. */
+var SR=window.SpeechRecognition||window.webkitSpeechRecognition;
+var istIOS=/iPad|iPhone|iPod/.test(navigator.userAgent)||
+           (navigator.platform==="MacIntel"&&navigator.maxTouchPoints>1);
+var installiert=(window.navigator.standalone===true)||
+                (window.matchMedia&&window.matchMedia("(display-mode: standalone)").matches);
+var mikroMoeglich=!!SR && !(istIOS&&installiert);
+
+/* ---------- Vorlesen ---------- */
+var stimme=null;
+function waehleStimme(){
+  try{
+    var v=window.speechSynthesis.getVoices().filter(function(x){
+      return x.lang&&x.lang.toLowerCase().indexOf("de")===0;});
+    stimme=v[0]||null;
+  }catch(e){}
+}
+if(window.speechSynthesis){waehleStimme();window.speechSynthesis.onvoiceschanged=waehleStimme;}
+function sprich(t,fertig){
+  if(!window.speechSynthesis){if(fertig)fertig();return;}
+  try{
+    window.speechSynthesis.cancel();
+    var u=new SpeechSynthesisUtterance(t);
+    u.lang="de-DE";u.rate=0.95;
+    if(stimme)u.voice=stimme;
+    u.onend=function(){if(fertig)fertig();};
+    u.onerror=function(){if(fertig)fertig();};
+    window.speechSynthesis.speak(u);
+  }catch(e){if(fertig)fertig();}
+}
+
+/* ---------- Zuhören (optionale Zugabe) ---------- */
+var rec=null;
+function hoerZu(){
+  if(!mikroMoeglich)return;
+  if(!rec){
+    rec=new SR();rec.lang="de-DE";rec.interimResults=false;rec.maxAlternatives=5;
+    rec.onstart=function(){S("haupt").classList.add("hoert");setStatus("🎤 Ich höre zu …");};
+    rec.onend=function(){S("haupt").classList.remove("hoert");zeichneKnoepfe();};
+    rec.onerror=function(e){
+      S("haupt").classList.remove("hoert");
+      if(e.error==="no-speech"){setStatus("Nichts gehört — bitte tippen oder nochmal.");}
+      else{setStatus("Mikrofon geht hier nicht — bitte tippen.");
+           mikroMoeglich=false;S("sprechen").classList.add("hidden");}
+      zeichneKnoepfe();
+    };
+    rec.onresult=function(e){
+      var a=[],i;for(i=0;i<e.results[0].length;i++)a.push(e.results[0][i].transcript);
+      pruefe(a);
+    };
+  }
+  try{window.speechSynthesis.cancel();}catch(e){}
+  try{rec.start();}catch(e){try{rec.stop();}catch(e2){}}
+}
+
+/* ---------- Klingel ---------- */
+var ac=null;
+function klingel(){
+  try{
+    if(!ac)ac=new (window.AudioContext||window.webkitAudioContext)();
+    var f=[784,1175],i;
+    for(i=0;i<2;i++){
+      var o=ac.createOscillator(),g=ac.createGain();
+      o.type="triangle";o.frequency.value=f[i];
+      g.gain.setValueAtTime(0.0001,ac.currentTime);
+      g.gain.exponentialRampToValueAtTime(0.25,ac.currentTime+0.02+i*0.03);
+      g.gain.exponentialRampToValueAtTime(0.0001,ac.currentTime+1.7);
+      o.connect(g);g.connect(ac.destination);o.start();o.stop(ac.currentTime+1.8);
+    }
+  }catch(e){}
+}
+
+/* ---------- Antwort prüfen ---------- */
+function norm(s){
+  return (s||"").toLowerCase().replace(/[.,!?;:"'`´()]/g," ")
+    .replace(/ß/g,"ss").replace(/ä/g,"a").replace(/ö/g,"o").replace(/ü/g,"u")
+    .replace(/\s+/g," ").replace(/^\s+|\s+$/g,"");
+}
+var ZW={"null":0,eins:1,ein:1,eine:1,zwei:2,drei:3,vier:4,funf:5,sechs:6,sieben:7,acht:8,neun:9,
+ zehn:10,elf:11,zwolf:12,dreizehn:13,vierzehn:14,funfzehn:15,sechzehn:16,siebzehn:17,achtzehn:18,
+ neunzehn:19,zwanzig:20,dreissig:30,vierzig:40,funfzig:50,hundert:100,einhundert:100};
+function zahlen(t){
+  var s=norm(t),out=[],re=/-?\d[\d.]*(?:,\d+)?/g,m;
+  while((m=re.exec(s))!==null){
+    var v=parseFloat(m[0].replace(/\.(?=\d{3}\b)/g,"").replace(",","."));
+    if(!isNaN(v))out.push(v);
+  }
+  var w=s.split(" "),i;
+  for(i=0;i<w.length;i++){if(ZW[w[i]]!==undefined)out.push(ZW[w[i]]);}
+  return out;
+}
+function passt(alts,q){
+  if(!q.antworten)return false;
+  var i,j,acc=[];
+  for(i=0;i<q.antworten.length;i++)acc.push(norm(q.antworten[i]));
+  for(i=0;i<alts.length;i++){
+    var n=norm(alts[i]);
+    if(!n)continue;
+    for(j=0;j<acc.length;j++){
+      var a=acc[j];
+      if(n===a)return true;
+      if(a.length>=3&&n.indexOf(a)>=0)return true;
+      if(n.length>=3&&a.indexOf(n)>=0)return true;
+    }
+    if(q.zahlenbereich){
+      var lo=q.zahlenbereich[0],hi=q.zahlenbereich[1],k,ns=zahlen(alts[i]);
+      for(k=0;k<ns.length;k++){if(ns[k]>=lo&&ns[k]<=hi)return true;}
+    }
+  }
+  return false;
+}
+
+/* ---------- Auswahl ---------- */
+var lvl=STUFEN[0].id, cat=null;
+function thema(id){for(var i=0;i<THEMEN.length;i++)if(THEMEN[i].id===id)return THEMEN[i];return null;}
+function anzahl(s,t){var th=thema(t);return (th&&th.stufen[s])?th.stufen[s].length:0;}
+function ersteGefuellt(){
+  for(var i=0;i<THEMEN.length;i++)if(anzahl(lvl,THEMEN[i].id))return THEMEN[i].id;
+  return null;
+}
+function zeichneAuswahl(){
+  var i,j,b;
+  S("levels").innerHTML="";
+  for(i=0;i<STUFEN.length;i++){
+    (function(st){
+      b=document.createElement("button");
+      b.className="pick"+(st.id===lvl?" on":"");
+      b.innerHTML="<b>"+st.name+"</b><small>"+(st.hinweis||"")+"</small>";
+      b.onclick=function(){lvl=st.id;if(!anzahl(lvl,cat))cat=ersteGefuellt();zeichneAuswahl();};
+      S("levels").appendChild(b);
+    })(STUFEN[i]);
+  }
+  if(!cat||!anzahl(lvl,cat))cat=ersteGefuellt();
+  S("topics").innerHTML="";
+  for(i=0;i<THEMEN.length;i++){
+    (function(th){
+      var n=anzahl(lvl,th.id);
+      b=document.createElement("button");
+      b.className="pick"+(th.id===cat?" on":"");
+      b.innerHTML="<b>"+(th.symbol?th.symbol+" ":"")+th.name+"</b><small>"+
+        (n?n+" Fragen":"noch leer")+"</small>";
+      b.disabled=(n===0);
+      b.onclick=function(){cat=th.id;zeichneAuswahl();};
+      S("topics").appendChild(b);
+    })(THEMEN[i]);
+  }
+  var g=0;
+  for(i=0;i<STUFEN.length;i++)for(j=0;j<THEMEN.length;j++)g+=anzahl(STUFEN[i].id,THEMEN[j].id);
+  S("bestand").textContent=g+" Fragen im Bestand · bei jeder Runde neu gemischt";
+  S("start").disabled=!cat;
+}
+
+/* ---------- Spiel ---------- */
+var liste=[],idx=-1,cur=null,erledigt=false,tId=null,rest=180,loesungBereit=false;
+function mische(a){
+  var b=a.slice(),i,j,t;
+  for(i=b.length-1;i>0;i--){j=Math.floor(Math.random()*(i+1));t=b[i];b[i]=b[j];b[j]=t;}
+  return b;
+}
+function fmtT(s){var m=Math.floor(s/60),x=s%60;return m+":"+(x<10?"0":"")+x;}
+function stoppUhr(){if(tId){clearInterval(tId);tId=null;}}
+function starteUhr(){
+  stoppUhr();rest=180;
+  function tick(){
+    S("clock").textContent=fmtT(rest);
+    S("clock").className=(rest<=30)?"clock warn":"clock";
+    if(rest<=0){stoppUhr();klingel();
+      setStatus("⏰ Zeit ist um — ihr könnt trotzdem weiter raten.");return;}
+    rest--;
+  }
+  tick();tId=setInterval(tick,1000);
+}
+function starteSpiel(){
+  var th=thema(cat); if(!th)return;
+  var quelle=th.stufen[lvl]||[];
+  if(!quelle.length)return;
+  liste=mische(quelle);idx=-1;zeige("game");
+  if(mikroMoeglich)S("sprechen").classList.remove("hidden");
+  naechste();
+}
+function naechste(){
+  idx++;
+  if(idx>=liste.length){schluss();return;}
+  cur=liste[idx];erledigt=false;loesungBereit=false;
+  S("hdr").textContent="Frage "+(idx+1)+" von "+liste.length;
+  S("board").innerHTML='<div class="meta">'+(cur.schaetzfrage?"Schätzfrage":"Frage")+'</div>'+
+    '<div>'+cur.frage+'</div>'+
+    (cur.schaetzfrage?'<div class="note">Alle schätzen — dann auflösen.</div>':'');
+  S("eingabe").value="";
+  setStatus("");
+  zeichneKnoepfe();
+  sprich(cur.frage,starteUhr);
+}
+function zeichneKnoepfe(){
+  var h=S("haupt"), l=S("loesung"), e=S("eingabe");
+  if(erledigt){
+    h.textContent="⏭ Nächste Frage";h.className="weiter";h.onclick=naechste;
+    e.classList.add("hidden");l.classList.add("hidden");
+    S("sprechen").classList.add("hidden");
+    return;
+  }
+  l.classList.remove("hidden");
+  l.textContent=loesungBereit?"Sicher?":"🔓 Lösung";
+  l.className=loesungBereit?"warnung":"";
+  if(mikroMoeglich)S("sprechen").classList.remove("hidden");
+  if(cur.schaetzfrage){
+    e.classList.add("hidden");
+    S("sprechen").classList.add("hidden");
+    h.textContent="🔓 Lösung anzeigen";h.className="loesen";h.onclick=aufloesen;
+    return;
+  }
+  e.classList.remove("hidden");
+  h.textContent="Antwort prüfen";h.className="";
+  h.onclick=function(){
+    var v=e.value.replace(/^\s+|\s+$/g,"");
+    if(!v){e.focus();return;}
+    e.value="";pruefe([v]);
+  };
+}
+function alsRichtig(text){
+  if(erledigt)return;
+  erledigt=true;stoppUhr();
+  S("board").innerHTML='<div class="mark">✅</div><div>'+(text||"Richtig!")+'</div>'+
+    '<div class="note">Chip für den, der gelöst hat.</div>';
+  setStatus("");zeichneKnoepfe();sprich("Richtig!");
+}
+function aufloesen(){
+  stoppUhr();erledigt=true;
+  S("board").innerHTML='<div class="meta">Auflösung</div><div>'+cur.loesung+'</div>'+
+    (cur.schaetzfrage?'<div class="note">Wer war am nächsten dran? Der bekommt den Chip.</div>'
+                     :'<div class="note">Kein Chip für diese Frage.</div>');
+  setStatus("");zeichneKnoepfe();
+  sprich(cur.schaetzfrage?("Richtig wäre "+cur.loesung+". Wer war am nächsten dran?")
+                         :("Die Antwort lautet "+cur.loesung));
+}
+function pruefe(alts){
+  if(erledigt)return;
+  var gesagt=(alts[0]||"").replace(/^\s+|\s+$/g,"");
+  if(passt(alts,cur)){alsRichtig(gesagt);}
+  else{
+    setStatus("❌ "+(gesagt?"„"+gesagt+"“ — ":"")+"nicht richtig. Der Nächste ist dran.");
+    var b=S("board");b.style.borderColor="#c8553d";
+    setTimeout(function(){b.style.borderColor="";},700);
+    try{S("eingabe").focus();}catch(e){}
+  }
+}
+function schluss(){
+  stoppUhr();
+  S("board").innerHTML='<div class="meta">Ende</div><div>Das war die Runde!</div>'+
+    '<div class="note">Jetzt die Chips zählen.</div>';
+  S("hdr").textContent="Ende";S("clock").textContent="–";S("clock").className="clock";
+  S("eingabe").classList.add("hidden");S("loesung").classList.add("hidden");
+  S("sprechen").classList.add("hidden");
+  setStatus("");
+  sprich("Das war die Runde. Zählt eure Chips!");
+  var h=S("haupt");
+  h.textContent="🔄 Neue Runde";h.className="weiter";
+  h.onclick=function(){zeige("setup");S("clock").textContent="3:00";};
+}
+
+/* ---------- Verdrahtung ---------- */
+S("start").onclick=starteSpiel;
+S("vorlesen").onclick=function(){if(cur)sprich(erledigt?cur.loesung:cur.frage);};
+S("sprechen").onclick=hoerZu;
+S("ende").onclick=schluss;
+S("loesung").onclick=function(){
+  if(loesungBereit){aufloesen();}
+  else{loesungBereit=true;zeichneKnoepfe();
+       setStatus("Noch einmal drücken — dann steht die Lösung da.");}
+};
+S("eingabe").onkeydown=function(e){if(e.key==="Enter")S("haupt").onclick();};
+
+zeichneAuswahl();
+zeige("setup");
+
+if("serviceWorker" in navigator && location.protocol.indexOf("http")===0){
+  window.addEventListener("load",function(){
+    navigator.serviceWorker.register("sw.js").catch(function(){});
+  });
+}
+}
+</script>
+</body>
+</html>
