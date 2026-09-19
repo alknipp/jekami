@@ -169,6 +169,237 @@ JEKAMI_FRAGEN.geschichte = {
         "frage": "Schätzfrage: Vor wie vielen Jahren starben die Dinosaurier aus?",
         "schaetzfrage": true,
         "loesung": "vor rund 66 Millionen Jahren"
+      },
+      {
+        "frage": "Wie nannte man die Kämpfer, die im alten Rom in der Arena antraten?",
+        "antworten": [
+          "gladiatoren",
+          "gladiator"
+        ],
+        "loesung": "Gladiatoren"
+      },
+      {
+        "frage": "Wie heißt das große runde Kampfgebäude in Rom?",
+        "antworten": [
+          "kolosseum"
+        ],
+        "loesung": "Das Kolosseum"
+      },
+      {
+        "frage": "Wie nennt man die Wasserleitungen der Römer auf hohen Bögen?",
+        "antworten": [
+          "aquädukt",
+          "aquädukte"
+        ],
+        "loesung": "Ein Aquädukt"
+      },
+      {
+        "frage": "Wie nannte man den Herrscher im alten Rom?",
+        "antworten": [
+          "kaiser"
+        ],
+        "loesung": "Der Kaiser"
+      },
+      {
+        "frage": "Wie nennt man einen König im alten Ägypten?",
+        "antworten": [
+          "pharao"
+        ],
+        "loesung": "Ein Pharao"
+      },
+      {
+        "frage": "Wie nennt man einen einbalsamierten Toten aus Ägypten?",
+        "antworten": [
+          "mumie"
+        ],
+        "loesung": "Eine Mumie"
+      },
+      {
+        "frage": "Welches Tier war im alten Ägypten heilig?",
+        "antworten": [
+          "katze",
+          "katzen"
+        ],
+        "loesung": "Die Katze"
+      },
+      {
+        "frage": "Womit jagten die Menschen in der Steinzeit?",
+        "antworten": [
+          "speer",
+          "pfeil und bogen",
+          "bogen"
+        ],
+        "loesung": "Mit Speer, Pfeil und Bogen"
+      },
+      {
+        "frage": "Woraus machten die Menschen in der Steinzeit ihre Kleidung?",
+        "antworten": [
+          "fell",
+          "felle",
+          "tierfelle"
+        ],
+        "loesung": "Aus Tierfellen"
+      },
+      {
+        "frage": "Wie nennt man die Bilder, die Steinzeitmenschen an Höhlenwände malten?",
+        "antworten": [
+          "höhlenmalerei",
+          "höhlenbilder"
+        ],
+        "loesung": "Höhlenmalerei"
+      },
+      {
+        "frage": "Womit fuhren die Wikinger über das Meer?",
+        "antworten": [
+          "langschiff",
+          "drachenboot",
+          "boot",
+          "schiff"
+        ],
+        "loesung": "Mit Langschiffen"
+      },
+      {
+        "frage": "Wie heißt die Zeit der Ritter und Burgen?",
+        "antworten": [
+          "mittelalter"
+        ],
+        "loesung": "Das Mittelalter"
+      },
+      {
+        "frage": "Wie nennt man den Wettkampf, bei dem Ritter mit Lanzen gegeneinander ritten?",
+        "antworten": [
+          "ritterturnier",
+          "turnier",
+          "tjost"
+        ],
+        "loesung": "Ein Ritterturnier"
+      },
+      {
+        "frage": "Wie hieß der junge Helfer, der einem Ritter diente?",
+        "antworten": [
+          "knappe"
+        ],
+        "loesung": "Der Knappe"
+      },
+      {
+        "frage": "Welcher Handwerker stellte früher Schwerter und Hufeisen her?",
+        "antworten": [
+          "schmied"
+        ],
+        "loesung": "Der Schmied"
+      },
+      {
+        "frage": "Womit machte man früher abends Licht, als es noch keinen Strom gab?",
+        "antworten": [
+          "kerze",
+          "kerzen",
+          "öllampe",
+          "fackel"
+        ],
+        "loesung": "Mit Kerzen"
+      },
+      {
+        "frage": "Wie hieß das erste Fahrzeug auf Schienen, das mit Dampf fuhr?",
+        "antworten": [
+          "dampflokomotive",
+          "dampflok",
+          "eisenbahn"
+        ],
+        "loesung": "Die Dampflokomotive"
+      },
+      {
+        "frage": "Wer baute in Deutschland das erste Auto mit Motor?",
+        "antworten": [
+          "benz",
+          "carl benz"
+        ],
+        "loesung": "Carl Benz"
+      },
+      {
+        "frage": "Wer flog als Erste mit einem Motorflugzeug?",
+        "antworten": [
+          "gebrüder wright",
+          "wright"
+        ],
+        "loesung": "Die Gebrüder Wright"
+      },
+      {
+        "frage": "Wie nannte man die Seefahrer, die früher neue Länder suchten?",
+        "antworten": [
+          "entdecker",
+          "seefahrer"
+        ],
+        "loesung": "Entdecker"
+      },
+      {
+        "frage": "Wo kann man alte Dinge aus der Geschichte anschauen?",
+        "antworten": [
+          "museum"
+        ],
+        "loesung": "Im Museum"
+      },
+      {
+        "frage": "Wie heißt der Mann, der vor über 5000 Jahren lebte und im Eis gefunden wurde?",
+        "antworten": [
+          "ötzi"
+        ],
+        "loesung": "Ötzi"
+      },
+      {
+        "frage": "In welchem Gebirge wurde Ötzi gefunden?",
+        "antworten": [
+          "alpen"
+        ],
+        "loesung": "In den Alpen"
+      },
+      {
+        "frage": "Wie hieß die Mauer, die Berlin lange in zwei Teile trennte?",
+        "antworten": [
+          "berliner mauer",
+          "mauer"
+        ],
+        "loesung": "Die Berliner Mauer"
+      },
+      {
+        "frage": "Welches Tier zog früher den Pflug auf dem Feld?",
+        "antworten": [
+          "ochse",
+          "pferd",
+          "ochsen",
+          "pferde"
+        ],
+        "loesung": "Der Ochse oder das Pferd"
+      },
+      {
+        "frage": "Wie heißt die Zeit, in der die Menschen zum ersten Mal Metall benutzten?",
+        "antworten": [
+          "bronzezeit"
+        ],
+        "loesung": "Die Bronzezeit"
+      },
+      {
+        "frage": "Womit schrieben die Römer in weiches Wachs?",
+        "antworten": [
+          "griffel"
+        ],
+        "loesung": "Mit einem Griffel"
+      },
+      {
+        "frage": "Wie nennt man ein sehr altes, wichtiges Schriftstück?",
+        "antworten": [
+          "urkunde"
+        ],
+        "loesung": "Eine Urkunde"
+      },
+      {
+        "frage": "Schätzfrage: Vor wie vielen Jahren lebte Ötzi?",
+        "schaetzfrage": true,
+        "loesung": "vor rund 5300 Jahren"
+      },
+      {
+        "frage": "Schätzfrage: Wie schwer war eine Ritterrüstung?",
+        "schaetzfrage": true,
+        "loesung": "rund 25 Kilogramm"
       }
     ],
     "unterstufe": [
@@ -326,6 +557,245 @@ JEKAMI_FRAGEN.geschichte = {
         "frage": "Schätzfrage: Wie lang ist die Chinesische Mauer mit allen Abschnitten?",
         "schaetzfrage": true,
         "loesung": "rund 21.000 Kilometer"
+      },
+      {
+        "frage": "Welche Stadt wurde 79 nach Christus vom Vesuv verschüttet?",
+        "antworten": [
+          "pompeji"
+        ],
+        "loesung": "Pompeji"
+      },
+      {
+        "frage": "Wie hieß der griechische Feldherr, der bis nach Indien zog?",
+        "antworten": [
+          "alexander",
+          "alexander der große"
+        ],
+        "loesung": "Alexander der Große"
+      },
+      {
+        "frage": "Welcher Fund half, die ägyptischen Hieroglyphen zu entschlüsseln?",
+        "antworten": [
+          "stein von rosette",
+          "rosetta",
+          "rosettestein"
+        ],
+        "loesung": "Der Stein von Rosette"
+      },
+      {
+        "frage": "Wie nannte man die Stadtstaaten im alten Griechenland?",
+        "antworten": [
+          "polis"
+        ],
+        "loesung": "Polis"
+      },
+      {
+        "frage": "In welcher griechischen Stadt entstand die Demokratie?",
+        "antworten": [
+          "athen"
+        ],
+        "loesung": "In Athen"
+      },
+      {
+        "frage": "Wie hießen die für ihre Härte bekannten Krieger Griechenlands?",
+        "antworten": [
+          "spartaner",
+          "sparta"
+        ],
+        "loesung": "Die Spartaner"
+      },
+      {
+        "frage": "Wohin führten die Kreuzzüge des Mittelalters?",
+        "antworten": [
+          "heiliges land",
+          "jerusalem",
+          "palästina"
+        ],
+        "loesung": "Ins Heilige Land"
+      },
+      {
+        "frage": "Wie hieß die Seuche, die im 14. Jahrhundert Europa heimsuchte?",
+        "antworten": [
+          "pest",
+          "schwarzer tod"
+        ],
+        "loesung": "Die Pest"
+      },
+      {
+        "frage": "Wie hieß der Bund der Handelsstädte an Nord- und Ostsee?",
+        "antworten": [
+          "hanse"
+        ],
+        "loesung": "Die Hanse"
+      },
+      {
+        "frage": "Wie wird die französische Nationalheldin Jeanne d Arc auch genannt?",
+        "antworten": [
+          "jungfrau von orleans",
+          "jungfrau von orléans"
+        ],
+        "loesung": "Die Jungfrau von Orléans"
+      },
+      {
+        "frage": "Wer leitete die erste Weltumsegelung?",
+        "antworten": [
+          "magellan",
+          "ferdinand magellan"
+        ],
+        "loesung": "Ferdinand Magellan"
+      },
+      {
+        "frage": "Wie nannte man die spanischen Eroberer Amerikas?",
+        "antworten": [
+          "konquistadoren"
+        ],
+        "loesung": "Konquistadoren"
+      },
+      {
+        "frage": "Welches Reich in Mexiko eroberten die Spanier im 16. Jahrhundert?",
+        "antworten": [
+          "azteken",
+          "aztekenreich"
+        ],
+        "loesung": "Das Aztekenreich"
+      },
+      {
+        "frage": "Welches Reich in Südamerika hatte seine Hauptstadt in Cusco?",
+        "antworten": [
+          "inka",
+          "inkareich"
+        ],
+        "loesung": "Das Inkareich"
+      },
+      {
+        "frage": "In welchem Jahr endete der Erste Weltkrieg?",
+        "antworten": [
+          "1918"
+        ],
+        "loesung": "1918",
+        "zahlenbereich": [
+          1918,
+          1918
+        ]
+      },
+      {
+        "frage": "Wer war der letzte deutsche Kaiser?",
+        "antworten": [
+          "wilhelm",
+          "wilhelm ii",
+          "wilhelm der zweite"
+        ],
+        "loesung": "Wilhelm II."
+      },
+      {
+        "frage": "Wie hieß die erste deutsche Demokratie nach 1918?",
+        "antworten": [
+          "weimarer republik",
+          "weimar"
+        ],
+        "loesung": "Die Weimarer Republik"
+      },
+      {
+        "frage": "In welchem Jahr kamen die Nationalsozialisten an die Macht?",
+        "antworten": [
+          "1933"
+        ],
+        "loesung": "1933",
+        "zahlenbereich": [
+          1933,
+          1933
+        ]
+      },
+      {
+        "frage": "Wie nennt man den Völkermord an den europäischen Juden?",
+        "antworten": [
+          "holocaust",
+          "schoa",
+          "shoah"
+        ],
+        "loesung": "Der Holocaust"
+      },
+      {
+        "frage": "Wie hießen die beiden deutschen Staaten zwischen 1949 und 1990?",
+        "antworten": [
+          "brd und ddr",
+          "bundesrepublik und ddr"
+        ],
+        "loesung": "BRD und DDR"
+      },
+      {
+        "frage": "In welchem Jahr wurde die Berliner Mauer gebaut?",
+        "antworten": [
+          "1961"
+        ],
+        "loesung": "1961",
+        "zahlenbereich": [
+          1961,
+          1961
+        ]
+      },
+      {
+        "frage": "Wie nennt man den Gegensatz zwischen USA und Sowjetunion ohne offenen Krieg?",
+        "antworten": [
+          "kalter krieg"
+        ],
+        "loesung": "Der Kalte Krieg"
+      },
+      {
+        "frage": "Wer war der erste Mensch im Weltall?",
+        "antworten": [
+          "gagarin",
+          "juri gagarin"
+        ],
+        "loesung": "Juri Gagarin"
+      },
+      {
+        "frage": "Wer war die erste Frau im Weltall?",
+        "antworten": [
+          "tereschkowa",
+          "walentina tereschkowa"
+        ],
+        "loesung": "Walentina Tereschkowa"
+      },
+      {
+        "frage": "Welche Erfindung von James Watt trieb die Industrialisierung an?",
+        "antworten": [
+          "dampfmaschine"
+        ],
+        "loesung": "Die Dampfmaschine"
+      },
+      {
+        "frage": "Wie nennt man den Umbruch durch Fabriken und Maschinen im 19. Jahrhundert?",
+        "antworten": [
+          "industrialisierung",
+          "industrielle revolution"
+        ],
+        "loesung": "Die Industrialisierung"
+      },
+      {
+        "frage": "Wer machte die Glühlampe massentauglich?",
+        "antworten": [
+          "edison",
+          "thomas edison"
+        ],
+        "loesung": "Thomas Edison"
+      },
+      {
+        "frage": "Wie hieß die Reformbewegung der Kirche, die 1517 begann?",
+        "antworten": [
+          "reformation"
+        ],
+        "loesung": "Die Reformation"
+      },
+      {
+        "frage": "Schätzfrage: Wie lange dauerte der Erste Weltkrieg?",
+        "schaetzfrage": true,
+        "loesung": "gut 4 Jahre"
+      },
+      {
+        "frage": "Schätzfrage: Wie alt ist die Stadt Rom ungefähr?",
+        "schaetzfrage": true,
+        "loesung": "rund 2700 Jahre"
       }
     ],
     "mittelstufe": [],
@@ -502,6 +972,87 @@ JEKAMI_FRAGEN.geschichte = {
         "frage": "Schätzfrage: Wie viele Menschen lebten um 1900 im Deutschen Reich?",
         "schaetzfrage": true,
         "loesung": "rund 56 Millionen"
+      },
+      {
+        "frage": "Wie heißt der Frieden, der 1648 den Dreißigjährigen Krieg beendete?",
+        "antworten": [
+          "westfälischer friede",
+          "westfälischer frieden",
+          "westfalen"
+        ],
+        "loesung": "Der Westfälische Friede"
+      },
+      {
+        "frage": "Wer war der erste Reichskanzler des Deutschen Kaiserreichs?",
+        "antworten": [
+          "bismarck",
+          "otto von bismarck"
+        ],
+        "loesung": "Otto von Bismarck"
+      },
+      {
+        "frage": "Auf welchem Kongress wurde Europa 1815 neu geordnet?",
+        "antworten": [
+          "wiener kongress",
+          "wien"
+        ],
+        "loesung": "Auf dem Wiener Kongress"
+      },
+      {
+        "frage": "Welcher französische Kaiser wurde 1815 bei Waterloo endgültig besiegt?",
+        "antworten": [
+          "napoleon"
+        ],
+        "loesung": "Napoleon"
+      },
+      {
+        "frage": "Nach welcher Stadt ist die deutsche Verfassung von 1919 benannt?",
+        "antworten": [
+          "weimar"
+        ],
+        "loesung": "Nach Weimar"
+      },
+      {
+        "frage": "An welchem Datum kam es 1953 zum Volksaufstand in der DDR?",
+        "antworten": [
+          "17 juni",
+          "siebzehnter juni"
+        ],
+        "loesung": "Am 17. Juni"
+      },
+      {
+        "frage": "Wie hieß die Versorgung Westberlins aus der Luft 1948 und 1949?",
+        "antworten": [
+          "berliner luftbrücke",
+          "luftbrücke"
+        ],
+        "loesung": "Die Berliner Luftbrücke"
+      },
+      {
+        "frage": "In welchem Jahr wurde die Sowjetunion aufgelöst?",
+        "antworten": [
+          "1991"
+        ],
+        "loesung": "1991",
+        "zahlenbereich": [
+          1991,
+          1991
+        ]
+      },
+      {
+        "frage": "Wie hieß das Militärbündnis der Ostblockstaaten?",
+        "antworten": [
+          "warschauer pakt"
+        ],
+        "loesung": "Der Warschauer Pakt"
+      },
+      {
+        "frage": "Welcher sowjetische Staatschef leitete Glasnost und Perestroika ein?",
+        "antworten": [
+          "gorbatschow",
+          "michail gorbatschow"
+        ],
+        "loesung": "Michail Gorbatschow"
       }
     ]
   }

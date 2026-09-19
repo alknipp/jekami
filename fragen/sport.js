@@ -185,6 +185,246 @@ JEKAMI_FRAGEN.sport = {
         "frage": "Schätzfrage: Wie schwer ist ein Fußball?",
         "schaetzfrage": true,
         "loesung": "rund 430 Gramm"
+      },
+      {
+        "frage": "Mit welchem Körperteil köpft man einen Ball?",
+        "antworten": [
+          "kopf"
+        ],
+        "loesung": "Mit dem Kopf"
+      },
+      {
+        "frage": "Wie heißt der Sport, bei dem man auf einem Brett über Wellen fährt?",
+        "antworten": [
+          "surfen",
+          "wellenreiten"
+        ],
+        "loesung": "Surfen"
+      },
+      {
+        "frage": "Wie heißt der Sport, bei dem man auf einem Brett den Schneeberg hinunterfährt?",
+        "antworten": [
+          "snowboarden",
+          "snowboard"
+        ],
+        "loesung": "Snowboarden"
+      },
+      {
+        "frage": "Was setzt man beim Radfahren zum Schutz auf den Kopf?",
+        "antworten": [
+          "helm",
+          "fahrradhelm"
+        ],
+        "loesung": "Einen Helm"
+      },
+      {
+        "frage": "Wie heißt die Disziplin, bei der man so weit wie möglich springt?",
+        "antworten": [
+          "weitsprung"
+        ],
+        "loesung": "Der Weitsprung"
+      },
+      {
+        "frage": "Wie heißt die Disziplin, bei der man so hoch wie möglich springt?",
+        "antworten": [
+          "hochsprung"
+        ],
+        "loesung": "Der Hochsprung"
+      },
+      {
+        "frage": "Welche Medaille bekommt der Sieger bei Olympia?",
+        "antworten": [
+          "gold",
+          "goldmedaille"
+        ],
+        "loesung": "Die Goldmedaille"
+      },
+      {
+        "frage": "Welche Medaille bekommt der Zweite?",
+        "antworten": [
+          "silber",
+          "silbermedaille"
+        ],
+        "loesung": "Silber"
+      },
+      {
+        "frage": "Welche Medaille bekommt der Dritte?",
+        "antworten": [
+          "bronze",
+          "bronzemedaille"
+        ],
+        "loesung": "Bronze"
+      },
+      {
+        "frage": "Wie heißt die Person, die beim Fußball auf die Regeln achtet?",
+        "antworten": [
+          "schiedsrichter"
+        ],
+        "loesung": "Der Schiedsrichter"
+      },
+      {
+        "frage": "Womit gibt der Schiedsrichter ein Signal?",
+        "antworten": [
+          "pfeife",
+          "trillerpfeife"
+        ],
+        "loesung": "Mit einer Pfeife"
+      },
+      {
+        "frage": "Wie heißt der Sport, bei dem man einen kleinen Ball über ein Netz auf einem Tisch spielt?",
+        "antworten": [
+          "tischtennis",
+          "pingpong"
+        ],
+        "loesung": "Tischtennis"
+      },
+      {
+        "frage": "Wie heißt der Sport, bei dem ein Federball über ein Netz geschlagen wird?",
+        "antworten": [
+          "badminton",
+          "federball"
+        ],
+        "loesung": "Badminton"
+      },
+      {
+        "frage": "Wie viele Spieler stehen sich beim Tennis-Einzel gegenüber?",
+        "antworten": [
+          "2",
+          "zwei"
+        ],
+        "loesung": "2",
+        "zahlenbereich": [
+          2,
+          2
+        ]
+      },
+      {
+        "frage": "Womit fährt man beim Rodeln den Hügel hinunter?",
+        "antworten": [
+          "schlitten"
+        ],
+        "loesung": "Mit einem Schlitten"
+      },
+      {
+        "frage": "Wie heißt der Sport, bei dem man an einer Wand hochklettert?",
+        "antworten": [
+          "klettern"
+        ],
+        "loesung": "Klettern"
+      },
+      {
+        "frage": "Wie heißt der Sport, bei dem man Rollen unter den Schuhen hat?",
+        "antworten": [
+          "inlineskaten",
+          "rollschuhlaufen",
+          "skaten"
+        ],
+        "loesung": "Inlineskaten"
+      },
+      {
+        "frage": "Wie nennt man eine Gruppe, die zusammen Sport macht?",
+        "antworten": [
+          "mannschaft",
+          "team",
+          "verein"
+        ],
+        "loesung": "Eine Mannschaft"
+      },
+      {
+        "frage": "Wie heißt das Gebäude, in dem man drinnen Sport treibt?",
+        "antworten": [
+          "turnhalle",
+          "sporthalle"
+        ],
+        "loesung": "Die Turnhalle"
+      },
+      {
+        "frage": "Welchen Untergrund hat ein Fußballplatz?",
+        "antworten": [
+          "rasen",
+          "gras"
+        ],
+        "loesung": "Rasen"
+      },
+      {
+        "frage": "Wie viele Minuten dauert eine Halbzeit beim Fußball?",
+        "antworten": [
+          "45",
+          "fünfundvierzig"
+        ],
+        "loesung": "45 Minuten",
+        "zahlenbereich": [
+          45,
+          45
+        ]
+      },
+      {
+        "frage": "Wie viele Halbzeiten hat ein Fußballspiel?",
+        "antworten": [
+          "2",
+          "zwei"
+        ],
+        "loesung": "2",
+        "zahlenbereich": [
+          2,
+          2
+        ]
+      },
+      {
+        "frage": "Wie nennt man die Übungen, die man vor dem Sport macht?",
+        "antworten": [
+          "aufwärmen",
+          "warm machen",
+          "dehnen"
+        ],
+        "loesung": "Aufwärmen"
+      },
+      {
+        "frage": "Wie heißt das Turngerät, an dem man sich mit den Händen hochzieht und schwingt?",
+        "antworten": [
+          "reck"
+        ],
+        "loesung": "Das Reck"
+      },
+      {
+        "frage": "Wie heißt das Turngerät mit zwei parallelen Holmen?",
+        "antworten": [
+          "barren"
+        ],
+        "loesung": "Der Barren"
+      },
+      {
+        "frage": "Wie heißt die dicke Matte, auf der man beim Turnen landet?",
+        "antworten": [
+          "weichbodenmatte",
+          "matte"
+        ],
+        "loesung": "Die Weichbodenmatte"
+      },
+      {
+        "frage": "Wie heißt der Sport, bei dem zwei Menschen mit Handschuhen boxen?",
+        "antworten": [
+          "boxen"
+        ],
+        "loesung": "Boxen"
+      },
+      {
+        "frage": "Wie heißt der Sport, bei dem man mit einem Ball Kegel umwirft?",
+        "antworten": [
+          "bowling",
+          "kegeln"
+        ],
+        "loesung": "Bowling"
+      },
+      {
+        "frage": "Schätzfrage: Wie lang ist eine Runde auf der Laufbahn im Stadion?",
+        "schaetzfrage": true,
+        "loesung": "400 Meter"
+      },
+      {
+        "frage": "Schätzfrage: Wie hoch ist ein Fußballtor?",
+        "schaetzfrage": true,
+        "loesung": "2,44 Meter"
       }
     ],
     "unterstufe": [
@@ -382,6 +622,284 @@ JEKAMI_FRAGEN.sport = {
         "frage": "Schätzfrage: Wie schnell fährt ein Radprofi bei einem flachen Zeitfahren im Schnitt?",
         "schaetzfrage": true,
         "loesung": "rund 50 km/h"
+      },
+      {
+        "frage": "Welche Karte bedeutet beim Fußball eine Verwarnung?",
+        "antworten": [
+          "gelbe karte",
+          "gelb"
+        ],
+        "loesung": "Die Gelbe Karte"
+      },
+      {
+        "frage": "Wie lang ist die Verlängerung im Fußball insgesamt?",
+        "antworten": [
+          "30",
+          "dreißig"
+        ],
+        "loesung": "30 Minuten",
+        "zahlenbereich": [
+          30,
+          30
+        ]
+      },
+      {
+        "frage": "Wie viele Schwimmstile gibt es bei Wettkämpfen?",
+        "antworten": [
+          "4",
+          "vier"
+        ],
+        "loesung": "4",
+        "zahlenbereich": [
+          4,
+          4
+        ]
+      },
+      {
+        "frage": "Nenne einen olympischen Schwimmstil.",
+        "antworten": [
+          "kraul",
+          "freistil",
+          "brust",
+          "rücken",
+          "delfin",
+          "schmetterling"
+        ],
+        "loesung": "Zum Beispiel Brustschwimmen"
+      },
+      {
+        "frage": "Aus wie vielen Disziplinen besteht ein Zehnkampf?",
+        "antworten": [
+          "10",
+          "zehn"
+        ],
+        "loesung": "10",
+        "zahlenbereich": [
+          10,
+          10
+        ]
+      },
+      {
+        "frage": "Aus wie vielen Disziplinen besteht ein Siebenkampf?",
+        "antworten": [
+          "7",
+          "sieben"
+        ],
+        "loesung": "7",
+        "zahlenbereich": [
+          7,
+          7
+        ]
+      },
+      {
+        "frage": "Wie heißt die Wurfdisziplin mit einer flachen Scheibe?",
+        "antworten": [
+          "diskus",
+          "diskuswurf"
+        ],
+        "loesung": "Der Diskuswurf"
+      },
+      {
+        "frage": "Wie heißt die Wurfdisziplin mit einem langen Stab mit Spitze?",
+        "antworten": [
+          "speerwurf",
+          "speer"
+        ],
+        "loesung": "Der Speerwurf"
+      },
+      {
+        "frage": "Wie hoch hängt das Volleyballnetz bei den Männern?",
+        "antworten": [
+          "2,43",
+          "2,43 meter"
+        ],
+        "loesung": "2,43 Meter",
+        "zahlenbereich": [
+          2.3,
+          2.5
+        ]
+      },
+      {
+        "frage": "Wie viele Sätze muss eine Volleyballmannschaft für den Sieg gewinnen?",
+        "antworten": [
+          "3",
+          "drei"
+        ],
+        "loesung": "3",
+        "zahlenbereich": [
+          3,
+          3
+        ]
+      },
+      {
+        "frage": "Wie viele Punkte braucht man für einen Volleyballsatz?",
+        "antworten": [
+          "25",
+          "fünfundzwanzig"
+        ],
+        "loesung": "25",
+        "zahlenbereich": [
+          25,
+          25
+        ]
+      },
+      {
+        "frage": "Welcher Punktestand folgt beim Tennis auf null?",
+        "antworten": [
+          "15",
+          "fünfzehn"
+        ],
+        "loesung": "15",
+        "zahlenbereich": [
+          15,
+          15
+        ]
+      },
+      {
+        "frage": "Wie heißt der Gleichstand beim Tennis bei 40 zu 40?",
+        "antworten": [
+          "einstand",
+          "deuce"
+        ],
+        "loesung": "Einstand"
+      },
+      {
+        "frage": "Wie viele Spiele braucht man mindestens für einen Tennissatz?",
+        "antworten": [
+          "6",
+          "sechs"
+        ],
+        "loesung": "6",
+        "zahlenbereich": [
+          6,
+          6
+        ]
+      },
+      {
+        "frage": "Wie heißt die italienische Landesrundfahrt im Radsport?",
+        "antworten": [
+          "giro",
+          "giro d italia"
+        ],
+        "loesung": "Der Giro d'Italia"
+      },
+      {
+        "frage": "Wie heißt die Sportart, bei der mit Pfeil und Bogen auf eine Scheibe geschossen wird?",
+        "antworten": [
+          "bogenschießen"
+        ],
+        "loesung": "Bogenschießen"
+      },
+      {
+        "frage": "Wie heißt die Kombination aus Skilanglauf und Schießen?",
+        "antworten": [
+          "biathlon"
+        ],
+        "loesung": "Biathlon"
+      },
+      {
+        "frage": "Wie heißt die Kombination aus Skispringen und Langlauf?",
+        "antworten": [
+          "nordische kombination"
+        ],
+        "loesung": "Die Nordische Kombination"
+      },
+      {
+        "frage": "Wie lange dauert ein Drittel im Eishockey?",
+        "antworten": [
+          "20",
+          "zwanzig"
+        ],
+        "loesung": "20 Minuten",
+        "zahlenbereich": [
+          20,
+          20
+        ]
+      },
+      {
+        "frage": "Aus wie vielen Dritteln besteht ein Eishockeyspiel?",
+        "antworten": [
+          "3",
+          "drei"
+        ],
+        "loesung": "3",
+        "zahlenbereich": [
+          3,
+          3
+        ]
+      },
+      {
+        "frage": "Wie heißt die Hartgummischeibe im Eishockey?",
+        "antworten": [
+          "puck"
+        ],
+        "loesung": "Der Puck"
+      },
+      {
+        "frage": "Wie heißt der Schlag beim Golf, mit dem man den Ball ins Loch rollt?",
+        "antworten": [
+          "putt",
+          "putten"
+        ],
+        "loesung": "Der Putt"
+      },
+      {
+        "frage": "Wie heißt der japanische Kampfsport mit Würfen und Haltegriffen?",
+        "antworten": [
+          "judo"
+        ],
+        "loesung": "Judo"
+      },
+      {
+        "frage": "Wie heißt der koreanische Kampfsport mit hohen Fußtritten?",
+        "antworten": [
+          "taekwondo"
+        ],
+        "loesung": "Taekwondo"
+      },
+      {
+        "frage": "Wie viele Spieler hat eine Eishockeymannschaft auf dem Eis?",
+        "antworten": [
+          "6",
+          "sechs"
+        ],
+        "loesung": "6",
+        "zahlenbereich": [
+          6,
+          6
+        ]
+      },
+      {
+        "frage": "Wie nennt man den Startsprung ins Wasser beim Schwimmwettkampf?",
+        "antworten": [
+          "startsprung",
+          "kopfsprung"
+        ],
+        "loesung": "Der Startsprung"
+      },
+      {
+        "frage": "Wie heißt der Wettkampf im Reiten über Hindernisse?",
+        "antworten": [
+          "springreiten"
+        ],
+        "loesung": "Das Springreiten"
+      },
+      {
+        "frage": "Wie heißt das Turngerät, an dem nur Männer turnen und das aus zwei hängenden Ringen besteht?",
+        "antworten": [
+          "ringe"
+        ],
+        "loesung": "Die Ringe"
+      },
+      {
+        "frage": "Schätzfrage: Wie weit springen die besten Weitspringer der Welt?",
+        "schaetzfrage": true,
+        "loesung": "rund 8,95 Meter"
+      },
+      {
+        "frage": "Schätzfrage: Wie schnell ist der Aufschlag eines Tennisprofis höchstens?",
+        "schaetzfrage": true,
+        "loesung": "rund 250 km/h"
       }
     ],
     "mittelstufe": [],
@@ -562,6 +1080,92 @@ JEKAMI_FRAGEN.sport = {
         "frage": "Schätzfrage: Wie viele Zuschauer fasst das Dortmunder Stadion?",
         "schaetzfrage": true,
         "loesung": "rund 81.000"
+      },
+      {
+        "frage": "Welcher Verein gewann die meisten Europapokal- und Champions-League-Titel?",
+        "antworten": [
+          "real madrid",
+          "real"
+        ],
+        "loesung": "Real Madrid"
+      },
+      {
+        "frage": "Wie heißt der deutsche Rekordmeister im Fußball?",
+        "antworten": [
+          "bayern",
+          "bayern münchen",
+          "fc bayern"
+        ],
+        "loesung": "Der FC Bayern München"
+      },
+      {
+        "frage": "In welcher deutschen Stadt fanden 1972 die Olympischen Sommerspiele statt?",
+        "antworten": [
+          "münchen"
+        ],
+        "loesung": "In München"
+      },
+      {
+        "frage": "In welchem Jahr fanden die Olympischen Sommerspiele in Berlin statt?",
+        "antworten": [
+          "1936"
+        ],
+        "loesung": "1936",
+        "zahlenbereich": [
+          1936,
+          1936
+        ]
+      },
+      {
+        "frage": "Wie heißt der älteste Fußballpokalwettbewerb der Welt?",
+        "antworten": [
+          "fa cup"
+        ],
+        "loesung": "Der FA Cup"
+      },
+      {
+        "frage": "Wie viele Spieler hat eine Rugby-Union-Mannschaft auf dem Feld?",
+        "antworten": [
+          "15",
+          "fünfzehn"
+        ],
+        "loesung": "15",
+        "zahlenbereich": [
+          15,
+          15
+        ]
+      },
+      {
+        "frage": "Welcher Boxer nannte sich selbst The Greatest?",
+        "antworten": [
+          "muhammad ali",
+          "ali",
+          "cassius clay"
+        ],
+        "loesung": "Muhammad Ali"
+      },
+      {
+        "frage": "Wie heißt die spanische Landesrundfahrt im Radsport?",
+        "antworten": [
+          "vuelta"
+        ],
+        "loesung": "Die Vuelta"
+      },
+      {
+        "frage": "In welchem Ort fanden 1924 die ersten Olympischen Winterspiele statt?",
+        "antworten": [
+          "chamonix"
+        ],
+        "loesung": "In Chamonix"
+      },
+      {
+        "frage": "Wie nennt man es, wenn ein Spieler alle vier Grand-Slam-Turniere in einem Jahr gewinnt?",
+        "antworten": [
+          "grand slam",
+          "kalender slam",
+          "golden slam"
+        ],
+        "loesung": "Einen Kalender-Grand-Slam"
       }
     ]
   }
