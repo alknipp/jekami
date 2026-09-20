@@ -5,7 +5,7 @@
 
    Die Liste der Themendateien baut sich selbst aus fragen/liste.js -
    ein neues Themengebiet muss hier nicht eingetragen werden. */
-var VERSION = "jekami-v12";
+var VERSION = "jekami-v21";
 
 var DATEIEN = [
   "./", "./index.html", "./manifest.webmanifest",
