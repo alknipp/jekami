@@ -400,6 +400,403 @@ JEKAMI_FRAGEN.geschichte = {
         "frage": "Schätzfrage: Wie schwer war eine Ritterrüstung?",
         "schaetzfrage": true,
         "loesung": "rund 25 Kilogramm"
+      },
+      {
+        "frage": "Wo wohnten die Menschen in der Steinzeit?",
+        "antworten": [
+          "höhlen",
+          "in höhlen",
+          "höhle"
+        ],
+        "loesung": "In Höhlen"
+      },
+      {
+        "frage": "Welches riesige Tier mit Stoßzähnen jagten die Steinzeitmenschen?",
+        "antworten": [
+          "mammut"
+        ],
+        "loesung": "Das Mammut"
+      },
+      {
+        "frage": "Woraus waren die ersten Werkzeuge der Menschen?",
+        "antworten": [
+          "stein"
+        ],
+        "loesung": "Aus Stein"
+      },
+      {
+        "frage": "Wie nennt man die Zeit nach der Bronzezeit?",
+        "antworten": [
+          "eisenzeit"
+        ],
+        "loesung": "Die Eisenzeit"
+      },
+      {
+        "frage": "Welches Tier zähmte der Mensch als erstes?",
+        "antworten": [
+          "hund",
+          "wolf"
+        ],
+        "loesung": "Den Hund"
+      },
+      {
+        "frage": "Wie nennt man Menschen, die umherzogen und jagten?",
+        "antworten": [
+          "jäger und sammler",
+          "nomaden"
+        ],
+        "loesung": "Jäger und Sammler"
+      },
+      {
+        "frage": "Wozu bauten die Ägypter die Pyramiden?",
+        "antworten": [
+          "grab",
+          "gräber",
+          "als grab"
+        ],
+        "loesung": "Als Grabmal"
+      },
+      {
+        "frage": "Welcher Fluss war für das alte Ägypten lebenswichtig?",
+        "antworten": [
+          "nil"
+        ],
+        "loesung": "Der Nil"
+      },
+      {
+        "frage": "Wie heißt die große Figur in Ägypten mit Löwenkörper und Menschenkopf?",
+        "antworten": [
+          "sphinx"
+        ],
+        "loesung": "Die Sphinx"
+      },
+      {
+        "frage": "Worauf schrieben die Ägypter?",
+        "antworten": [
+          "papyrus"
+        ],
+        "loesung": "Auf Papyrus"
+      },
+      {
+        "frage": "Wie nannten die Römer ihre gepflasterten Straßen?",
+        "antworten": [
+          "römerstraßen",
+          "römerstraße"
+        ],
+        "loesung": "Römerstraßen"
+      },
+      {
+        "frage": "Welche Badehäuser bauten die Römer?",
+        "antworten": [
+          "thermen",
+          "bäder"
+        ],
+        "loesung": "Thermen"
+      },
+      {
+        "frage": "Welche Sprache sprachen die Römer?",
+        "antworten": [
+          "latein"
+        ],
+        "loesung": "Latein"
+      },
+      {
+        "frage": "Wie hießen die Soldaten der Römer?",
+        "antworten": [
+          "legionäre",
+          "legionär"
+        ],
+        "loesung": "Legionäre"
+      },
+      {
+        "frage": "Wie hieß die römische Grenzbefestigung in Deutschland?",
+        "antworten": [
+          "limes"
+        ],
+        "loesung": "Der Limes"
+      },
+      {
+        "frage": "Wie kam man über den Wassergraben in eine Burg?",
+        "antworten": [
+          "zugbrücke",
+          "über die zugbrücke"
+        ],
+        "loesung": "Über die Zugbrücke"
+      },
+      {
+        "frage": "Wie heißt das Gitter, das vor dem Burgtor herabgelassen wurde?",
+        "antworten": [
+          "fallgitter"
+        ],
+        "loesung": "Das Fallgitter"
+      },
+      {
+        "frage": "Wer arbeitete im Mittelalter auf den Feldern der Ritter?",
+        "antworten": [
+          "bauern",
+          "bauer"
+        ],
+        "loesung": "Die Bauern"
+      },
+      {
+        "frage": "Was war im Mittelalter das wichtigste Verkehrsmittel?",
+        "antworten": [
+          "pferd",
+          "das pferd"
+        ],
+        "loesung": "Das Pferd"
+      },
+      {
+        "frage": "Was schützte eine mittelalterliche Stadt vor Angreifern?",
+        "antworten": [
+          "stadtmauer",
+          "mauer"
+        ],
+        "loesung": "Die Stadtmauer"
+      },
+      {
+        "frage": "Wie hieß der berühmte Kaiser mit dem roten Bart?",
+        "antworten": [
+          "barbarossa",
+          "friedrich barbarossa"
+        ],
+        "loesung": "Barbarossa"
+      },
+      {
+        "frage": "Was war die Aufgabe eines Narren am Königshof?",
+        "antworten": [
+          "unterhalten",
+          "späße machen",
+          "lustig sein"
+        ],
+        "loesung": "Er unterhielt den Hof"
+      },
+      {
+        "frage": "Wie stellte man Bücher her, bevor es den Buchdruck gab?",
+        "antworten": [
+          "mit der hand",
+          "abschreiben",
+          "handschrift"
+        ],
+        "loesung": "Von Hand abgeschrieben"
+      },
+      {
+        "frage": "Wer erfand das Telefon?",
+        "antworten": [
+          "bell",
+          "alexander graham bell"
+        ],
+        "loesung": "Alexander Graham Bell"
+      },
+      {
+        "frage": "Womit verschickte man früher Nachrichten über weite Strecken?",
+        "antworten": [
+          "brieftaube",
+          "bote",
+          "reiter"
+        ],
+        "loesung": "Mit Brieftauben oder Boten"
+      },
+      {
+        "frage": "Wie hieß das erste Fahrrad, das noch keine Pedale hatte?",
+        "antworten": [
+          "laufrad",
+          "draisine"
+        ],
+        "loesung": "Die Draisine"
+      },
+      {
+        "frage": "Womit kühlte man Lebensmittel vor dem Kühlschrank?",
+        "antworten": [
+          "eis",
+          "eiskeller"
+        ],
+        "loesung": "Mit Eis"
+      },
+      {
+        "frage": "Womit heizte man die Häuser früher?",
+        "antworten": [
+          "holz",
+          "ofen",
+          "kohle"
+        ],
+        "loesung": "Mit Holz im Ofen"
+      },
+      {
+        "frage": "Wie hießen die Straßenlaternen vor dem elektrischen Licht?",
+        "antworten": [
+          "gaslaterne",
+          "gaslaternen",
+          "gaslicht"
+        ],
+        "loesung": "Gaslaternen"
+      },
+      {
+        "frage": "Womit fuhren Auswanderer früher nach Amerika?",
+        "antworten": [
+          "schiff",
+          "mit dem schiff"
+        ],
+        "loesung": "Mit dem Schiff"
+      },
+      {
+        "frage": "Wie nennt man eine sehr große alte Kirche mit hohen Türmen?",
+        "antworten": [
+          "dom",
+          "kathedrale",
+          "münster"
+        ],
+        "loesung": "Ein Dom"
+      },
+      {
+        "frage": "Welche deutsche Stadt war durch eine Mauer geteilt?",
+        "antworten": [
+          "berlin"
+        ],
+        "loesung": "Berlin"
+      },
+      {
+        "frage": "Was feiern wir am 3. Oktober?",
+        "antworten": [
+          "deutsche einheit",
+          "tag der deutschen einheit",
+          "wiedervereinigung"
+        ],
+        "loesung": "Die Deutsche Einheit"
+      },
+      {
+        "frage": "Wie nennt man die Übersicht über die eigenen Vorfahren?",
+        "antworten": [
+          "stammbaum",
+          "familienstammbaum"
+        ],
+        "loesung": "Ein Stammbaum"
+      },
+      {
+        "frage": "Womit wusch man Wäsche vor der Waschmaschine?",
+        "antworten": [
+          "hand",
+          "mit der hand",
+          "waschbrett"
+        ],
+        "loesung": "Von Hand"
+      },
+      {
+        "frage": "Wie nennt man ein Gefäß aus Ton, wie es früher überall benutzt wurde?",
+        "antworten": [
+          "tonkrug",
+          "krug",
+          "topf"
+        ],
+        "loesung": "Ein Tonkrug"
+      },
+      {
+        "frage": "Wie heißt das Rad, mit dem man früher Getreide mahlte?",
+        "antworten": [
+          "mühlrad",
+          "mühle",
+          "wasserrad"
+        ],
+        "loesung": "Das Mühlrad"
+      },
+      {
+        "frage": "Wie nennt man den Ort, an dem früher Getreide zu Mehl wurde?",
+        "antworten": [
+          "mühle"
+        ],
+        "loesung": "Die Mühle"
+      },
+      {
+        "frage": "Welches Tier brachte im Mittelalter die Pest in die Städte?",
+        "antworten": [
+          "ratte",
+          "ratten",
+          "flöhe"
+        ],
+        "loesung": "Die Ratten"
+      },
+      {
+        "frage": "Wie nennt man die Zeichnungen, mit denen Mönche Bücher schmückten?",
+        "antworten": [
+          "buchmalerei",
+          "verzierungen"
+        ],
+        "loesung": "Buchmalerei"
+      },
+      {
+        "frage": "Was trugen reiche Leute früher als Zeichen ihres Standes?",
+        "antworten": [
+          "schmuck",
+          "pelze",
+          "feine kleider"
+        ],
+        "loesung": "Schmuck und feine Kleider"
+      },
+      {
+        "frage": "Wie nannte man den Mann, der Nachrichten in der Stadt ausrief?",
+        "antworten": [
+          "ausrufer",
+          "stadtausrufer"
+        ],
+        "loesung": "Der Ausrufer"
+      },
+      {
+        "frage": "Welches Werkzeug benutzten Ritter außer dem Schwert?",
+        "antworten": [
+          "lanze",
+          "schild",
+          "streitkolben",
+          "axt"
+        ],
+        "loesung": "Die Lanze"
+      },
+      {
+        "frage": "Wie heißt der Helm mit dem Gitter vor dem Gesicht?",
+        "antworten": [
+          "visierhelm",
+          "helm",
+          "visier"
+        ],
+        "loesung": "Der Helm mit Visier"
+      },
+      {
+        "frage": "Wie nennt man ein Schiff mit vielen Segeln aus alter Zeit?",
+        "antworten": [
+          "segelschiff",
+          "segler"
+        ],
+        "loesung": "Ein Segelschiff"
+      },
+      {
+        "frage": "Wie nennt man eine sehr alte Handschrift auf Pergament?",
+        "antworten": [
+          "pergament",
+          "handschrift",
+          "urkunde"
+        ],
+        "loesung": "Eine Handschrift auf Pergament"
+      },
+      {
+        "frage": "Wie nennt man die Menschen, die im alten Griechenland lebten?",
+        "antworten": [
+          "griechen"
+        ],
+        "loesung": "Die Griechen"
+      },
+      {
+        "frage": "Schätzfrage: Wie alt ist das Kolosseum in Rom?",
+        "schaetzfrage": true,
+        "loesung": "rund 1950 Jahre"
+      },
+      {
+        "frage": "Schätzfrage: Wie lange stand die Berliner Mauer?",
+        "schaetzfrage": true,
+        "loesung": "28 Jahre"
+      },
+      {
+        "frage": "Schätzfrage: Wie viele Jahre dauerte das Mittelalter ungefähr?",
+        "schaetzfrage": true,
+        "loesung": "rund 1000 Jahre"
       }
     ],
     "unterstufe": [
@@ -796,6 +1193,402 @@ JEKAMI_FRAGEN.geschichte = {
         "frage": "Schätzfrage: Wie alt ist die Stadt Rom ungefähr?",
         "schaetzfrage": true,
         "loesung": "rund 2700 Jahre"
+      },
+      {
+        "frage": "Wie hieß der sagenhafte Krieg der Griechen um eine Stadt in Kleinasien?",
+        "antworten": [
+          "trojanischer krieg",
+          "troja"
+        ],
+        "loesung": "Der Trojanische Krieg"
+      },
+      {
+        "frage": "Welcher Dichter verfasste Ilias und Odyssee?",
+        "antworten": [
+          "homer"
+        ],
+        "loesung": "Homer"
+      },
+      {
+        "frage": "Welcher Philosoph war der bekannteste Schüler von Sokrates?",
+        "antworten": [
+          "platon"
+        ],
+        "loesung": "Platon"
+      },
+      {
+        "frage": "Wer war der Lehrer Alexanders des Großen?",
+        "antworten": [
+          "aristoteles"
+        ],
+        "loesung": "Aristoteles"
+      },
+      {
+        "frage": "Wie hieß die letzte Königin des alten Ägypten?",
+        "antworten": [
+          "kleopatra"
+        ],
+        "loesung": "Kleopatra"
+      },
+      {
+        "frage": "Wie hießen die Kriege Roms gegen Karthago?",
+        "antworten": [
+          "punische kriege"
+        ],
+        "loesung": "Die Punischen Kriege"
+      },
+      {
+        "frage": "Welcher Feldherr zog mit Elefanten über die Alpen?",
+        "antworten": [
+          "hannibal"
+        ],
+        "loesung": "Hannibal"
+      },
+      {
+        "frage": "In welchem Jahr endete das Weströmische Reich?",
+        "antworten": [
+          "476"
+        ],
+        "loesung": "476",
+        "zahlenbereich": [
+          476,
+          476
+        ]
+      },
+      {
+        "frage": "Wie heißt die Schlacht, in der Germanen drei römische Legionen vernichteten?",
+        "antworten": [
+          "varusschlacht",
+          "schlacht im teutoburger wald"
+        ],
+        "loesung": "Die Varusschlacht"
+      },
+      {
+        "frage": "Wie hieß das Reich Karls des Großen?",
+        "antworten": [
+          "frankenreich",
+          "fränkisches reich"
+        ],
+        "loesung": "Das Frankenreich"
+      },
+      {
+        "frage": "Wie nennt man die mittelalterliche Ordnung aus Lehen und Gefolgschaft?",
+        "antworten": [
+          "lehnswesen",
+          "feudalismus",
+          "feudalsystem"
+        ],
+        "loesung": "Das Lehnswesen"
+      },
+      {
+        "frage": "Welche Stadt war die führende Stadt der Hanse?",
+        "antworten": [
+          "lübeck"
+        ],
+        "loesung": "Lübeck"
+      },
+      {
+        "frage": "Wie nannte man den Zusammenschluss von Handwerkern im Mittelalter?",
+        "antworten": [
+          "zunft",
+          "zünfte",
+          "gilde"
+        ],
+        "loesung": "Eine Zunft"
+      },
+      {
+        "frage": "Wie nannte man im Mittelalter die Bewohner einer Stadt mit eigenen Rechten?",
+        "antworten": [
+          "bürger"
+        ],
+        "loesung": "Bürger"
+      },
+      {
+        "frage": "Welche deutsche Universität wurde 1386 gegründet?",
+        "antworten": [
+          "heidelberg",
+          "universität heidelberg"
+        ],
+        "loesung": "Heidelberg"
+      },
+      {
+        "frage": "Welches Buch druckte Gutenberg als erstes großes Werk?",
+        "antworten": [
+          "bibel",
+          "die bibel"
+        ],
+        "loesung": "Die Bibel"
+      },
+      {
+        "frage": "Wie hieß der große Bauernaufstand von 1525?",
+        "antworten": [
+          "bauernkrieg",
+          "deutscher bauernkrieg"
+        ],
+        "loesung": "Der Bauernkrieg"
+      },
+      {
+        "frage": "Wie nennt man die Antwort der katholischen Kirche auf die Reformation?",
+        "antworten": [
+          "gegenreformation"
+        ],
+        "loesung": "Die Gegenreformation"
+      },
+      {
+        "frage": "Welcher Seefahrer fand den Seeweg um Afrika nach Indien?",
+        "antworten": [
+          "vasco da gama",
+          "da gama"
+        ],
+        "loesung": "Vasco da Gama"
+      },
+      {
+        "frage": "Welcher britische Seefahrer erforschte im 18. Jahrhundert den Pazifik?",
+        "antworten": [
+          "cook",
+          "james cook"
+        ],
+        "loesung": "James Cook"
+      },
+      {
+        "frage": "Wie nennt man die Geistesströmung des 18. Jahrhunderts, die auf Vernunft setzte?",
+        "antworten": [
+          "aufklärung"
+        ],
+        "loesung": "Die Aufklärung"
+      },
+      {
+        "frage": "Welcher preußische König wird Friedrich der Große genannt?",
+        "antworten": [
+          "friedrich ii",
+          "friedrich der zweite",
+          "friedrich"
+        ],
+        "loesung": "Friedrich II."
+      },
+      {
+        "frage": "In welchem Jahr erklärten die USA ihre Unabhängigkeit?",
+        "antworten": [
+          "1776"
+        ],
+        "loesung": "1776",
+        "zahlenbereich": [
+          1776,
+          1776
+        ]
+      },
+      {
+        "frage": "Zwischen welchen beiden Städten fuhr 1835 die erste deutsche Eisenbahn?",
+        "antworten": [
+          "nürnberg und fürth",
+          "nürnberg fürth",
+          "nürnberg"
+        ],
+        "loesung": "Zwischen Nürnberg und Fürth"
+      },
+      {
+        "frage": "Wie hieß die deutsche Revolution von 1848?",
+        "antworten": [
+          "märzrevolution",
+          "revolution 1848"
+        ],
+        "loesung": "Die Märzrevolution"
+      },
+      {
+        "frage": "In welchem Gebäude tagte 1848 das erste gesamtdeutsche Parlament?",
+        "antworten": [
+          "paulskirche"
+        ],
+        "loesung": "In der Paulskirche"
+      },
+      {
+        "frage": "Wie hieß der Krieg zwischen Nord- und Südstaaten in den USA?",
+        "antworten": [
+          "sezessionskrieg",
+          "amerikanischer bürgerkrieg",
+          "bürgerkrieg"
+        ],
+        "loesung": "Der Sezessionskrieg"
+      },
+      {
+        "frage": "Welcher US-Präsident setzte die Abschaffung der Sklaverei durch?",
+        "antworten": [
+          "lincoln",
+          "abraham lincoln"
+        ],
+        "loesung": "Abraham Lincoln"
+      },
+      {
+        "frage": "Wie nannte man die Frauen, die um 1900 für das Wahlrecht kämpften?",
+        "antworten": [
+          "suffragetten"
+        ],
+        "loesung": "Die Suffragetten"
+      },
+      {
+        "frage": "In welchem Jahr durften Frauen in Deutschland erstmals wählen?",
+        "antworten": [
+          "1919",
+          "1918"
+        ],
+        "loesung": "1919",
+        "zahlenbereich": [
+          1918,
+          1919
+        ]
+      },
+      {
+        "frage": "Welches Attentat löste 1914 den Ersten Weltkrieg aus?",
+        "antworten": [
+          "sarajevo",
+          "franz ferdinand",
+          "attentat von sarajevo"
+        ],
+        "loesung": "Das Attentat von Sarajevo"
+      },
+      {
+        "frage": "Wie nannte man das Bündnis von Deutschland und Österreich-Ungarn im Ersten Weltkrieg?",
+        "antworten": [
+          "mittelmächte"
+        ],
+        "loesung": "Die Mittelmächte"
+      },
+      {
+        "frage": "Wie hieß der Börsenkrach von 1929, der die Weltwirtschaftskrise auslöste?",
+        "antworten": [
+          "schwarzer freitag",
+          "schwarzer donnerstag",
+          "börsenkrach"
+        ],
+        "loesung": "Der Schwarze Freitag"
+      },
+      {
+        "frage": "Wie nennt man die Pogrome gegen Juden im November 1938?",
+        "antworten": [
+          "reichspogromnacht",
+          "novemberpogrome"
+        ],
+        "loesung": "Die Reichspogromnacht"
+      },
+      {
+        "frage": "Wie heißt die Landung der Alliierten in der Normandie 1944 kurz?",
+        "antworten": [
+          "d day",
+          "d-day"
+        ],
+        "loesung": "Der D-Day"
+      },
+      {
+        "frage": "Auf welche japanische Stadt fiel 1945 die erste Atombombe?",
+        "antworten": [
+          "hiroshima"
+        ],
+        "loesung": "Hiroshima"
+      },
+      {
+        "frage": "Welche Organisation wurde 1945 zur Sicherung des Friedens gegründet?",
+        "antworten": [
+          "vereinte nationen",
+          "uno",
+          "un"
+        ],
+        "loesung": "Die Vereinten Nationen"
+      },
+      {
+        "frage": "Wie hieß der erste künstliche Satellit der Erde?",
+        "antworten": [
+          "sputnik"
+        ],
+        "loesung": "Sputnik"
+      },
+      {
+        "frage": "In welchem Jahr landeten erstmals Menschen auf dem Mond?",
+        "antworten": [
+          "1969"
+        ],
+        "loesung": "1969",
+        "zahlenbereich": [
+          1969,
+          1969
+        ]
+      },
+      {
+        "frage": "Wie hieß das Kernkraftwerk, in dem 1986 ein schwerer Unfall geschah?",
+        "antworten": [
+          "tschernobyl"
+        ],
+        "loesung": "Tschernobyl"
+      },
+      {
+        "frage": "Wie nennt man die Protestbewegung, die 1989 zum Mauerfall führte?",
+        "antworten": [
+          "friedliche revolution",
+          "montagsdemonstrationen",
+          "wende"
+        ],
+        "loesung": "Die Friedliche Revolution"
+      },
+      {
+        "frage": "Wie hieß die Mauer zwischen West- und Ostberlin im Volksmund der DDR-Führung?",
+        "antworten": [
+          "antifaschistischer schutzwall",
+          "schutzwall"
+        ],
+        "loesung": "Antifaschistischer Schutzwall"
+      },
+      {
+        "frage": "Wie nannte man die Aufteilung Deutschlands in vier Besatzungszonen?",
+        "antworten": [
+          "besatzungszonen",
+          "vier zonen"
+        ],
+        "loesung": "Die Besatzungszonen"
+      },
+      {
+        "frage": "Welche vier Mächte besetzten Deutschland nach 1945?",
+        "antworten": [
+          "usa sowjetunion großbritannien frankreich",
+          "usa udssr england frankreich"
+        ],
+        "loesung": "USA, Sowjetunion, Großbritannien und Frankreich"
+      },
+      {
+        "frage": "Wie hieß die Währungsreform in Westdeutschland 1948?",
+        "antworten": [
+          "währungsreform",
+          "d mark"
+        ],
+        "loesung": "Die Währungsreform"
+      },
+      {
+        "frage": "Wie nannte man den wirtschaftlichen Aufschwung der 1950er-Jahre?",
+        "antworten": [
+          "wirtschaftswunder"
+        ],
+        "loesung": "Das Wirtschaftswunder"
+      },
+      {
+        "frage": "Wie nannte man die Gastarbeiter-Anwerbung ab 1955?",
+        "antworten": [
+          "anwerbeabkommen",
+          "gastarbeiter"
+        ],
+        "loesung": "Die Anwerbeabkommen"
+      },
+      {
+        "frage": "Schätzfrage: Wie lange dauerte der Zweite Weltkrieg?",
+        "schaetzfrage": true,
+        "loesung": "knapp 6 Jahre"
+      },
+      {
+        "frage": "Schätzfrage: In welchem Jahr erfand Gutenberg den Buchdruck?",
+        "schaetzfrage": true,
+        "loesung": "um 1450"
+      },
+      {
+        "frage": "Schätzfrage: Wie viele große Kreuzzüge gab es?",
+        "schaetzfrage": true,
+        "loesung": "7"
       }
     ],
     "mittelstufe": [],

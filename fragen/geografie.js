@@ -371,6 +371,373 @@ JEKAMI_FRAGEN.geografie = {
           "tropisch"
         ],
         "loesung": "Die Tropen"
+      },
+      {
+        "frage": "Wie heißen die vier Himmelsrichtungen?",
+        "antworten": [
+          "norden osten süden westen",
+          "norden süden osten westen"
+        ],
+        "loesung": "Norden, Osten, Süden, Westen"
+      },
+      {
+        "frage": "Welche Himmelsrichtung liegt Norden gegenüber?",
+        "antworten": [
+          "süden"
+        ],
+        "loesung": "Süden"
+      },
+      {
+        "frage": "Welche Himmelsrichtung ist auf einer Landkarte oben?",
+        "antworten": [
+          "norden"
+        ],
+        "loesung": "Norden"
+      },
+      {
+        "frage": "Welche Farbe haben Berge auf vielen Landkarten?",
+        "antworten": [
+          "braun"
+        ],
+        "loesung": "Braun"
+      },
+      {
+        "frage": "Wie nennt man die Erklärung der Zeichen auf einer Karte?",
+        "antworten": [
+          "legende"
+        ],
+        "loesung": "Die Legende"
+      },
+      {
+        "frage": "Wie nennt man eine Karte, die nur eine Stadt zeigt?",
+        "antworten": [
+          "stadtplan"
+        ],
+        "loesung": "Ein Stadtplan"
+      },
+      {
+        "frage": "Wie nennt man die Linie, an der Himmel und Erde sich zu berühren scheinen?",
+        "antworten": [
+          "horizont"
+        ],
+        "loesung": "Der Horizont"
+      },
+      {
+        "frage": "An welchem Fluss liegt Köln?",
+        "antworten": [
+          "rhein"
+        ],
+        "loesung": "Am Rhein"
+      },
+      {
+        "frage": "An welchem Fluss liegt Frankfurt?",
+        "antworten": [
+          "main"
+        ],
+        "loesung": "Am Main"
+      },
+      {
+        "frage": "Wie heißt die größte Stadt Deutschlands?",
+        "antworten": [
+          "berlin"
+        ],
+        "loesung": "Berlin"
+      },
+      {
+        "frage": "Wie heißt die zweitgrößte Stadt Deutschlands?",
+        "antworten": [
+          "hamburg"
+        ],
+        "loesung": "Hamburg"
+      },
+      {
+        "frage": "In welchem Bundesland liegt München?",
+        "antworten": [
+          "bayern"
+        ],
+        "loesung": "In Bayern"
+      },
+      {
+        "frage": "In welchem Bundesland liegt Dresden?",
+        "antworten": [
+          "sachsen"
+        ],
+        "loesung": "In Sachsen"
+      },
+      {
+        "frage": "Welches Bundesland liegt ganz im Norden?",
+        "antworten": [
+          "schleswig-holstein",
+          "schleswig holstein"
+        ],
+        "loesung": "Schleswig-Holstein"
+      },
+      {
+        "frage": "Wie heißt die Insel in der Nordsee mit den roten Felsen?",
+        "antworten": [
+          "helgoland"
+        ],
+        "loesung": "Helgoland"
+      },
+      {
+        "frage": "Wie heißt das Meer, das bei Ebbe trockenfällt?",
+        "antworten": [
+          "wattenmeer",
+          "watt"
+        ],
+        "loesung": "Das Wattenmeer"
+      },
+      {
+        "frage": "Was passiert bei Ebbe?",
+        "antworten": [
+          "wasser geht zurück",
+          "wasser läuft ab",
+          "es wird weniger"
+        ],
+        "loesung": "Das Wasser läuft ab"
+      },
+      {
+        "frage": "Was passiert bei Flut?",
+        "antworten": [
+          "wasser kommt",
+          "wasser steigt"
+        ],
+        "loesung": "Das Wasser kommt zurück"
+      },
+      {
+        "frage": "Auf welchem Erdteil liegt Indien?",
+        "antworten": [
+          "asien"
+        ],
+        "loesung": "In Asien"
+      },
+      {
+        "frage": "Auf welchem Erdteil liegt Brasilien?",
+        "antworten": [
+          "südamerika"
+        ],
+        "loesung": "In Südamerika"
+      },
+      {
+        "frage": "Auf welchem Erdteil liegt Kanada?",
+        "antworten": [
+          "nordamerika"
+        ],
+        "loesung": "In Nordamerika"
+      },
+      {
+        "frage": "In welchem Land leben Pandas in freier Natur?",
+        "antworten": [
+          "china"
+        ],
+        "loesung": "In China"
+      },
+      {
+        "frage": "Welches Tier mit Beutel lebt in Australien?",
+        "antworten": [
+          "känguru",
+          "koala"
+        ],
+        "loesung": "Das Känguru"
+      },
+      {
+        "frage": "In welchem Land steht der Kreml?",
+        "antworten": [
+          "russland"
+        ],
+        "loesung": "In Russland"
+      },
+      {
+        "frage": "In welchem Land steht die Akropolis?",
+        "antworten": [
+          "griechenland"
+        ],
+        "loesung": "In Griechenland"
+      },
+      {
+        "frage": "Welche Stadt ist für ihre Kanäle und Gondeln bekannt?",
+        "antworten": [
+          "venedig"
+        ],
+        "loesung": "Venedig"
+      },
+      {
+        "frage": "In welchem Land steht der Big Ben?",
+        "antworten": [
+          "england",
+          "großbritannien",
+          "vereinigtes königreich"
+        ],
+        "loesung": "In England"
+      },
+      {
+        "frage": "Wie heißt die Hauptstadt von England?",
+        "antworten": [
+          "london"
+        ],
+        "loesung": "London"
+      },
+      {
+        "frage": "Welches große Land liegt östlich von Deutschland?",
+        "antworten": [
+          "polen"
+        ],
+        "loesung": "Polen"
+      },
+      {
+        "frage": "Wie viele Ozeane gibt es?",
+        "antworten": [
+          "5",
+          "fünf"
+        ],
+        "loesung": "5",
+        "zahlenbereich": [
+          5,
+          5
+        ]
+      },
+      {
+        "frage": "Wie nennt man mehrere Inseln, die zusammenliegen?",
+        "antworten": [
+          "inselgruppe",
+          "archipel"
+        ],
+        "loesung": "Eine Inselgruppe"
+      },
+      {
+        "frage": "Was ist größer: ein See oder ein Meer?",
+        "antworten": [
+          "meer",
+          "das meer"
+        ],
+        "loesung": "Das Meer"
+      },
+      {
+        "frage": "Wie nennt man einen besonders großen Fluss?",
+        "antworten": [
+          "strom"
+        ],
+        "loesung": "Ein Strom"
+      },
+      {
+        "frage": "Wie nennt man Regen, Sonne und Wind zusammen?",
+        "antworten": [
+          "wetter"
+        ],
+        "loesung": "Das Wetter"
+      },
+      {
+        "frage": "Wie nennt man das Wetter, gemessen über viele Jahre?",
+        "antworten": [
+          "klima"
+        ],
+        "loesung": "Das Klima"
+      },
+      {
+        "frage": "Wo auf der Erde ist es am kältesten?",
+        "antworten": [
+          "pole",
+          "an den polen",
+          "nordpol",
+          "südpol"
+        ],
+        "loesung": "An den Polen"
+      },
+      {
+        "frage": "Wo auf der Erde ist es am wärmsten?",
+        "antworten": [
+          "äquator",
+          "am äquator"
+        ],
+        "loesung": "Am Äquator"
+      },
+      {
+        "frage": "Wie nennt man ein Land ohne Zugang zum Meer?",
+        "antworten": [
+          "binnenland"
+        ],
+        "loesung": "Ein Binnenland"
+      },
+      {
+        "frage": "Welche Sprache spricht man in Frankreich?",
+        "antworten": [
+          "französisch"
+        ],
+        "loesung": "Französisch"
+      },
+      {
+        "frage": "Welche Sprache spricht man in Spanien?",
+        "antworten": [
+          "spanisch"
+        ],
+        "loesung": "Spanisch"
+      },
+      {
+        "frage": "Welche Sprache spricht man in Italien?",
+        "antworten": [
+          "italienisch"
+        ],
+        "loesung": "Italienisch"
+      },
+      {
+        "frage": "In welchem Land liegt Wien?",
+        "antworten": [
+          "österreich"
+        ],
+        "loesung": "In Österreich"
+      },
+      {
+        "frage": "In welchem Land liegt Zürich?",
+        "antworten": [
+          "schweiz"
+        ],
+        "loesung": "In der Schweiz"
+      },
+      {
+        "frage": "Wie heißt das kleine Nachbarland mit der Hauptstadt Luxemburg?",
+        "antworten": [
+          "luxemburg"
+        ],
+        "loesung": "Luxemburg"
+      },
+      {
+        "frage": "Welches Land ist für seine Fjorde bekannt?",
+        "antworten": [
+          "norwegen"
+        ],
+        "loesung": "Norwegen"
+      },
+      {
+        "frage": "Welches Inselland im Norden ist für Vulkane und heiße Quellen bekannt?",
+        "antworten": [
+          "island"
+        ],
+        "loesung": "Island"
+      },
+      {
+        "frage": "Wie nennt man eine Stelle, an der Wasser über eine Felskante stürzt?",
+        "antworten": [
+          "wasserfall"
+        ],
+        "loesung": "Ein Wasserfall"
+      },
+      {
+        "frage": "Wie nennt man ein Tal, durch das ein Fluss fließt?",
+        "antworten": [
+          "flusstal",
+          "tal"
+        ],
+        "loesung": "Ein Flusstal"
+      },
+      {
+        "frage": "Schätzfrage: Wie viele Nachbarländer hat Deutschland?",
+        "schaetzfrage": true,
+        "loesung": "9 Nachbarländer"
+      },
+      {
+        "frage": "Schätzfrage: Wie weit ist es von Hamburg nach München Luftlinie?",
+        "schaetzfrage": true,
+        "loesung": "rund 600 Kilometer"
       }
     ],
     "unterstufe": [
@@ -740,6 +1107,373 @@ JEKAMI_FRAGEN.geografie = {
           "indonesien"
         ],
         "loesung": "Indonesien"
+      },
+      {
+        "frage": "Wie heißt die Hauptstadt von Finnland?",
+        "antworten": [
+          "helsinki"
+        ],
+        "loesung": "Helsinki"
+      },
+      {
+        "frage": "Wie heißt die Hauptstadt von Irland?",
+        "antworten": [
+          "dublin"
+        ],
+        "loesung": "Dublin"
+      },
+      {
+        "frage": "Wie heißt die Hauptstadt von Tschechien?",
+        "antworten": [
+          "prag"
+        ],
+        "loesung": "Prag"
+      },
+      {
+        "frage": "Wie heißt die Hauptstadt von Ägypten?",
+        "antworten": [
+          "kairo"
+        ],
+        "loesung": "Kairo"
+      },
+      {
+        "frage": "Wie heißt die Hauptstadt von Indien?",
+        "antworten": [
+          "neu delhi",
+          "delhi",
+          "neu-delhi"
+        ],
+        "loesung": "Neu-Delhi"
+      },
+      {
+        "frage": "Wie heißt die Hauptstadt von Südkorea?",
+        "antworten": [
+          "seoul"
+        ],
+        "loesung": "Seoul"
+      },
+      {
+        "frage": "Wie heißt die Hauptstadt von Argentinien?",
+        "antworten": [
+          "buenos aires"
+        ],
+        "loesung": "Buenos Aires"
+      },
+      {
+        "frage": "Wie heißt die Hauptstadt von Mexiko?",
+        "antworten": [
+          "mexiko stadt",
+          "mexiko-stadt",
+          "mexico city"
+        ],
+        "loesung": "Mexiko-Stadt"
+      },
+      {
+        "frage": "Wie heißt die Hauptstadt von Sachsen?",
+        "antworten": [
+          "dresden"
+        ],
+        "loesung": "Dresden"
+      },
+      {
+        "frage": "Wie heißt die Hauptstadt von Niedersachsen?",
+        "antworten": [
+          "hannover"
+        ],
+        "loesung": "Hannover"
+      },
+      {
+        "frage": "Wie heißt die Hauptstadt von Hessen?",
+        "antworten": [
+          "wiesbaden"
+        ],
+        "loesung": "Wiesbaden"
+      },
+      {
+        "frage": "Wie heißt die Hauptstadt von Rheinland-Pfalz?",
+        "antworten": [
+          "mainz"
+        ],
+        "loesung": "Mainz"
+      },
+      {
+        "frage": "Wie heißt die Hauptstadt von Thüringen?",
+        "antworten": [
+          "erfurt"
+        ],
+        "loesung": "Erfurt"
+      },
+      {
+        "frage": "Welcher Fluss mündet bei Cuxhaven ins Meer?",
+        "antworten": [
+          "elbe"
+        ],
+        "loesung": "Die Elbe"
+      },
+      {
+        "frage": "Welcher Fluss bildet einen Teil der Grenze zu Polen?",
+        "antworten": [
+          "oder",
+          "neiße"
+        ],
+        "loesung": "Die Oder"
+      },
+      {
+        "frage": "Welcher Fluss fließt durch Bremen?",
+        "antworten": [
+          "weser"
+        ],
+        "loesung": "Die Weser"
+      },
+      {
+        "frage": "Welcher deutsche Fluss entspringt im Schwarzwald und fließt zum Schwarzen Meer?",
+        "antworten": [
+          "donau"
+        ],
+        "loesung": "Die Donau"
+      },
+      {
+        "frage": "In welches Meer mündet der Rhein?",
+        "antworten": [
+          "nordsee"
+        ],
+        "loesung": "In die Nordsee"
+      },
+      {
+        "frage": "Wie heißt das höchste Gebirge der Erde?",
+        "antworten": [
+          "himalaya"
+        ],
+        "loesung": "Der Himalaya"
+      },
+      {
+        "frage": "Wie heißt das längste Gebirge der Erde?",
+        "antworten": [
+          "anden"
+        ],
+        "loesung": "Die Anden"
+      },
+      {
+        "frage": "Welches Gebirge trennt Frankreich von Spanien?",
+        "antworten": [
+          "pyrenäen"
+        ],
+        "loesung": "Die Pyrenäen"
+      },
+      {
+        "frage": "Wie heißt der höchste Berg der Alpen?",
+        "antworten": [
+          "mont blanc"
+        ],
+        "loesung": "Der Mont Blanc"
+      },
+      {
+        "frage": "Wie heißt der größte See an der deutschen Grenze?",
+        "antworten": [
+          "bodensee"
+        ],
+        "loesung": "Der Bodensee"
+      },
+      {
+        "frage": "An wie viele Länder grenzt der Bodensee?",
+        "antworten": [
+          "3",
+          "drei"
+        ],
+        "loesung": "3",
+        "zahlenbereich": [
+          3,
+          3
+        ]
+      },
+      {
+        "frage": "Wie heißt der tiefste See der Erde?",
+        "antworten": [
+          "baikalsee",
+          "baikal"
+        ],
+        "loesung": "Der Baikalsee"
+      },
+      {
+        "frage": "Wie nennt man eine Landmasse, die weit ins Meer ragt?",
+        "antworten": [
+          "halbinsel"
+        ],
+        "loesung": "Eine Halbinsel"
+      },
+      {
+        "frage": "Wie heißt die größte Insel der Erde?",
+        "antworten": [
+          "grönland"
+        ],
+        "loesung": "Grönland"
+      },
+      {
+        "frage": "Wie heißt der kleinste Kontinent?",
+        "antworten": [
+          "australien"
+        ],
+        "loesung": "Australien"
+      },
+      {
+        "frage": "Wie heißt der kälteste Kontinent?",
+        "antworten": [
+          "antarktis"
+        ],
+        "loesung": "Die Antarktis"
+      },
+      {
+        "frage": "Wie nennt man die Klimazone mit vier ausgeprägten Jahreszeiten?",
+        "antworten": [
+          "gemäßigte zone",
+          "gemäßigt"
+        ],
+        "loesung": "Die gemäßigte Zone"
+      },
+      {
+        "frage": "Wie nennt man die Klimazone an den Polen?",
+        "antworten": [
+          "polarzone",
+          "polar",
+          "kalte zone"
+        ],
+        "loesung": "Die Polarzone"
+      },
+      {
+        "frage": "Wie heißt die Grassteppe in Nordamerika?",
+        "antworten": [
+          "prärie"
+        ],
+        "loesung": "Die Prärie"
+      },
+      {
+        "frage": "Wie heißt die Grassteppe in Südamerika?",
+        "antworten": [
+          "pampa"
+        ],
+        "loesung": "Die Pampa"
+      },
+      {
+        "frage": "Wie heißt die baumlose Kältesteppe im hohen Norden?",
+        "antworten": [
+          "tundra"
+        ],
+        "loesung": "Die Tundra"
+      },
+      {
+        "frage": "Wie heißt der breite Nadelwaldgürtel im Norden?",
+        "antworten": [
+          "taiga"
+        ],
+        "loesung": "Die Taiga"
+      },
+      {
+        "frage": "Wie heißt der Kanal, der Nordsee und Ostsee verbindet?",
+        "antworten": [
+          "nord ostsee kanal",
+          "nord-ostsee-kanal"
+        ],
+        "loesung": "Der Nord-Ostsee-Kanal"
+      },
+      {
+        "frage": "Wie heißt die Meerenge zwischen England und Frankreich?",
+        "antworten": [
+          "ärmelkanal"
+        ],
+        "loesung": "Der Ärmelkanal"
+      },
+      {
+        "frage": "An der Grenze welcher beiden Länder liegen die Niagarafälle?",
+        "antworten": [
+          "usa und kanada",
+          "kanada und usa",
+          "kanada"
+        ],
+        "loesung": "Zwischen den USA und Kanada"
+      },
+      {
+        "frage": "In welcher Stadt hat die UNO ihren Hauptsitz?",
+        "antworten": [
+          "new york"
+        ],
+        "loesung": "In New York"
+      },
+      {
+        "frage": "Welcher Erdteil hat die meisten Staaten?",
+        "antworten": [
+          "afrika"
+        ],
+        "loesung": "Afrika"
+      },
+      {
+        "frage": "Wie nennt man die Länder südlich der Sahara zusammenfassend?",
+        "antworten": [
+          "subsahara",
+          "subsahara afrika",
+          "schwarzafrika"
+        ],
+        "loesung": "Subsahara-Afrika"
+      },
+      {
+        "frage": "Wie nennt man die Angabe, um wie viel eine Karte verkleinert ist?",
+        "antworten": [
+          "maßstab"
+        ],
+        "loesung": "Der Maßstab"
+      },
+      {
+        "frage": "Wie heißt das Land mit den meisten Einwohnern in Europa?",
+        "antworten": [
+          "russland"
+        ],
+        "loesung": "Russland"
+      },
+      {
+        "frage": "Wie heißt die längste Landgrenze der Erde?",
+        "antworten": [
+          "usa und kanada",
+          "kanada und usa"
+        ],
+        "loesung": "Zwischen den USA und Kanada"
+      },
+      {
+        "frage": "Wie nennt man eine dauerhaft gefrorene Bodenschicht?",
+        "antworten": [
+          "permafrost"
+        ],
+        "loesung": "Permafrost"
+      },
+      {
+        "frage": "Wie heißt das größte Land Südamerikas?",
+        "antworten": [
+          "brasilien"
+        ],
+        "loesung": "Brasilien"
+      },
+      {
+        "frage": "Wie heißt der längste Fluss Asiens?",
+        "antworten": [
+          "jangtse",
+          "yangtze"
+        ],
+        "loesung": "Der Jangtse"
+      },
+      {
+        "frage": "Wie nennt man einen Zufluss eines größeren Flusses?",
+        "antworten": [
+          "nebenfluss"
+        ],
+        "loesung": "Ein Nebenfluss"
+      },
+      {
+        "frage": "Schätzfrage: Wie viele Staaten hat Afrika?",
+        "schaetzfrage": true,
+        "loesung": "54 Staaten"
+      },
+      {
+        "frage": "Schätzfrage: Wie tief ist der Bodensee an der tiefsten Stelle?",
+        "schaetzfrage": true,
+        "loesung": "rund 250 Meter"
       }
     ],
     "mittelstufe": [

@@ -411,6 +411,87 @@ JEKAMI_FRAGEN.politik = {
         "frage": "Schätzfrage: Wie viele Menschen leben in Deutschland?",
         "schaetzfrage": true,
         "loesung": "rund 84 Millionen"
+      },
+      {
+        "frage": "Wie heißt der Ausweis, den Erwachsene in Deutschland besitzen müssen?",
+        "antworten": [
+          "personalausweis",
+          "ausweis"
+        ],
+        "loesung": "Der Personalausweis"
+      },
+      {
+        "frage": "Wie nennt man die Regeln, die eine Klasse gemeinsam aufstellt?",
+        "antworten": [
+          "klassenregeln",
+          "regeln"
+        ],
+        "loesung": "Klassenregeln"
+      },
+      {
+        "frage": "Wie nennt man den Raum, in dem man seine Stimme abgibt?",
+        "antworten": [
+          "wahllokal"
+        ],
+        "loesung": "Das Wahllokal"
+      },
+      {
+        "frage": "In welchem Land hat die Europäische Union ihren wichtigsten Sitz?",
+        "antworten": [
+          "belgien"
+        ],
+        "loesung": "In Belgien"
+      },
+      {
+        "frage": "Welche Farben hat ein deutsches Polizeiauto?",
+        "antworten": [
+          "blau",
+          "blau und silber",
+          "blau silber"
+        ],
+        "loesung": "Blau und Silber"
+      },
+      {
+        "frage": "Wie nennt man Menschen, die freiwillig und ohne Bezahlung helfen?",
+        "antworten": [
+          "ehrenamtliche",
+          "ehrenamt",
+          "freiwillige"
+        ],
+        "loesung": "Ehrenamtliche"
+      },
+      {
+        "frage": "Wie heißt die Hilfsorganisation mit dem roten Kreuz im Zeichen?",
+        "antworten": [
+          "rotes kreuz",
+          "deutsches rotes kreuz"
+        ],
+        "loesung": "Das Rote Kreuz"
+      },
+      {
+        "frage": "Wer passt im Schwimmbad auf die Sicherheit auf?",
+        "antworten": [
+          "bademeister",
+          "rettungsschwimmer",
+          "schwimmmeister"
+        ],
+        "loesung": "Der Bademeister"
+      },
+      {
+        "frage": "Wie nennt man Kinder, die bei Streit auf dem Schulhof schlichten?",
+        "antworten": [
+          "streitschlichter",
+          "schülerlotsen"
+        ],
+        "loesung": "Streitschlichter"
+      },
+      {
+        "frage": "Wie nennt man die Menschen, die in einem Kindergarten arbeiten?",
+        "antworten": [
+          "erzieher",
+          "erzieherinnen"
+        ],
+        "loesung": "Erzieherinnen und Erzieher"
       }
     ],
     "unterstufe": [
@@ -821,6 +902,405 @@ JEKAMI_FRAGEN.politik = {
         "frage": "Schätzfrage: Wie viele Mitglieder hat die Bundesversammlung?",
         "schaetzfrage": true,
         "loesung": "rund 1500"
+      },
+      {
+        "frage": "Wie heißt der Regierungssitz des Bundeskanzlers in Berlin?",
+        "antworten": [
+          "bundeskanzleramt",
+          "kanzleramt"
+        ],
+        "loesung": "Das Bundeskanzleramt"
+      },
+      {
+        "frage": "Wie heißt der Amtssitz des Bundespräsidenten?",
+        "antworten": [
+          "schloss bellevue",
+          "bellevue"
+        ],
+        "loesung": "Schloss Bellevue"
+      },
+      {
+        "frage": "Wer ernennt die Bundesminister?",
+        "antworten": [
+          "bundespräsident",
+          "der bundespräsident"
+        ],
+        "loesung": "Der Bundespräsident"
+      },
+      {
+        "frage": "Wie heißt der Stellvertreter des Bundeskanzlers?",
+        "antworten": [
+          "vizekanzler"
+        ],
+        "loesung": "Der Vizekanzler"
+      },
+      {
+        "frage": "Wie heißt das Ministerium, das für Steuern und Staatsausgaben zuständig ist?",
+        "antworten": [
+          "finanzministerium",
+          "bundesfinanzministerium"
+        ],
+        "loesung": "Das Finanzministerium"
+      },
+      {
+        "frage": "Wie heißt das Ministerium für die Beziehungen zu anderen Staaten?",
+        "antworten": [
+          "auswärtiges amt",
+          "außenministerium"
+        ],
+        "loesung": "Das Auswärtige Amt"
+      },
+      {
+        "frage": "Wie heißt das Ministerium, dem die Bundeswehr untersteht?",
+        "antworten": [
+          "verteidigungsministerium"
+        ],
+        "loesung": "Das Verteidigungsministerium"
+      },
+      {
+        "frage": "Wie heißen die Streitkräfte Deutschlands?",
+        "antworten": [
+          "bundeswehr"
+        ],
+        "loesung": "Die Bundeswehr"
+      },
+      {
+        "frage": "Wie heißt die Polizei, die für Grenzen und Bahnhöfe zuständig ist?",
+        "antworten": [
+          "bundespolizei"
+        ],
+        "loesung": "Die Bundespolizei"
+      },
+      {
+        "frage": "Wie heißt die Behörde, die schwere Verbrechen bundesweit verfolgt?",
+        "antworten": [
+          "bundeskriminalamt",
+          "bka"
+        ],
+        "loesung": "Das Bundeskriminalamt"
+      },
+      {
+        "frage": "Wie heißt die kleinste politische Ebene in Deutschland?",
+        "antworten": [
+          "gemeinde",
+          "kommune"
+        ],
+        "loesung": "Die Gemeinde"
+      },
+      {
+        "frage": "Wie nennt man den Zusammenschluss mehrerer Gemeinden?",
+        "antworten": [
+          "landkreis",
+          "kreis"
+        ],
+        "loesung": "Der Landkreis"
+      },
+      {
+        "frage": "Wer steht an der Spitze eines Landkreises?",
+        "antworten": [
+          "landrat",
+          "landrätin"
+        ],
+        "loesung": "Der Landrat"
+      },
+      {
+        "frage": "Wofür gibt man bei der Bundestagswahl die Erststimme ab?",
+        "antworten": [
+          "direktkandidat",
+          "kandidat",
+          "person"
+        ],
+        "loesung": "Für einen Direktkandidaten"
+      },
+      {
+        "frage": "Wofür gibt man die Zweitstimme ab?",
+        "antworten": [
+          "partei",
+          "landesliste",
+          "für eine partei"
+        ],
+        "loesung": "Für eine Partei"
+      },
+      {
+        "frage": "Wie nennt man den Gewinner eines Wahlkreises?",
+        "antworten": [
+          "direktkandidat",
+          "direktmandat"
+        ],
+        "loesung": "Der Direktkandidat"
+      },
+      {
+        "frage": "Wie nennt man es, wenn niemand erfährt, wen man gewählt hat?",
+        "antworten": [
+          "geheime wahl",
+          "geheim"
+        ],
+        "loesung": "Eine geheime Wahl"
+      },
+      {
+        "frage": "Nenne einen der fünf Wahlgrundsätze.",
+        "antworten": [
+          "allgemein",
+          "unmittelbar",
+          "frei",
+          "gleich",
+          "geheim"
+        ],
+        "loesung": "Zum Beispiel: frei"
+      },
+      {
+        "frage": "Ab welchem Alter darf man für den Bundestag kandidieren?",
+        "antworten": [
+          "18",
+          "achtzehn"
+        ],
+        "loesung": "Ab 18",
+        "zahlenbereich": [
+          18,
+          18
+        ]
+      },
+      {
+        "frage": "Wie nennt man die Zeit der Werbung vor einer Wahl?",
+        "antworten": [
+          "wahlkampf"
+        ],
+        "loesung": "Der Wahlkampf"
+      },
+      {
+        "frage": "Wie heißt das Papier, in dem eine Partei ihre Ziele zur Wahl darlegt?",
+        "antworten": [
+          "wahlprogramm",
+          "parteiprogramm"
+        ],
+        "loesung": "Das Wahlprogramm"
+      },
+      {
+        "frage": "Wie nennt man Befragungen, die den Wahlausgang vorhersagen sollen?",
+        "antworten": [
+          "umfragen",
+          "meinungsumfragen",
+          "prognosen"
+        ],
+        "loesung": "Meinungsumfragen"
+      },
+      {
+        "frage": "Wie nennt man das Recht, seine Religion frei zu wählen?",
+        "antworten": [
+          "religionsfreiheit"
+        ],
+        "loesung": "Die Religionsfreiheit"
+      },
+      {
+        "frage": "Wie nennt man das Recht, seinen Beruf frei zu wählen?",
+        "antworten": [
+          "berufsfreiheit",
+          "berufswahlfreiheit"
+        ],
+        "loesung": "Die Berufsfreiheit"
+      },
+      {
+        "frage": "Wie nennt man das Recht, seinen Wohnort frei zu wählen?",
+        "antworten": [
+          "freizügigkeit"
+        ],
+        "loesung": "Die Freizügigkeit"
+      },
+      {
+        "frage": "Wie heißt der Grundsatz, dass alle vor dem Gesetz gleich sind?",
+        "antworten": [
+          "gleichheitsgrundsatz",
+          "gleichheit vor dem gesetz"
+        ],
+        "loesung": "Der Gleichheitsgrundsatz"
+      },
+      {
+        "frage": "Wie nennt man die Person, die vor Gericht einen Angeklagten verteidigt?",
+        "antworten": [
+          "anwalt",
+          "verteidiger",
+          "rechtsanwalt"
+        ],
+        "loesung": "Der Verteidiger"
+      },
+      {
+        "frage": "Wie nennt man die Person, die vor Gericht das Urteil spricht?",
+        "antworten": [
+          "richter",
+          "richterin"
+        ],
+        "loesung": "Der Richter"
+      },
+      {
+        "frage": "Wie nennt man die Person, die vor Gericht die Anklage vertritt?",
+        "antworten": [
+          "staatsanwalt",
+          "staatsanwältin"
+        ],
+        "loesung": "Der Staatsanwalt"
+      },
+      {
+        "frage": "Ab welchem Alter ist man in Deutschland strafmündig?",
+        "antworten": [
+          "14",
+          "vierzehn"
+        ],
+        "loesung": "Ab 14",
+        "zahlenbereich": [
+          14,
+          14
+        ]
+      },
+      {
+        "frage": "Ab welchem Alter ist man in Deutschland volljährig?",
+        "antworten": [
+          "18",
+          "achtzehn"
+        ],
+        "loesung": "Ab 18",
+        "zahlenbereich": [
+          18,
+          18
+        ]
+      },
+      {
+        "frage": "Wie heißt das Gesetz, das Kinder und Jugendliche besonders schützt?",
+        "antworten": [
+          "jugendschutzgesetz",
+          "jugendschutz"
+        ],
+        "loesung": "Das Jugendschutzgesetz"
+      },
+      {
+        "frage": "Wie nennt man die Länder, in denen mit dem Euro bezahlt wird, zusammen?",
+        "antworten": [
+          "eurozone",
+          "euroraum"
+        ],
+        "loesung": "Die Eurozone"
+      },
+      {
+        "frage": "Wie heißt die Zentralbank für den Euro?",
+        "antworten": [
+          "europäische zentralbank",
+          "ezb"
+        ],
+        "loesung": "Die Europäische Zentralbank"
+      },
+      {
+        "frage": "In welcher Stadt sitzt die Europäische Zentralbank?",
+        "antworten": [
+          "frankfurt"
+        ],
+        "loesung": "In Frankfurt"
+      },
+      {
+        "frage": "Wie nennt man das Recht, in jedem EU-Land arbeiten zu dürfen?",
+        "antworten": [
+          "arbeitnehmerfreizügigkeit",
+          "freizügigkeit"
+        ],
+        "loesung": "Die Arbeitnehmerfreizügigkeit"
+      },
+      {
+        "frage": "Wie heißt der Austritt Großbritanniens aus der EU kurz?",
+        "antworten": [
+          "brexit"
+        ],
+        "loesung": "Der Brexit"
+      },
+      {
+        "frage": "Wie heißt das Treffen der Staats- und Regierungschefs der EU?",
+        "antworten": [
+          "europäischer rat",
+          "eu gipfel"
+        ],
+        "loesung": "Der Europäische Rat"
+      },
+      {
+        "frage": "Welcher Vertrag gründete 1992 die Europäische Union?",
+        "antworten": [
+          "maastricht",
+          "vertrag von maastricht"
+        ],
+        "loesung": "Der Vertrag von Maastricht"
+      },
+      {
+        "frage": "Wie heißt die Organisation der Vereinten Nationen für Kinder?",
+        "antworten": [
+          "unicef"
+        ],
+        "loesung": "UNICEF"
+      },
+      {
+        "frage": "Wie heißt die Organisation der Vereinten Nationen für Gesundheit?",
+        "antworten": [
+          "who",
+          "weltgesundheitsorganisation"
+        ],
+        "loesung": "Die WHO"
+      },
+      {
+        "frage": "Wie heißt die Organisation, die weltweit Kulturerbe schützt?",
+        "antworten": [
+          "unesco"
+        ],
+        "loesung": "Die UNESCO"
+      },
+      {
+        "frage": "Wie nennt man eine Unterschriftensammlung für ein politisches Anliegen?",
+        "antworten": [
+          "petition",
+          "unterschriftenaktion"
+        ],
+        "loesung": "Eine Petition"
+      },
+      {
+        "frage": "Wie nennt man die Fachgruppe einer Partei im Parlament?",
+        "antworten": [
+          "fraktion"
+        ],
+        "loesung": "Die Fraktion"
+      },
+      {
+        "frage": "Wie nennt man Staaten, in denen ein König nur repräsentiert?",
+        "antworten": [
+          "konstitutionelle monarchie",
+          "parlamentarische monarchie"
+        ],
+        "loesung": "Eine konstitutionelle Monarchie"
+      },
+      {
+        "frage": "Wie heißt die Vertretung der Schüler an einer Schule?",
+        "antworten": [
+          "schülervertretung",
+          "smv",
+          "schülerrat"
+        ],
+        "loesung": "Die Schülervertretung"
+      },
+      {
+        "frage": "Wie nennt man Regeln, die eine Gemeinde für sich selbst erlässt?",
+        "antworten": [
+          "satzung",
+          "gemeindesatzung"
+        ],
+        "loesung": "Eine Satzung"
+      },
+      {
+        "frage": "Schätzfrage: Wie viele Ministerien hat die Bundesregierung ungefähr?",
+        "schaetzfrage": true,
+        "loesung": "rund 16"
+      },
+      {
+        "frage": "Schätzfrage: Wie viele Amtssprachen hat die Europäische Union?",
+        "schaetzfrage": true,
+        "loesung": "24"
+      },
+      {
+        "frage": "Schätzfrage: Wie viele Wahlkreise gibt es bei der Bundestagswahl?",
+        "schaetzfrage": true,
+        "loesung": "299"
       }
     ],
     "mittelstufe": [],

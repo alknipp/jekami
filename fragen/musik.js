@@ -397,6 +397,86 @@ JEKAMI_FRAGEN.musik = {
         "frage": "Schätzfrage: Wie lange dauert ein typischer Popsong?",
         "schaetzfrage": true,
         "loesung": "rund 3 Minuten"
+      },
+      {
+        "frage": "Wie nennt man den Teil eines Liedes zwischen zwei Refrains?",
+        "antworten": [
+          "strophe"
+        ],
+        "loesung": "Die Strophe"
+      },
+      {
+        "frage": "Welches Instrument klingt tiefer: die Pauke oder die Triangel?",
+        "antworten": [
+          "pauke",
+          "die pauke"
+        ],
+        "loesung": "Die Pauke"
+      },
+      {
+        "frage": "Wie klingt eine Triangel?",
+        "antworten": [
+          "hell",
+          "hoch"
+        ],
+        "loesung": "Hell und hoch"
+      },
+      {
+        "frage": "Wie nennt man Musik, zu der man tanzt?",
+        "antworten": [
+          "tanzmusik"
+        ],
+        "loesung": "Tanzmusik"
+      },
+      {
+        "frage": "Was passiert mit dem Ton, wenn eine Saite kürzer wird?",
+        "antworten": [
+          "höher",
+          "wird höher"
+        ],
+        "loesung": "Er wird höher"
+      },
+      {
+        "frage": "Wie nennt man eine Gruppe, die zusammen Popmusik macht?",
+        "antworten": [
+          "band",
+          "gruppe"
+        ],
+        "loesung": "Eine Band"
+      },
+      {
+        "frage": "Welches Instrument gehört ins Orchester: die Geige oder die E-Gitarre?",
+        "antworten": [
+          "geige",
+          "die geige"
+        ],
+        "loesung": "Die Geige"
+      },
+      {
+        "frage": "Welche Instrumente schlägt man mit den bloßen Händen?",
+        "antworten": [
+          "trommel",
+          "bongos",
+          "congas",
+          "handtrommel"
+        ],
+        "loesung": "Trommeln wie Bongos"
+      },
+      {
+        "frage": "Wie nennt man das Lied, das man zum Geburtstag singt?",
+        "antworten": [
+          "geburtstagslied"
+        ],
+        "loesung": "Ein Geburtstagslied"
+      },
+      {
+        "frage": "Wie nennt man die Menschen, die bei einem Konzert zuhören?",
+        "antworten": [
+          "publikum",
+          "zuhörer",
+          "zuschauer"
+        ],
+        "loesung": "Das Publikum"
       }
     ],
     "unterstufe": [
@@ -786,6 +866,425 @@ JEKAMI_FRAGEN.musik = {
         "frage": "Schätzfrage: Wie viele Durtonarten gibt es?",
         "schaetzfrage": true,
         "loesung": "12"
+      },
+      {
+        "frage": "Wie viele Achtelnoten passen in eine Viertelnote?",
+        "antworten": [
+          "2",
+          "zwei"
+        ],
+        "loesung": "2",
+        "zahlenbereich": [
+          2,
+          2
+        ]
+      },
+      {
+        "frage": "Wie viele Viertelnoten hat eine ganze Note?",
+        "antworten": [
+          "4",
+          "vier"
+        ],
+        "loesung": "4",
+        "zahlenbereich": [
+          4,
+          4
+        ]
+      },
+      {
+        "frage": "Wie nennt man den Punkt hinter einer Note?",
+        "antworten": [
+          "punktierung",
+          "punkt"
+        ],
+        "loesung": "Die Punktierung"
+      },
+      {
+        "frage": "Um wie viel verlängert ein Punkt den Notenwert?",
+        "antworten": [
+          "hälfte",
+          "um die hälfte",
+          "50 prozent"
+        ],
+        "loesung": "Um die Hälfte"
+      },
+      {
+        "frage": "Wie heißt der Bogen, der zwei gleiche Töne verbindet?",
+        "antworten": [
+          "haltebogen",
+          "bindebogen"
+        ],
+        "loesung": "Der Haltebogen"
+      },
+      {
+        "frage": "Wie heißt der senkrechte Strich zwischen zwei Takten?",
+        "antworten": [
+          "taktstrich"
+        ],
+        "loesung": "Der Taktstrich"
+      },
+      {
+        "frage": "Wie viele verschiedene Töne hat eine Durtonleiter?",
+        "antworten": [
+          "7",
+          "sieben"
+        ],
+        "loesung": "7",
+        "zahlenbereich": [
+          7,
+          7
+        ]
+      },
+      {
+        "frage": "Zwischen welchen Tönen einer Durtonleiter liegen die Halbtonschritte?",
+        "antworten": [
+          "dritter und vierter",
+          "3 und 4",
+          "siebter und achter",
+          "3/4 und 7/8"
+        ],
+        "loesung": "Zwischen dem 3. und 4. und dem 7. und 8. Ton"
+      },
+      {
+        "frage": "Wie heißt das Intervall von C nach E?",
+        "antworten": [
+          "terz",
+          "große terz"
+        ],
+        "loesung": "Die Terz"
+      },
+      {
+        "frage": "Wie heißt das Intervall von C nach F?",
+        "antworten": [
+          "quarte"
+        ],
+        "loesung": "Die Quarte"
+      },
+      {
+        "frage": "Wie heißt das Intervall von C nach A?",
+        "antworten": [
+          "sexte"
+        ],
+        "loesung": "Die Sexte"
+      },
+      {
+        "frage": "Wie viele Vorzeichen hat G-Dur?",
+        "antworten": [
+          "1",
+          "eins",
+          "ein kreuz"
+        ],
+        "loesung": "Ein Kreuz",
+        "zahlenbereich": [
+          1,
+          1
+        ]
+      },
+      {
+        "frage": "Wie viele Vorzeichen hat F-Dur?",
+        "antworten": [
+          "1",
+          "eins",
+          "ein b"
+        ],
+        "loesung": "Ein b",
+        "zahlenbereich": [
+          1,
+          1
+        ]
+      },
+      {
+        "frage": "Wie nennt man drei gleichmäßige Noten anstelle von zweien?",
+        "antworten": [
+          "triole"
+        ],
+        "loesung": "Eine Triole"
+      },
+      {
+        "frage": "Wie heißen die Vorzeichen am Anfang einer Notenzeile?",
+        "antworten": [
+          "generalvorzeichen",
+          "tonartvorzeichen",
+          "vorzeichen"
+        ],
+        "loesung": "Die Generalvorzeichen"
+      },
+      {
+        "frage": "Wie viele Saiten hat eine Geige?",
+        "antworten": [
+          "4",
+          "vier"
+        ],
+        "loesung": "4",
+        "zahlenbereich": [
+          4,
+          4
+        ]
+      },
+      {
+        "frage": "Wie heißt das Streichinstrument zwischen Geige und Cello?",
+        "antworten": [
+          "bratsche",
+          "viola"
+        ],
+        "loesung": "Die Bratsche"
+      },
+      {
+        "frage": "Was reibt man auf einen Geigenbogen, damit er greift?",
+        "antworten": [
+          "kolophonium"
+        ],
+        "loesung": "Kolophonium"
+      },
+      {
+        "frage": "Welches Holzblasinstrument klingt im Orchester am tiefsten?",
+        "antworten": [
+          "fagott",
+          "kontrafagott"
+        ],
+        "loesung": "Das Fagott"
+      },
+      {
+        "frage": "Welches Holzblasinstrument hat ein doppeltes Rohrblatt?",
+        "antworten": [
+          "oboe",
+          "fagott"
+        ],
+        "loesung": "Die Oboe"
+      },
+      {
+        "frage": "Wie viele Ventile hat eine Trompete?",
+        "antworten": [
+          "3",
+          "drei"
+        ],
+        "loesung": "3",
+        "zahlenbereich": [
+          3,
+          3
+        ]
+      },
+      {
+        "frage": "Wie heißt das größte und tiefste Blechblasinstrument?",
+        "antworten": [
+          "tuba"
+        ],
+        "loesung": "Die Tuba"
+      },
+      {
+        "frage": "Wie heißt das Tasteninstrument des Barock, bei dem die Saiten gezupft werden?",
+        "antworten": [
+          "cembalo"
+        ],
+        "loesung": "Das Cembalo"
+      },
+      {
+        "frage": "Wie viele Pedale hat ein Konzertflügel?",
+        "antworten": [
+          "3",
+          "drei"
+        ],
+        "loesung": "3",
+        "zahlenbereich": [
+          3,
+          3
+        ]
+      },
+      {
+        "frage": "Aus welchem Material besteht ein Saxofon?",
+        "antworten": [
+          "metall",
+          "messing"
+        ],
+        "loesung": "Aus Metall"
+      },
+      {
+        "frage": "Wer komponierte die Kleine Nachtmusik?",
+        "antworten": [
+          "mozart"
+        ],
+        "loesung": "Wolfgang Amadeus Mozart"
+      },
+      {
+        "frage": "Wer komponierte Für Elise?",
+        "antworten": [
+          "beethoven"
+        ],
+        "loesung": "Ludwig van Beethoven"
+      },
+      {
+        "frage": "Wer komponierte das Märchen Peter und der Wolf?",
+        "antworten": [
+          "prokofjew",
+          "prokofiev"
+        ],
+        "loesung": "Sergej Prokofjew"
+      },
+      {
+        "frage": "Wer komponierte den Karneval der Tiere?",
+        "antworten": [
+          "saint saens",
+          "saint-saëns"
+        ],
+        "loesung": "Camille Saint-Saëns"
+      },
+      {
+        "frage": "Wer komponierte das Ballett Der Nussknacker?",
+        "antworten": [
+          "tschaikowsky",
+          "tschaikowski"
+        ],
+        "loesung": "Pjotr Tschaikowsky"
+      },
+      {
+        "frage": "In welcher Stadt wurde Mozart geboren?",
+        "antworten": [
+          "salzburg"
+        ],
+        "loesung": "In Salzburg"
+      },
+      {
+        "frage": "In welcher Stadt wurde Beethoven geboren?",
+        "antworten": [
+          "bonn"
+        ],
+        "loesung": "In Bonn"
+      },
+      {
+        "frage": "In welcher Musikepoche lebte Mozart?",
+        "antworten": [
+          "klassik",
+          "wiener klassik"
+        ],
+        "loesung": "In der Wiener Klassik"
+      },
+      {
+        "frage": "Wie nennt man ein Sologesangsstück in einer Oper?",
+        "antworten": [
+          "arie"
+        ],
+        "loesung": "Eine Arie"
+      },
+      {
+        "frage": "Wie nennt man den sprechenden Gesang zwischen den Arien?",
+        "antworten": [
+          "rezitativ"
+        ],
+        "loesung": "Das Rezitativ"
+      },
+      {
+        "frage": "Wie heißt das Orchesterstück zu Beginn einer Oper?",
+        "antworten": [
+          "ouvertüre",
+          "vorspiel"
+        ],
+        "loesung": "Die Ouvertüre"
+      },
+      {
+        "frage": "Wie nennt man eine kurze, wiederkehrende Melodiefigur in der Popmusik?",
+        "antworten": [
+          "riff",
+          "hook"
+        ],
+        "loesung": "Ein Riff"
+      },
+      {
+        "frage": "Welches Instrument ist typisch für den Blues?",
+        "antworten": [
+          "mundharmonika",
+          "gitarre",
+          "bluesharp"
+        ],
+        "loesung": "Die Mundharmonika"
+      },
+      {
+        "frage": "Wie heißt der elektronische Tanzmusikstil mit schnellen Beats?",
+        "antworten": [
+          "techno",
+          "house"
+        ],
+        "loesung": "Techno"
+      },
+      {
+        "frage": "Wie nennt man ein Konzert ohne elektrische Verstärkung?",
+        "antworten": [
+          "akustisch",
+          "unplugged"
+        ],
+        "loesung": "Ein akustisches Konzert"
+      },
+      {
+        "frage": "Wie nennt man den Raum, in dem Musik professionell aufgenommen wird?",
+        "antworten": [
+          "tonstudio",
+          "studio"
+        ],
+        "loesung": "Das Tonstudio"
+      },
+      {
+        "frage": "Wie nennt man das Gerät, mit dem Tonspuren gemischt werden?",
+        "antworten": [
+          "mischpult"
+        ],
+        "loesung": "Das Mischpult"
+      },
+      {
+        "frage": "Wie nennt man die Lautstärkebezeichnung mezzoforte auf Deutsch?",
+        "antworten": [
+          "mittellaut",
+          "halblaut"
+        ],
+        "loesung": "Mittellaut"
+      },
+      {
+        "frage": "Wie nennt man die Bezeichnung für schneller werden?",
+        "antworten": [
+          "accelerando",
+          "schneller werden"
+        ],
+        "loesung": "Accelerando"
+      },
+      {
+        "frage": "Wie nennt man den Klang mehrerer gleichzeitig gesungener Stimmen?",
+        "antworten": [
+          "mehrstimmigkeit",
+          "harmonie",
+          "polyphonie"
+        ],
+        "loesung": "Mehrstimmigkeit"
+      },
+      {
+        "frage": "Wie nennt man die Stimmlage zwischen Alt und Bass bei Männern?",
+        "antworten": [
+          "tenor"
+        ],
+        "loesung": "Der Tenor"
+      },
+      {
+        "frage": "Schätzfrage: Wie viele Pfeifen hat eine große Kirchenorgel?",
+        "schaetzfrage": true,
+        "loesung": "mehrere tausend"
+      },
+      {
+        "frage": "Schätzfrage: Wie viele Musiker spielen in einem Streichorchester?",
+        "schaetzfrage": true,
+        "loesung": "rund 20"
+      },
+      {
+        "frage": "Wie nennt man den Wechsel von einer Tonart in eine andere?",
+        "antworten": [
+          "modulation",
+          "tonartwechsel"
+        ],
+        "loesung": "Die Modulation"
+      },
+      {
+        "frage": "Wie heißt das Zeichen, das einen Ton kurz und abgehackt spielen lässt?",
+        "antworten": [
+          "staccato",
+          "punkt über der note"
+        ],
+        "loesung": "Das Staccato"
       }
     ],
     "mittelstufe": [],

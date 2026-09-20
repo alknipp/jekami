@@ -425,6 +425,403 @@ JEKAMI_FRAGEN.sport = {
         "frage": "Schätzfrage: Wie hoch ist ein Fußballtor?",
         "schaetzfrage": true,
         "loesung": "2,44 Meter"
+      },
+      {
+        "frage": "Wie viele Spieler einer Handballmannschaft stehen auf dem Feld?",
+        "antworten": [
+          "7",
+          "sieben"
+        ],
+        "loesung": "7",
+        "zahlenbereich": [
+          7,
+          7
+        ]
+      },
+      {
+        "frage": "Wie viele Spieler einer Basketballmannschaft stehen auf dem Feld?",
+        "antworten": [
+          "5",
+          "fünf"
+        ],
+        "loesung": "5",
+        "zahlenbereich": [
+          5,
+          5
+        ]
+      },
+      {
+        "frage": "Welche Farbe hat ein Basketball meistens?",
+        "antworten": [
+          "orange"
+        ],
+        "loesung": "Orange"
+      },
+      {
+        "frage": "Wie nennt man den Wurf von der Seitenlinie beim Fußball?",
+        "antworten": [
+          "einwurf"
+        ],
+        "loesung": "Der Einwurf"
+      },
+      {
+        "frage": "Wie nennt man den Stoß aus der Spielfeldecke beim Fußball?",
+        "antworten": [
+          "eckball",
+          "ecke",
+          "eckstoß"
+        ],
+        "loesung": "Der Eckball"
+      },
+      {
+        "frage": "Wie nennt man es, wenn der Ball das Spielfeld verlässt?",
+        "antworten": [
+          "aus",
+          "im aus"
+        ],
+        "loesung": "Aus"
+      },
+      {
+        "frage": "Wie heißt der Sport, bei dem man Pfeile auf eine runde Scheibe wirft?",
+        "antworten": [
+          "darts",
+          "dart"
+        ],
+        "loesung": "Darts"
+      },
+      {
+        "frage": "Wie heißt der Sport, bei dem man mit einem Paddel ein Boot bewegt?",
+        "antworten": [
+          "kanu",
+          "kanufahren",
+          "paddeln",
+          "rudern"
+        ],
+        "loesung": "Kanufahren"
+      },
+      {
+        "frage": "Wie heißt der Sport, bei dem schwere Gewichte gehoben werden?",
+        "antworten": [
+          "gewichtheben"
+        ],
+        "loesung": "Gewichtheben"
+      },
+      {
+        "frage": "Wie heißt der Lauf über kleine Hindernisse auf der Bahn?",
+        "antworten": [
+          "hürdenlauf",
+          "hürden"
+        ],
+        "loesung": "Der Hürdenlauf"
+      },
+      {
+        "frage": "Wie heißt der Sport mit Schläger und Puck auf dem Eis?",
+        "antworten": [
+          "eishockey"
+        ],
+        "loesung": "Eishockey"
+      },
+      {
+        "frage": "Wie heißt der Sport, bei dem man einen kleinen Ball in Löcher schlägt?",
+        "antworten": [
+          "golf"
+        ],
+        "loesung": "Golf"
+      },
+      {
+        "frage": "Wie nennt man den Ersten in einem Wettkampf?",
+        "antworten": [
+          "sieger",
+          "gewinner"
+        ],
+        "loesung": "Der Sieger"
+      },
+      {
+        "frage": "Wie nennt man ein Spiel, das mit gleichem Spielstand endet?",
+        "antworten": [
+          "unentschieden"
+        ],
+        "loesung": "Unentschieden"
+      },
+      {
+        "frage": "Wie nennt man die Menschen, die beim Spiel zuschauen?",
+        "antworten": [
+          "zuschauer",
+          "publikum"
+        ],
+        "loesung": "Die Zuschauer"
+      },
+      {
+        "frage": "Wie nennt man die Person, die eine Mannschaft anleitet?",
+        "antworten": [
+          "trainer",
+          "trainerin"
+        ],
+        "loesung": "Der Trainer"
+      },
+      {
+        "frage": "Wie nennt man den Anführer einer Mannschaft auf dem Feld?",
+        "antworten": [
+          "kapitän"
+        ],
+        "loesung": "Der Kapitän"
+      },
+      {
+        "frage": "Was zieht eine Mannschaft an, damit man sie erkennt?",
+        "antworten": [
+          "trikot",
+          "trikots"
+        ],
+        "loesung": "Ein Trikot"
+      },
+      {
+        "frage": "Welche Rückennummer trägt ein Torwart oft?",
+        "antworten": [
+          "1",
+          "eins"
+        ],
+        "loesung": "Die 1",
+        "zahlenbereich": [
+          1,
+          1
+        ]
+      },
+      {
+        "frage": "Wie nennt man Schuhe mit Stollen unter der Sohle?",
+        "antworten": [
+          "fußballschuhe",
+          "stollenschuhe"
+        ],
+        "loesung": "Fußballschuhe"
+      },
+      {
+        "frage": "Wie nennt man das Schwimmen auf dem Rücken?",
+        "antworten": [
+          "rückenschwimmen",
+          "rücken"
+        ],
+        "loesung": "Rückenschwimmen"
+      },
+      {
+        "frage": "Wie nennt man das Schwimmen mit Froschbeinen?",
+        "antworten": [
+          "brustschwimmen",
+          "brust"
+        ],
+        "loesung": "Brustschwimmen"
+      },
+      {
+        "frage": "Wie heißt das erste Schwimmabzeichen für Kinder?",
+        "antworten": [
+          "seepferdchen"
+        ],
+        "loesung": "Das Seepferdchen"
+      },
+      {
+        "frage": "Wie nennt man Bewegung zur Musik?",
+        "antworten": [
+          "tanzen",
+          "tanz"
+        ],
+        "loesung": "Tanzen"
+      },
+      {
+        "frage": "Wie nennt man einen Purzelbaum im Sportunterricht?",
+        "antworten": [
+          "rolle vorwärts",
+          "rolle",
+          "purzelbaum"
+        ],
+        "loesung": "Die Rolle vorwärts"
+      },
+      {
+        "frage": "Wie heißt der Sprung, bei dem man sich in der Luft überschlägt?",
+        "antworten": [
+          "salto"
+        ],
+        "loesung": "Der Salto"
+      },
+      {
+        "frage": "Wie nennt man das Springen mit einer langen Stange über eine Latte?",
+        "antworten": [
+          "stabhochsprung"
+        ],
+        "loesung": "Der Stabhochsprung"
+      },
+      {
+        "frage": "Wie nennt man das Reiten über Hindernisse?",
+        "antworten": [
+          "springreiten"
+        ],
+        "loesung": "Springreiten"
+      },
+      {
+        "frage": "Wie nennt man Radfahren im Gelände?",
+        "antworten": [
+          "mountainbiken",
+          "mountainbike"
+        ],
+        "loesung": "Mountainbiken"
+      },
+      {
+        "frage": "Was schützt beim Skaten die Knie?",
+        "antworten": [
+          "knieschoner",
+          "schoner",
+          "protektoren"
+        ],
+        "loesung": "Knieschoner"
+      },
+      {
+        "frage": "Wie heißt das Spiel, bei dem man sich gegenseitig mit dem Ball abwirft?",
+        "antworten": [
+          "völkerball"
+        ],
+        "loesung": "Völkerball"
+      },
+      {
+        "frage": "Wie heißt das Spiel, bei dem einer fängt und alle weglaufen?",
+        "antworten": [
+          "fangen",
+          "fangis",
+          "fangspiel"
+        ],
+        "loesung": "Fangen"
+      },
+      {
+        "frage": "Wie heißt das Spiel, bei dem zwei Mannschaften an einem Seil ziehen?",
+        "antworten": [
+          "tauziehen"
+        ],
+        "loesung": "Tauziehen"
+      },
+      {
+        "frage": "Wie nennt man das Schwimmen unter Wasser mit Maske?",
+        "antworten": [
+          "tauchen"
+        ],
+        "loesung": "Tauchen"
+      },
+      {
+        "frage": "Wie heißt das Netz hinter dem Fußballtor?",
+        "antworten": [
+          "tornetz",
+          "netz"
+        ],
+        "loesung": "Das Tornetz"
+      },
+      {
+        "frage": "Wie heißt die Pause zwischen den beiden Halbzeiten?",
+        "antworten": [
+          "halbzeitpause",
+          "halbzeit",
+          "pause"
+        ],
+        "loesung": "Die Halbzeitpause"
+      },
+      {
+        "frage": "Welche Sportart wird auf einer Bahn mit Kugeln und neun Kegeln gespielt?",
+        "antworten": [
+          "kegeln",
+          "bowling"
+        ],
+        "loesung": "Kegeln"
+      },
+      {
+        "frage": "Wie heißt das Turnen an einem Seil, das von der Decke hängt?",
+        "antworten": [
+          "seilklettern",
+          "klettern"
+        ],
+        "loesung": "Seilklettern"
+      },
+      {
+        "frage": "Wie nennt man das Werfen eines kleinen Balls möglichst weit?",
+        "antworten": [
+          "schlagballwurf",
+          "weitwurf",
+          "ballwurf"
+        ],
+        "loesung": "Der Weitwurf"
+      },
+      {
+        "frage": "Wie nennt man die Linie, hinter der man beim Werfen stehen bleiben muss?",
+        "antworten": [
+          "abwurflinie",
+          "linie"
+        ],
+        "loesung": "Die Abwurflinie"
+      },
+      {
+        "frage": "Wie nennt man den Sport, bei dem man auf Händen läuft — als Übung im Turnen?",
+        "antworten": [
+          "handstand",
+          "handstandlaufen"
+        ],
+        "loesung": "Der Handstand"
+      },
+      {
+        "frage": "Wie heißt das Gerät, auf dem man im Turnen balanciert?",
+        "antworten": [
+          "schwebebalken",
+          "balken"
+        ],
+        "loesung": "Der Schwebebalken"
+      },
+      {
+        "frage": "Wie nennt man ein Spiel ohne Sieger und Verlierer?",
+        "antworten": [
+          "unentschieden",
+          "remis"
+        ],
+        "loesung": "Unentschieden"
+      },
+      {
+        "frage": "Wie heißt die Sportart mit Ball und Korb am Strand — nein, wie heißt Volleyball am Strand?",
+        "antworten": [
+          "beachvolleyball"
+        ],
+        "loesung": "Beachvolleyball"
+      },
+      {
+        "frage": "Wie nennt man eine Mannschaft, die gegen eine andere spielt?",
+        "antworten": [
+          "gegner",
+          "gegnerische mannschaft"
+        ],
+        "loesung": "Der Gegner"
+      },
+      {
+        "frage": "Wie nennt man das Ende eines Spiels?",
+        "antworten": [
+          "schlusspfiff",
+          "abpfiff",
+          "ende"
+        ],
+        "loesung": "Der Abpfiff"
+      },
+      {
+        "frage": "Wie nennt man den Beginn eines Fußballspiels?",
+        "antworten": [
+          "anpfiff",
+          "anstoß"
+        ],
+        "loesung": "Der Anpfiff"
+      },
+      {
+        "frage": "Schätzfrage: Wie viele Spieler stehen bei einem Fußballspiel insgesamt auf dem Feld?",
+        "schaetzfrage": true,
+        "loesung": "22 Spieler"
+      },
+      {
+        "frage": "Schätzfrage: Wie schwer ist ein Basketball?",
+        "schaetzfrage": true,
+        "loesung": "rund 600 Gramm"
+      },
+      {
+        "frage": "Schätzfrage: Wie viele Kilometer läuft man bei einem Marathon?",
+        "schaetzfrage": true,
+        "loesung": "gut 42 Kilometer"
       }
     ],
     "unterstufe": [
@@ -900,6 +1297,462 @@ JEKAMI_FRAGEN.sport = {
         "frage": "Schätzfrage: Wie schnell ist der Aufschlag eines Tennisprofis höchstens?",
         "schaetzfrage": true,
         "loesung": "rund 250 km/h"
+      },
+      {
+        "frage": "Wie viele Spieler hat ein Beachvolleyball-Team?",
+        "antworten": [
+          "2",
+          "zwei"
+        ],
+        "loesung": "2",
+        "zahlenbereich": [
+          2,
+          2
+        ]
+      },
+      {
+        "frage": "Wie viele Sätze hat ein Volleyballspiel höchstens?",
+        "antworten": [
+          "5",
+          "fünf"
+        ],
+        "loesung": "5",
+        "zahlenbereich": [
+          5,
+          5
+        ]
+      },
+      {
+        "frage": "Auf wie viele Punkte wird der fünfte Satz im Volleyball gespielt?",
+        "antworten": [
+          "15",
+          "fünfzehn"
+        ],
+        "loesung": "15",
+        "zahlenbereich": [
+          15,
+          15
+        ]
+      },
+      {
+        "frage": "Wie lange dauert ein Viertel im internationalen Basketball?",
+        "antworten": [
+          "10",
+          "zehn"
+        ],
+        "loesung": "10 Minuten",
+        "zahlenbereich": [
+          10,
+          10
+        ]
+      },
+      {
+        "frage": "Wie viele Schritte darf man beim Handball mit dem Ball gehen?",
+        "antworten": [
+          "3",
+          "drei"
+        ],
+        "loesung": "3",
+        "zahlenbereich": [
+          3,
+          3
+        ]
+      },
+      {
+        "frage": "Aus welcher Entfernung wird der Strafwurf im Handball geworfen?",
+        "antworten": [
+          "7",
+          "sieben",
+          "7 meter"
+        ],
+        "loesung": "Aus 7 Metern",
+        "zahlenbereich": [
+          7,
+          7
+        ]
+      },
+      {
+        "frage": "Wie viele Minuten dauert eine Zeitstrafe im Handball?",
+        "antworten": [
+          "2",
+          "zwei"
+        ],
+        "loesung": "2 Minuten",
+        "zahlenbereich": [
+          2,
+          2
+        ]
+      },
+      {
+        "frage": "Wie heißt es beim Tennis, wenn beide Aufschläge misslingen?",
+        "antworten": [
+          "doppelfehler"
+        ],
+        "loesung": "Ein Doppelfehler"
+      },
+      {
+        "frage": "Wie heißt der Entscheidungssatz beim Tennis bei sechs zu sechs?",
+        "antworten": [
+          "tiebreak",
+          "tie break"
+        ],
+        "loesung": "Der Tiebreak"
+      },
+      {
+        "frage": "Über wie viele Gewinnsätze spielen Frauen bei Grand Slams?",
+        "antworten": [
+          "2",
+          "zwei"
+        ],
+        "loesung": "2 Gewinnsätze",
+        "zahlenbereich": [
+          2,
+          2
+        ]
+      },
+      {
+        "frage": "Wie viele Spieler einer Baseballmannschaft stehen im Feld?",
+        "antworten": [
+          "9",
+          "neun"
+        ],
+        "loesung": "9",
+        "zahlenbereich": [
+          9,
+          9
+        ]
+      },
+      {
+        "frage": "Wie heißt der Wurf zum Schlagmann im Baseball?",
+        "antworten": [
+          "pitch"
+        ],
+        "loesung": "Der Pitch"
+      },
+      {
+        "frage": "Über wie viele Runden geht ein olympischer Boxkampf?",
+        "antworten": [
+          "3",
+          "drei"
+        ],
+        "loesung": "3 Runden",
+        "zahlenbereich": [
+          3,
+          3
+        ]
+      },
+      {
+        "frage": "Wie heißt die schwerste Gewichtsklasse im Boxen?",
+        "antworten": [
+          "schwergewicht"
+        ],
+        "loesung": "Das Schwergewicht"
+      },
+      {
+        "frage": "Wie heißt der Kampfsport, bei dem man am Boden ringt und keine Schläge erlaubt sind?",
+        "antworten": [
+          "ringen"
+        ],
+        "loesung": "Ringen"
+      },
+      {
+        "frage": "Welche Gürtelfarbe tragen Fortgeschrittene im Judo?",
+        "antworten": [
+          "schwarz",
+          "schwarzer gürtel"
+        ],
+        "loesung": "Schwarz"
+      },
+      {
+        "frage": "Wie heißt die Skidisziplin mit engen Toren?",
+        "antworten": [
+          "slalom"
+        ],
+        "loesung": "Der Slalom"
+      },
+      {
+        "frage": "Wie heißt die schnellste Skidisziplin?",
+        "antworten": [
+          "abfahrt"
+        ],
+        "loesung": "Die Abfahrt"
+      },
+      {
+        "frage": "Wie heißt der Eiskanalsport, bei dem man kopfvoran auf dem Schlitten liegt?",
+        "antworten": [
+          "skeleton"
+        ],
+        "loesung": "Skeleton"
+      },
+      {
+        "frage": "Wie heißt der Eiskanalsport mit einem geschlossenen Schlitten für zwei oder vier?",
+        "antworten": [
+          "bob",
+          "bobfahren"
+        ],
+        "loesung": "Bob"
+      },
+      {
+        "frage": "Wie heißt der Sport auf dem Eis mit Steinen und Besen?",
+        "antworten": [
+          "curling"
+        ],
+        "loesung": "Curling"
+      },
+      {
+        "frage": "Wie heißt die kürzeste Laufdisziplin der Leichtathletik bei Olympia?",
+        "antworten": [
+          "100 meter",
+          "hundert meter",
+          "100 meter lauf"
+        ],
+        "loesung": "Der 100-Meter-Lauf"
+      },
+      {
+        "frage": "Was wird bei einem Staffellauf übergeben?",
+        "antworten": [
+          "staffelstab",
+          "stab"
+        ],
+        "loesung": "Der Staffelstab"
+      },
+      {
+        "frage": "Wie heißt die Disziplin mit drei Sprüngen hintereinander?",
+        "antworten": [
+          "dreisprung"
+        ],
+        "loesung": "Der Dreisprung"
+      },
+      {
+        "frage": "Wie schwer ist der Diskus bei den Männern?",
+        "antworten": [
+          "2",
+          "zwei",
+          "2 kilo"
+        ],
+        "loesung": "2 Kilogramm",
+        "zahlenbereich": [
+          2,
+          2
+        ]
+      },
+      {
+        "frage": "Wie lang ist die kürzeste olympische Schwimmstrecke?",
+        "antworten": [
+          "50",
+          "fünfzig",
+          "50 meter"
+        ],
+        "loesung": "50 Meter",
+        "zahlenbereich": [
+          50,
+          50
+        ]
+      },
+      {
+        "frage": "Welcher Schwimmstil ist der schnellste?",
+        "antworten": [
+          "kraul",
+          "freistil"
+        ],
+        "loesung": "Das Kraulschwimmen"
+      },
+      {
+        "frage": "Mit welchem Stil beginnt das Lagenschwimmen?",
+        "antworten": [
+          "schmetterling",
+          "delfin"
+        ],
+        "loesung": "Mit Schmetterling"
+      },
+      {
+        "frage": "Wie viele Spieler hat eine Wasserballmannschaft im Wasser?",
+        "antworten": [
+          "7",
+          "sieben"
+        ],
+        "loesung": "7",
+        "zahlenbereich": [
+          7,
+          7
+        ]
+      },
+      {
+        "frage": "Wie heißt der Fußballwettbewerb der europäischen Nationalmannschaften?",
+        "antworten": [
+          "europameisterschaft",
+          "em"
+        ],
+        "loesung": "Die Europameisterschaft"
+      },
+      {
+        "frage": "Alle wie viele Jahre findet die Fußball-Europameisterschaft statt?",
+        "antworten": [
+          "4",
+          "vier"
+        ],
+        "loesung": "Alle 4 Jahre",
+        "zahlenbereich": [
+          4,
+          4
+        ]
+      },
+      {
+        "frage": "Wie viele Mannschaften spielen in der Fußball-Bundesliga?",
+        "antworten": [
+          "18",
+          "achtzehn"
+        ],
+        "loesung": "18",
+        "zahlenbereich": [
+          18,
+          18
+        ]
+      },
+      {
+        "frage": "Wie viele Spiele bestreitet ein Bundesligist in einer Saison?",
+        "antworten": [
+          "34",
+          "vierunddreißig"
+        ],
+        "loesung": "34",
+        "zahlenbereich": [
+          34,
+          34
+        ]
+      },
+      {
+        "frage": "Wie heißt der deutsche Fußball-Pokalwettbewerb?",
+        "antworten": [
+          "dfb pokal",
+          "dfb-pokal",
+          "pokal"
+        ],
+        "loesung": "Der DFB-Pokal"
+      },
+      {
+        "frage": "Wie heißt die Regel, die einen Angreifer hinter der Abwehr bestraft?",
+        "antworten": [
+          "abseits"
+        ],
+        "loesung": "Das Abseits"
+      },
+      {
+        "frage": "Wie nennt man das Annehmen und Kontrollieren des Balls?",
+        "antworten": [
+          "ballannahme",
+          "mitnahme"
+        ],
+        "loesung": "Die Ballannahme"
+      },
+      {
+        "frage": "Wie heißt die Marke am Hang, die beim Skispringen als Zielweite gilt?",
+        "antworten": [
+          "k punkt",
+          "k-punkt"
+        ],
+        "loesung": "Der K-Punkt"
+      },
+      {
+        "frage": "Wie heißt das Turnier der acht besten Tennisspieler am Saisonende?",
+        "antworten": [
+          "atp finals",
+          "masters",
+          "weltmeisterschaft"
+        ],
+        "loesung": "Die ATP Finals"
+      },
+      {
+        "frage": "Wie nennt man den Wechsel eines Spielers während des Spiels?",
+        "antworten": [
+          "auswechslung",
+          "einwechslung",
+          "wechsel"
+        ],
+        "loesung": "Eine Auswechslung"
+      },
+      {
+        "frage": "Wie nennt man die Mannschaft, die im eigenen Stadion spielt?",
+        "antworten": [
+          "heimmannschaft",
+          "gastgeber"
+        ],
+        "loesung": "Die Heimmannschaft"
+      },
+      {
+        "frage": "Wie nennt man den Abstieg in die nächsttiefere Liga?",
+        "antworten": [
+          "abstieg"
+        ],
+        "loesung": "Der Abstieg"
+      },
+      {
+        "frage": "Wie heißt das Spiel um den Klassenerhalt zwischen zwei Ligen?",
+        "antworten": [
+          "relegation"
+        ],
+        "loesung": "Die Relegation"
+      },
+      {
+        "frage": "Wie viele Ringe hat eine Zielscheibe beim Bogenschießen?",
+        "antworten": [
+          "10",
+          "zehn"
+        ],
+        "loesung": "10",
+        "zahlenbereich": [
+          10,
+          10
+        ]
+      },
+      {
+        "frage": "Wie nennt man die Sportart aus Laufen, Schwimmen, Radfahren mit langen Distanzen?",
+        "antworten": [
+          "triathlon",
+          "ironman"
+        ],
+        "loesung": "Der Triathlon"
+      },
+      {
+        "frage": "Wie heißt die Grundstellung beim Fechten?",
+        "antworten": [
+          "en garde",
+          "grundstellung"
+        ],
+        "loesung": "En garde"
+      },
+      {
+        "frage": "Wie heißt die Waffe beim Fechten mit biegsamer Klinge?",
+        "antworten": [
+          "florett",
+          "degen",
+          "säbel"
+        ],
+        "loesung": "Das Florett"
+      },
+      {
+        "frage": "Wie nennt man die Höchstleistung eines Sportlers in einer Disziplin?",
+        "antworten": [
+          "bestleistung",
+          "rekord",
+          "persönliche bestzeit"
+        ],
+        "loesung": "Die Bestleistung"
+      },
+      {
+        "frage": "Schätzfrage: Wie viele Runden hat ein Formel-1-Rennen ungefähr?",
+        "schaetzfrage": true,
+        "loesung": "rund 60 Runden"
+      },
+      {
+        "frage": "Schätzfrage: Wie schnell läuft der Weltrekordhalter die 100 Meter?",
+        "schaetzfrage": true,
+        "loesung": "9,58 Sekunden"
+      },
+      {
+        "frage": "Schätzfrage: Wie hoch ist der Hochsprung-Weltrekord der Männer?",
+        "schaetzfrage": true,
+        "loesung": "2,45 Meter"
       }
     ],
     "mittelstufe": [],

@@ -404,6 +404,398 @@ JEKAMI_FRAGEN.unterhaltung = {
           "marionette"
         ],
         "loesung": "Marionetten"
+      },
+      {
+        "frage": "Wer half Aschenputtel, die Linsen aus der Asche zu lesen?",
+        "antworten": [
+          "tauben",
+          "die tauben",
+          "vögel"
+        ],
+        "loesung": "Die Tauben"
+      },
+      {
+        "frage": "In welchem Märchen lässt ein Mädchen seine Haare aus dem Turm herunter?",
+        "antworten": [
+          "rapunzel"
+        ],
+        "loesung": "Rapunzel"
+      },
+      {
+        "frage": "Womit wird Schneewittchen von der Königin vergiftet?",
+        "antworten": [
+          "apfel",
+          "einem apfel",
+          "giftiger apfel"
+        ],
+        "loesung": "Mit einem Apfel"
+      },
+      {
+        "frage": "Wer rettet Rotkäppchen und die Großmutter aus dem Bauch des Wolfs?",
+        "antworten": [
+          "jäger",
+          "der jäger"
+        ],
+        "loesung": "Der Jäger"
+      },
+      {
+        "frage": "In welchem Märchen spuckt ein Esel Goldstücke?",
+        "antworten": [
+          "tischlein deck dich"
+        ],
+        "loesung": "Tischlein deck dich"
+      },
+      {
+        "frage": "In welchem Märchen trägt ein Kater Stiefel?",
+        "antworten": [
+          "gestiefelter kater",
+          "der gestiefelte kater"
+        ],
+        "loesung": "Der gestiefelte Kater"
+      },
+      {
+        "frage": "Wer schrieb das Märchen von der kleinen Meerjungfrau?",
+        "antworten": [
+          "andersen",
+          "hans christian andersen"
+        ],
+        "loesung": "Hans Christian Andersen"
+      },
+      {
+        "frage": "In welchem Märchen wird aus einem hässlichen Küken ein Schwan?",
+        "antworten": [
+          "hässliches entlein",
+          "das hässliche entlein"
+        ],
+        "loesung": "Das hässliche Entlein"
+      },
+      {
+        "frage": "Mit welchen Worten beginnen viele Märchen?",
+        "antworten": [
+          "es war einmal"
+        ],
+        "loesung": "Es war einmal"
+      },
+      {
+        "frage": "Wie heißt das Buch über einen kleinen Maulwurf, der einen Übeltäter sucht?",
+        "antworten": [
+          "kleiner maulwurf",
+          "vom kleinen maulwurf"
+        ],
+        "loesung": "Vom kleinen Maulwurf"
+      },
+      {
+        "frage": "Wie heißt das gestreifte Stofftier aus den Büchern von Janosch?",
+        "antworten": [
+          "tigerente"
+        ],
+        "loesung": "Die Tigerente"
+      },
+      {
+        "frage": "Wie heißt der kleine Drache aus den Kinderbüchern mit Namen einer Frucht?",
+        "antworten": [
+          "kokosnuss",
+          "der kleine drache kokosnuss"
+        ],
+        "loesung": "Der kleine Drache Kokosnuss"
+      },
+      {
+        "frage": "Was für ein Wesen ist Pumuckl?",
+        "antworten": [
+          "kobold"
+        ],
+        "loesung": "Ein Kobold"
+      },
+      {
+        "frage": "Welche Farbe haben Pumuckls Haare?",
+        "antworten": [
+          "rot"
+        ],
+        "loesung": "Rot"
+      },
+      {
+        "frage": "Bei welchem Handwerker wohnt Pumuckl?",
+        "antworten": [
+          "meister eder",
+          "schreiner",
+          "eder"
+        ],
+        "loesung": "Bei Meister Eder"
+      },
+      {
+        "frage": "Wie heißt das Mädchen aus den Hörspielen, das hexen kann?",
+        "antworten": [
+          "bibi blocksberg",
+          "bibi"
+        ],
+        "loesung": "Bibi Blocksberg"
+      },
+      {
+        "frage": "Wie heißt das Buch von Astrid Lindgren über eine Räubertochter?",
+        "antworten": [
+          "ronja",
+          "ronja räubertochter"
+        ],
+        "loesung": "Ronja Räubertochter"
+      },
+      {
+        "frage": "Wie heißt der gelbe Schwamm aus der Zeichentrickserie unter Wasser?",
+        "antworten": [
+          "spongebob"
+        ],
+        "loesung": "SpongeBob"
+      },
+      {
+        "frage": "Wie heißt das Spiel, bei dem man Klötze aus einem Turm zieht?",
+        "antworten": [
+          "jenga",
+          "wackelturm"
+        ],
+        "loesung": "Jenga"
+      },
+      {
+        "frage": "Wie heißt das Spiel mit runden Steinen auf einem Schachbrett?",
+        "antworten": [
+          "dame",
+          "damespiel"
+        ],
+        "loesung": "Dame"
+      },
+      {
+        "frage": "Wie viele Würfel braucht man für Mensch ärgere dich nicht?",
+        "antworten": [
+          "1",
+          "einen",
+          "eins"
+        ],
+        "loesung": "Einen",
+        "zahlenbereich": [
+          1,
+          1
+        ]
+      },
+      {
+        "frage": "Wie nennt man ein Rätsel, bei dem man Wörter in Kästchen einträgt?",
+        "antworten": [
+          "kreuzworträtsel"
+        ],
+        "loesung": "Ein Kreuzworträtsel"
+      },
+      {
+        "frage": "Wie nennt man ein Bild, das man aus vielen Teilen zusammensetzt?",
+        "antworten": [
+          "puzzle"
+        ],
+        "loesung": "Ein Puzzle"
+      },
+      {
+        "frage": "Wie nennt man ein Buch, in dem man Bilder ausmalt?",
+        "antworten": [
+          "malbuch"
+        ],
+        "loesung": "Ein Malbuch"
+      },
+      {
+        "frage": "Wie nennt man eine Geschichte, die man anhört statt sie zu lesen?",
+        "antworten": [
+          "hörspiel",
+          "hörbuch"
+        ],
+        "loesung": "Ein Hörspiel"
+      },
+      {
+        "frage": "Wie nennt man den Ort, an dem man Filme auf einer großen Leinwand sieht?",
+        "antworten": [
+          "kino"
+        ],
+        "loesung": "Das Kino"
+      },
+      {
+        "frage": "Was isst man im Kino besonders gern?",
+        "antworten": [
+          "popcorn"
+        ],
+        "loesung": "Popcorn"
+      },
+      {
+        "frage": "Wie nennt man eine Bühne, auf der Puppen spielen?",
+        "antworten": [
+          "puppentheater",
+          "kasperletheater"
+        ],
+        "loesung": "Ein Puppentheater"
+      },
+      {
+        "frage": "Wie heißt das Fest, an dem sich alle verkleiden?",
+        "antworten": [
+          "fasching",
+          "karneval",
+          "fastnacht"
+        ],
+        "loesung": "Fasching"
+      },
+      {
+        "frage": "Wer bringt an Ostern der Tradition nach die Eier?",
+        "antworten": [
+          "osterhase",
+          "der osterhase"
+        ],
+        "loesung": "Der Osterhase"
+      },
+      {
+        "frage": "Wie nennt man Filme mit gezeichneten Figuren?",
+        "antworten": [
+          "zeichentrickfilm",
+          "zeichentrick",
+          "trickfilm"
+        ],
+        "loesung": "Zeichentrickfilme"
+      },
+      {
+        "frage": "Wie nennt man Figuren aus Knete, die Bild für Bild gefilmt werden?",
+        "antworten": [
+          "knetfiguren",
+          "stop motion",
+          "knetanimation"
+        ],
+        "loesung": "Knetfiguren"
+      },
+      {
+        "frage": "Wie nennt man einen Trick, bei dem etwas verschwindet?",
+        "antworten": [
+          "zaubertrick",
+          "zauberei"
+        ],
+        "loesung": "Ein Zaubertrick"
+      },
+      {
+        "frage": "Wie nennt man jemanden, der in einem Film eine Rolle spielt?",
+        "antworten": [
+          "schauspieler",
+          "schauspielerin"
+        ],
+        "loesung": "Ein Schauspieler"
+      },
+      {
+        "frage": "Wie nennt man ein Heft mit Bildergeschichten?",
+        "antworten": [
+          "comicheft",
+          "comic"
+        ],
+        "loesung": "Ein Comicheft"
+      },
+      {
+        "frage": "Wie heißt das Spiel, bei dem man gemalte Begriffe erraten muss?",
+        "antworten": [
+          "montagsmaler",
+          "pictionary",
+          "malspiel"
+        ],
+        "loesung": "Montagsmaler"
+      },
+      {
+        "frage": "Wie heißt das Kartenspiel mit dem Wort Mau Mau?",
+        "antworten": [
+          "mau mau"
+        ],
+        "loesung": "Mau Mau"
+      },
+      {
+        "frage": "Wie nennt man Lieder, die man am Lagerfeuer singt?",
+        "antworten": [
+          "lagerfeuerlieder",
+          "volkslieder"
+        ],
+        "loesung": "Lagerfeuerlieder"
+      },
+      {
+        "frage": "Wie nennt man eine Sammlung von Bildern in einem Buch?",
+        "antworten": [
+          "fotoalbum",
+          "album",
+          "bildband"
+        ],
+        "loesung": "Ein Fotoalbum"
+      },
+      {
+        "frage": "Wie nennt man eine Geschichte, die frei erfunden ist?",
+        "antworten": [
+          "märchen",
+          "erfundene geschichte",
+          "fantasie"
+        ],
+        "loesung": "Eine erfundene Geschichte"
+      },
+      {
+        "frage": "Wie nennt man eine lustige Geschichte mit Pointe?",
+        "antworten": [
+          "witz"
+        ],
+        "loesung": "Ein Witz"
+      },
+      {
+        "frage": "Wie nennt man ein Buch, in das man selbst schreibt, was man erlebt hat?",
+        "antworten": [
+          "tagebuch"
+        ],
+        "loesung": "Ein Tagebuch"
+      },
+      {
+        "frage": "Wie heißt der Zirkuskünstler, der auf einem Seil balanciert?",
+        "antworten": [
+          "seiltänzer",
+          "artist"
+        ],
+        "loesung": "Der Seiltänzer"
+      },
+      {
+        "frage": "Wie nennt man eine Figur, die in einem Buch die Hauptrolle spielt?",
+        "antworten": [
+          "hauptfigur",
+          "held",
+          "hauptperson"
+        ],
+        "loesung": "Die Hauptfigur"
+      },
+      {
+        "frage": "Wie nennt man die Sammlung von Büchern, aus der man ausleihen kann?",
+        "antworten": [
+          "bücherei",
+          "bibliothek"
+        ],
+        "loesung": "Die Bücherei"
+      },
+      {
+        "frage": "Wie nennt man die Bilder in einem Kinderbuch?",
+        "antworten": [
+          "illustrationen",
+          "bilder"
+        ],
+        "loesung": "Illustrationen"
+      },
+      {
+        "frage": "Wie nennt man das Lied am Anfang einer Fernsehserie?",
+        "antworten": [
+          "titelmelodie",
+          "titellied",
+          "vorspann"
+        ],
+        "loesung": "Die Titelmelodie"
+      },
+      {
+        "frage": "Schätzfrage: Wie viele Karten hat ein Skatspiel?",
+        "schaetzfrage": true,
+        "loesung": "32 Karten"
+      },
+      {
+        "frage": "Schätzfrage: Wie viele Teile hat ein großes Kinderpuzzle?",
+        "schaetzfrage": true,
+        "loesung": "rund 100 Teile"
+      },
+      {
+        "frage": "Schätzfrage: Wie lange dauert eine Folge einer Kinderserie?",
+        "schaetzfrage": true,
+        "loesung": "rund 25 Minuten"
       }
     ],
     "unterstufe": [
@@ -785,6 +1177,387 @@ JEKAMI_FRAGEN.unterhaltung = {
           "uno"
         ],
         "loesung": "UNO"
+      },
+      {
+        "frage": "Wie heißen die vier Häuser in Hogwarts?",
+        "antworten": [
+          "gryffindor slytherin hufflepuff ravenclaw",
+          "gryffindor slytherin"
+        ],
+        "loesung": "Gryffindor, Slytherin, Hufflepuff und Ravenclaw"
+      },
+      {
+        "frage": "In welchem Haus ist Harry Potter?",
+        "antworten": [
+          "gryffindor"
+        ],
+        "loesung": "In Gryffindor"
+      },
+      {
+        "frage": "Wie heißt Harry Potters größter Gegenspieler?",
+        "antworten": [
+          "voldemort"
+        ],
+        "loesung": "Lord Voldemort"
+      },
+      {
+        "frage": "Wie heißt der Berg, in dem der Eine Ring vernichtet wird?",
+        "antworten": [
+          "schicksalsberg",
+          "mount doom"
+        ],
+        "loesung": "Der Schicksalsberg"
+      },
+      {
+        "frage": "Wer schrieb die Narnia-Bücher?",
+        "antworten": [
+          "lewis",
+          "c s lewis"
+        ],
+        "loesung": "C. S. Lewis"
+      },
+      {
+        "frage": "Wie heißt der Löwe in den Narnia-Büchern?",
+        "antworten": [
+          "aslan"
+        ],
+        "loesung": "Aslan"
+      },
+      {
+        "frage": "Wie heißt das Buch von Cornelia Funke über einen Silberdrachen?",
+        "antworten": [
+          "drachenreiter"
+        ],
+        "loesung": "Drachenreiter"
+      },
+      {
+        "frage": "Wie heißt der Roman von Jules Verne über eine Wette um eine Weltreise?",
+        "antworten": [
+          "in 80 tagen um die welt",
+          "80 tage"
+        ],
+        "loesung": "In 80 Tagen um die Welt"
+      },
+      {
+        "frage": "Wie heißt der Roman von Jules Verne über ein geheimnisvolles U-Boot?",
+        "antworten": [
+          "20000 meilen unter dem meer",
+          "zwanzigtausend meilen"
+        ],
+        "loesung": "20.000 Meilen unter dem Meer"
+      },
+      {
+        "frage": "Wer schrieb die Abenteuer von Tom Sawyer?",
+        "antworten": [
+          "mark twain",
+          "twain"
+        ],
+        "loesung": "Mark Twain"
+      },
+      {
+        "frage": "Wie heißt der beste Freund von Tom Sawyer?",
+        "antworten": [
+          "huckleberry finn",
+          "huck finn",
+          "huck"
+        ],
+        "loesung": "Huckleberry Finn"
+      },
+      {
+        "frage": "Wer schrieb den Roman Die Schatzinsel?",
+        "antworten": [
+          "stevenson",
+          "robert louis stevenson"
+        ],
+        "loesung": "Robert Louis Stevenson"
+      },
+      {
+        "frage": "Wie heißt der einbeinige Schiffskoch in der Schatzinsel?",
+        "antworten": [
+          "long john silver",
+          "silver"
+        ],
+        "loesung": "Long John Silver"
+      },
+      {
+        "frage": "Wie heißt das Mädchen, das bei seinem Großvater in den Alpen lebt?",
+        "antworten": [
+          "heidi"
+        ],
+        "loesung": "Heidi"
+      },
+      {
+        "frage": "Wie heißt Heidis Freund, der die Ziegen hütet?",
+        "antworten": [
+          "geißenpeter",
+          "peter"
+        ],
+        "loesung": "Der Geißenpeter"
+      },
+      {
+        "frage": "Wie heißen die drei jugendlichen Detektive aus Rocky Beach?",
+        "antworten": [
+          "justus peter bob",
+          "die drei fragezeichen",
+          "justus"
+        ],
+        "loesung": "Justus, Peter und Bob"
+      },
+      {
+        "frage": "Wie heißt die bekannte Kinderbuchreihe von Enid Blyton über vier Kinder und einen Hund?",
+        "antworten": [
+          "fünf freunde"
+        ],
+        "loesung": "Fünf Freunde"
+      },
+      {
+        "frage": "Wie heißt das Mädchen, das im Zauberer von Oz nach Hause will?",
+        "antworten": [
+          "dorothy"
+        ],
+        "loesung": "Dorothy"
+      },
+      {
+        "frage": "Wie heißt der Film über Spielzeug, das lebendig wird?",
+        "antworten": [
+          "toy story"
+        ],
+        "loesung": "Toy Story"
+      },
+      {
+        "frage": "Wie heißt der Cowboy in Toy Story?",
+        "antworten": [
+          "woody"
+        ],
+        "loesung": "Woody"
+      },
+      {
+        "frage": "Wie heißt der Raumfahrer in Toy Story?",
+        "antworten": [
+          "buzz",
+          "buzz lightyear"
+        ],
+        "loesung": "Buzz Lightyear"
+      },
+      {
+        "frage": "Wie heißt der Film über einen Roboter, der die verlassene Erde aufräumt?",
+        "antworten": [
+          "wall e",
+          "walle"
+        ],
+        "loesung": "WALL·E"
+      },
+      {
+        "frage": "Wie heißt der Film über eine Ratte, die Koch werden will?",
+        "antworten": [
+          "ratatouille"
+        ],
+        "loesung": "Ratatouille"
+      },
+      {
+        "frage": "Wie heißt die vergessliche Fischdame in Findet Nemo?",
+        "antworten": [
+          "dorie",
+          "dory"
+        ],
+        "loesung": "Dorie"
+      },
+      {
+        "frage": "Wie heißt der Film über einen Wikingerjungen und seinen Drachen?",
+        "antworten": [
+          "drachenzähmen leicht gemacht",
+          "drachenzähmen"
+        ],
+        "loesung": "Drachenzähmen leicht gemacht"
+      },
+      {
+        "frage": "Wie heißt der Marvel-Held mit dem Hammer aus der nordischen Sage?",
+        "antworten": [
+          "thor"
+        ],
+        "loesung": "Thor"
+      },
+      {
+        "frage": "Wie heißt der Marvel-Held mit dem runden Schild?",
+        "antworten": [
+          "captain america"
+        ],
+        "loesung": "Captain America"
+      },
+      {
+        "frage": "Wie heißt der Marvel-Held in der Rüstung aus Metall?",
+        "antworten": [
+          "iron man"
+        ],
+        "loesung": "Iron Man"
+      },
+      {
+        "frage": "Wie heißt der blaue Igel aus den Sega-Spielen?",
+        "antworten": [
+          "sonic"
+        ],
+        "loesung": "Sonic"
+      },
+      {
+        "frage": "Wie heißt das Rennspiel mit Mario und seinen Freunden?",
+        "antworten": [
+          "mario kart"
+        ],
+        "loesung": "Mario Kart"
+      },
+      {
+        "frage": "Wie heißt die Spielfigur, die in einem Labyrinth Punkte frisst?",
+        "antworten": [
+          "pac man",
+          "pacman"
+        ],
+        "loesung": "Pac-Man"
+      },
+      {
+        "frage": "Wie heißt die Nintendo-Konsole, die man auch unterwegs nutzen kann?",
+        "antworten": [
+          "switch",
+          "nintendo switch"
+        ],
+        "loesung": "Die Nintendo Switch"
+      },
+      {
+        "frage": "Wie nennt man Spiele, die man gemeinsam über das Internet spielt?",
+        "antworten": [
+          "online spiele",
+          "multiplayer",
+          "onlinespiele"
+        ],
+        "loesung": "Online-Spiele"
+      },
+      {
+        "frage": "Wie nennt man Wettkämpfe im Videospielen?",
+        "antworten": [
+          "e sport",
+          "esport"
+        ],
+        "loesung": "E-Sport"
+      },
+      {
+        "frage": "Wie heißt das Brettspiel, bei dem man Länder erobert?",
+        "antworten": [
+          "risiko"
+        ],
+        "loesung": "Risiko"
+      },
+      {
+        "frage": "Wie heißt das Spiel, bei dem man Begriffe erklärt, ohne bestimmte Wörter zu benutzen?",
+        "antworten": [
+          "tabu"
+        ],
+        "loesung": "Tabu"
+      },
+      {
+        "frage": "Wie nennt man eine einzelne Folge einer Serie?",
+        "antworten": [
+          "episode",
+          "folge"
+        ],
+        "loesung": "Eine Episode"
+      },
+      {
+        "frage": "Wie nennt man eine zusammengehörende Reihe von Folgen?",
+        "antworten": [
+          "staffel",
+          "season"
+        ],
+        "loesung": "Eine Staffel"
+      },
+      {
+        "frage": "Wie nennt man die kurze Vorschau auf einen Film?",
+        "antworten": [
+          "trailer"
+        ],
+        "loesung": "Der Trailer"
+      },
+      {
+        "frage": "Wie nennt man die Übertragung eines Films in eine andere Sprache?",
+        "antworten": [
+          "synchronisation",
+          "synchro"
+        ],
+        "loesung": "Die Synchronisation"
+      },
+      {
+        "frage": "Wie nennt man den Text am unteren Bildrand fremdsprachiger Filme?",
+        "antworten": [
+          "untertitel"
+        ],
+        "loesung": "Untertitel"
+      },
+      {
+        "frage": "Wie nennt man die Person, die bei einem Film die Regie führt?",
+        "antworten": [
+          "regisseur",
+          "regisseurin"
+        ],
+        "loesung": "Der Regisseur"
+      },
+      {
+        "frage": "Wie nennt man die Musik, die unter einer Filmszene läuft?",
+        "antworten": [
+          "filmmusik",
+          "soundtrack",
+          "score"
+        ],
+        "loesung": "Die Filmmusik"
+      },
+      {
+        "frage": "Wie nennt man die Person, die gefährliche Szenen statt des Schauspielers spielt?",
+        "antworten": [
+          "stuntman",
+          "double",
+          "stuntfrau"
+        ],
+        "loesung": "Ein Stuntman"
+      },
+      {
+        "frage": "Wie nennt man die Technik, mit der am Computer Figuren erzeugt werden?",
+        "antworten": [
+          "computeranimation",
+          "cgi",
+          "animation"
+        ],
+        "loesung": "Computeranimation"
+      },
+      {
+        "frage": "Wie nennt man ein Buch, das vor dem Film erschien und die Vorlage war?",
+        "antworten": [
+          "buchvorlage",
+          "roman",
+          "vorlage"
+        ],
+        "loesung": "Die Buchvorlage"
+      },
+      {
+        "frage": "Wie nennt man eine Geschichte, die in der Zukunft spielt?",
+        "antworten": [
+          "science fiction",
+          "zukunftsroman"
+        ],
+        "loesung": "Science-Fiction"
+      },
+      {
+        "frage": "Wie nennt man eine Geschichte mit Zauberei und erfundenen Welten?",
+        "antworten": [
+          "fantasy"
+        ],
+        "loesung": "Fantasy"
+      },
+      {
+        "frage": "Schätzfrage: Wie viele Staffeln hat die Serie Die Simpsons?",
+        "schaetzfrage": true,
+        "loesung": "über 35 Staffeln"
+      },
+      {
+        "frage": "Schätzfrage: Wie lange dauert ein Kinofilm im Durchschnitt?",
+        "schaetzfrage": true,
+        "loesung": "rund 110 Minuten"
       }
     ],
     "mittelstufe": [

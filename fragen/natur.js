@@ -424,6 +424,401 @@ JEKAMI_FRAGEN.natur = {
           "schatten"
         ],
         "loesung": "Der Schatten"
+      },
+      {
+        "frage": "Welche Farbe hat der Himmel bei schönem Wetter?",
+        "antworten": [
+          "blau"
+        ],
+        "loesung": "Blau"
+      },
+      {
+        "frage": "Warum können wir den Mond sehen?",
+        "antworten": [
+          "sonnenlicht",
+          "er spiegelt das sonnenlicht",
+          "sonne scheint drauf"
+        ],
+        "loesung": "Weil die Sonne ihn anstrahlt"
+      },
+      {
+        "frage": "Was kommt bei einem Ausbruch aus einem Vulkan?",
+        "antworten": [
+          "lava",
+          "magma",
+          "asche"
+        ],
+        "loesung": "Lava"
+      },
+      {
+        "frage": "Wie nennt man ein starkes Beben des Bodens?",
+        "antworten": [
+          "erdbeben"
+        ],
+        "loesung": "Ein Erdbeben"
+      },
+      {
+        "frage": "Wie nennt man einen sehr starken Wind?",
+        "antworten": [
+          "sturm",
+          "orkan"
+        ],
+        "loesung": "Ein Sturm"
+      },
+      {
+        "frage": "Wie nennt man einen Wind, der sich im Kreis dreht?",
+        "antworten": [
+          "wirbelsturm",
+          "tornado"
+        ],
+        "loesung": "Ein Wirbelsturm"
+      },
+      {
+        "frage": "Wodurch entsteht Wind?",
+        "antworten": [
+          "bewegte luft",
+          "luft bewegt sich",
+          "luft"
+        ],
+        "loesung": "Durch Luft, die sich bewegt"
+      },
+      {
+        "frage": "Was ist schwerer: ein Liter Wasser oder ein Liter Luft?",
+        "antworten": [
+          "wasser",
+          "das wasser"
+        ],
+        "loesung": "Das Wasser"
+      },
+      {
+        "frage": "Wie viel wiegt ein Liter Wasser?",
+        "antworten": [
+          "1 kilo",
+          "1 kilogramm",
+          "ein kilo"
+        ],
+        "loesung": "Ein Kilogramm"
+      },
+      {
+        "frage": "Warum schwimmt Eis auf dem Wasser?",
+        "antworten": [
+          "leichter",
+          "weil es leichter ist"
+        ],
+        "loesung": "Weil es leichter ist als Wasser"
+      },
+      {
+        "frage": "Wie nennt man gefrorene Regentropfen?",
+        "antworten": [
+          "hagel"
+        ],
+        "loesung": "Hagel"
+      },
+      {
+        "frage": "Wie nennt man die Tropfen, die morgens auf dem Gras liegen?",
+        "antworten": [
+          "tau"
+        ],
+        "loesung": "Tau"
+      },
+      {
+        "frage": "Wie nennt man eine Wolke, die direkt am Boden liegt?",
+        "antworten": [
+          "nebel"
+        ],
+        "loesung": "Nebel"
+      },
+      {
+        "frage": "Welche Farbe entsteht, wenn man alle Regenbogenfarben mischt?",
+        "antworten": [
+          "weiß"
+        ],
+        "loesung": "Weiß"
+      },
+      {
+        "frage": "Was braucht eine Taschenlampe, damit sie leuchtet?",
+        "antworten": [
+          "batterie",
+          "batterien"
+        ],
+        "loesung": "Eine Batterie"
+      },
+      {
+        "frage": "Wie nennt man das Teil, mit dem man Licht an- und ausmacht?",
+        "antworten": [
+          "schalter",
+          "lichtschalter"
+        ],
+        "loesung": "Der Schalter"
+      },
+      {
+        "frage": "Warum darf man nichts in eine Steckdose stecken?",
+        "antworten": [
+          "strom",
+          "stromschlag",
+          "gefährlich"
+        ],
+        "loesung": "Wegen der Gefahr eines Stromschlags"
+      },
+      {
+        "frage": "Welche Stoffe leiten Strom besonders gut?",
+        "antworten": [
+          "metalle",
+          "metall"
+        ],
+        "loesung": "Metalle"
+      },
+      {
+        "frage": "Welche Pole eines Magneten ziehen sich an?",
+        "antworten": [
+          "verschiedene",
+          "nord und süd",
+          "ungleiche"
+        ],
+        "loesung": "Nordpol und Südpol"
+      },
+      {
+        "frage": "Wie nennt man das, was wir mit den Ohren wahrnehmen?",
+        "antworten": [
+          "schall",
+          "ton",
+          "geräusch"
+        ],
+        "loesung": "Schall"
+      },
+      {
+        "frage": "Was braucht der Schall, um sich auszubreiten?",
+        "antworten": [
+          "luft"
+        ],
+        "loesung": "Luft"
+      },
+      {
+        "frage": "Wie nennt man Geräusche, die zu laut und störend sind?",
+        "antworten": [
+          "lärm"
+        ],
+        "loesung": "Lärm"
+      },
+      {
+        "frage": "Welche Farbe wird in der Sonne am wärmsten?",
+        "antworten": [
+          "schwarz"
+        ],
+        "loesung": "Schwarz"
+      },
+      {
+        "frage": "Warum trägt man im Sommer helle Kleidung?",
+        "antworten": [
+          "weniger wärme",
+          "reflektiert",
+          "kühler"
+        ],
+        "loesung": "Weil sie weniger Wärme aufnimmt"
+      },
+      {
+        "frage": "Wie nennt man Energie, die von der Sonne kommt?",
+        "antworten": [
+          "sonnenenergie",
+          "solarenergie"
+        ],
+        "loesung": "Sonnenenergie"
+      },
+      {
+        "frage": "Wie heißt das Gerät, das aus Wind Strom macht?",
+        "antworten": [
+          "windrad",
+          "windkraftanlage"
+        ],
+        "loesung": "Ein Windrad"
+      },
+      {
+        "frage": "Woraus besteht Luft hauptsächlich?",
+        "antworten": [
+          "stickstoff",
+          "stickstoff und sauerstoff"
+        ],
+        "loesung": "Aus Stickstoff und Sauerstoff"
+      },
+      {
+        "frage": "Welcher Planet hat auffällige Ringe?",
+        "antworten": [
+          "saturn"
+        ],
+        "loesung": "Der Saturn"
+      },
+      {
+        "frage": "Wie nennt man den Weg, den der Mond um die Erde nimmt?",
+        "antworten": [
+          "umlaufbahn",
+          "bahn"
+        ],
+        "loesung": "Die Umlaufbahn"
+      },
+      {
+        "frage": "Wie lange braucht der Mond einmal um die Erde?",
+        "antworten": [
+          "vier wochen",
+          "4 wochen",
+          "einen monat"
+        ],
+        "loesung": "Etwa vier Wochen"
+      },
+      {
+        "frage": "Was ist eine Sternschnuppe?",
+        "antworten": [
+          "verglühender stein",
+          "meteor",
+          "stein der verglüht"
+        ],
+        "loesung": "Ein verglühender Stein"
+      },
+      {
+        "frage": "Wie nennt man Steine aus dem Weltall, die auf der Erde landen?",
+        "antworten": [
+          "meteorit",
+          "meteoriten"
+        ],
+        "loesung": "Meteoriten"
+      },
+      {
+        "frage": "Wie heißt der Anzug, den Astronauten im Weltall tragen?",
+        "antworten": [
+          "raumanzug"
+        ],
+        "loesung": "Der Raumanzug"
+      },
+      {
+        "frage": "Wie nennt man eine Gruppe von Sternen mit eigenem Namen?",
+        "antworten": [
+          "sternbild"
+        ],
+        "loesung": "Ein Sternbild"
+      },
+      {
+        "frage": "Wie heißt das bekannte Sternbild mit sieben hellen Sternen?",
+        "antworten": [
+          "großer wagen",
+          "großer bär"
+        ],
+        "loesung": "Der Große Wagen"
+      },
+      {
+        "frage": "Warum sehen wir tagsüber keine Sterne?",
+        "antworten": [
+          "sonne zu hell",
+          "die sonne",
+          "zu hell"
+        ],
+        "loesung": "Weil die Sonne zu hell ist"
+      },
+      {
+        "frage": "Wie nennt man den Zustand im Weltall, in dem alles schwebt?",
+        "antworten": [
+          "schwerelosigkeit",
+          "schwerelos"
+        ],
+        "loesung": "Schwerelosigkeit"
+      },
+      {
+        "frage": "Wie heißt das Gerät, mit dem man das Gewicht misst?",
+        "antworten": [
+          "waage"
+        ],
+        "loesung": "Die Waage"
+      },
+      {
+        "frage": "Welche Form hat ein fallender Wassertropfen?",
+        "antworten": [
+          "rund",
+          "kugel",
+          "kugelig"
+        ],
+        "loesung": "Rund"
+      },
+      {
+        "frage": "Wie nennt man warme Luft, die nach oben steigt?",
+        "antworten": [
+          "aufwind",
+          "warme luft steigt"
+        ],
+        "loesung": "Aufwind"
+      },
+      {
+        "frage": "Wie nennt man Wasser, das aus dem Boden hervorkommt?",
+        "antworten": [
+          "quelle",
+          "grundwasser"
+        ],
+        "loesung": "Eine Quelle"
+      },
+      {
+        "frage": "Wie nennt man den Zustand von Wasser bei minus zehn Grad?",
+        "antworten": [
+          "fest",
+          "eis",
+          "gefroren"
+        ],
+        "loesung": "Fest"
+      },
+      {
+        "frage": "Womit kann man eine Flamme löschen?",
+        "antworten": [
+          "wasser",
+          "decke",
+          "sand"
+        ],
+        "loesung": "Mit Wasser"
+      },
+      {
+        "frage": "Warum geht eine Kerze ohne Luft aus?",
+        "antworten": [
+          "kein sauerstoff",
+          "sauerstoff fehlt",
+          "keine luft"
+        ],
+        "loesung": "Weil der Sauerstoff fehlt"
+      },
+      {
+        "frage": "Wie nennt man das Werkzeug, mit dem man Längen misst?",
+        "antworten": [
+          "lineal",
+          "maßband",
+          "zollstock"
+        ],
+        "loesung": "Ein Lineal"
+      },
+      {
+        "frage": "Wie nennt man den Übergang von Eis zu Wasser?",
+        "antworten": [
+          "schmelzen",
+          "tauen"
+        ],
+        "loesung": "Schmelzen"
+      },
+      {
+        "frage": "Welche Jahreszeit hat die kürzesten Tage?",
+        "antworten": [
+          "winter"
+        ],
+        "loesung": "Der Winter"
+      },
+      {
+        "frage": "Welche Jahreszeit hat die längsten Tage?",
+        "antworten": [
+          "sommer"
+        ],
+        "loesung": "Der Sommer"
+      },
+      {
+        "frage": "Schätzfrage: Wie viele Sterne sieht man in einer klaren Nacht mit bloßem Auge?",
+        "schaetzfrage": true,
+        "loesung": "rund 3000"
+      },
+      {
+        "frage": "Schätzfrage: Wie schnell fliegt ein Passagierflugzeug?",
+        "schaetzfrage": true,
+        "loesung": "rund 900 km/h"
       }
     ],
     "unterstufe": [
@@ -823,6 +1218,407 @@ JEKAMI_FRAGEN.natur = {
           "akkumulator"
         ],
         "loesung": "Eine Batterie"
+      },
+      {
+        "frage": "Wie heißt die Einheit der elektrischen Stromstärke?",
+        "antworten": [
+          "ampere"
+        ],
+        "loesung": "Das Ampere"
+      },
+      {
+        "frage": "Wie heißt die Einheit der elektrischen Spannung?",
+        "antworten": [
+          "volt"
+        ],
+        "loesung": "Das Volt"
+      },
+      {
+        "frage": "Womit misst man die elektrische Spannung?",
+        "antworten": [
+          "voltmeter",
+          "spannungsmesser",
+          "multimeter"
+        ],
+        "loesung": "Mit einem Voltmeter"
+      },
+      {
+        "frage": "Was braucht ein Stromkreis mindestens, damit er funktioniert?",
+        "antworten": [
+          "quelle leitung verbraucher",
+          "stromquelle",
+          "geschlossener kreis"
+        ],
+        "loesung": "Quelle, Leitung und Verbraucher"
+      },
+      {
+        "frage": "Wie nennt man eine Schaltung, bei der Lampen hintereinander liegen?",
+        "antworten": [
+          "reihenschaltung",
+          "serienschaltung"
+        ],
+        "loesung": "Die Reihenschaltung"
+      },
+      {
+        "frage": "Wie nennt man eine Schaltung, bei der Lampen nebeneinander liegen?",
+        "antworten": [
+          "parallelschaltung"
+        ],
+        "loesung": "Die Parallelschaltung"
+      },
+      {
+        "frage": "Wie heißt die Kraft, die eine Bewegung bremst?",
+        "antworten": [
+          "reibung",
+          "reibungskraft"
+        ],
+        "loesung": "Die Reibung"
+      },
+      {
+        "frage": "Wie nennt man eine Stange, mit der man Kraft spart, wie bei einer Wippe?",
+        "antworten": [
+          "hebel"
+        ],
+        "loesung": "Ein Hebel"
+      },
+      {
+        "frage": "Wie nennt man die gespeicherte Energie eines hochgehobenen Körpers?",
+        "antworten": [
+          "lageenergie",
+          "potenzielle energie",
+          "höhenenergie"
+        ],
+        "loesung": "Die Lageenergie"
+      },
+      {
+        "frage": "Wie nennt man die Energie eines bewegten Körpers?",
+        "antworten": [
+          "bewegungsenergie",
+          "kinetische energie"
+        ],
+        "loesung": "Die Bewegungsenergie"
+      },
+      {
+        "frage": "Wie heißt die Temperaturskala, die beim absoluten Nullpunkt beginnt?",
+        "antworten": [
+          "kelvin"
+        ],
+        "loesung": "Die Kelvin-Skala"
+      },
+      {
+        "frage": "Was passiert mit den meisten Stoffen, wenn man sie erwärmt?",
+        "antworten": [
+          "dehnen sich aus",
+          "ausdehnen",
+          "werden größer"
+        ],
+        "loesung": "Sie dehnen sich aus"
+      },
+      {
+        "frage": "Wie nennt man die Wärmeübertragung durch direkte Berührung?",
+        "antworten": [
+          "wärmeleitung"
+        ],
+        "loesung": "Die Wärmeleitung"
+      },
+      {
+        "frage": "Wie nennt man die Wärmeübertragung ohne Materie dazwischen?",
+        "antworten": [
+          "wärmestrahlung",
+          "strahlung"
+        ],
+        "loesung": "Die Wärmestrahlung"
+      },
+      {
+        "frage": "Kann sich Schall im Vakuum ausbreiten?",
+        "antworten": [
+          "nein"
+        ],
+        "loesung": "Nein"
+      },
+      {
+        "frage": "Wie heißt das chemische Zeichen für Kupfer?",
+        "antworten": [
+          "cu"
+        ],
+        "loesung": "Cu"
+      },
+      {
+        "frage": "Wie viele Atome hat ein Wassermolekül?",
+        "antworten": [
+          "3",
+          "drei"
+        ],
+        "loesung": "3",
+        "zahlenbereich": [
+          3,
+          3
+        ]
+      },
+      {
+        "frage": "Wie nennt man einen Stoff, der nur aus einer Atomsorte besteht?",
+        "antworten": [
+          "element"
+        ],
+        "loesung": "Ein Element"
+      },
+      {
+        "frage": "Wie nennt man einen Stoff aus mehreren miteinander verbundenen Elementen?",
+        "antworten": [
+          "verbindung",
+          "chemische verbindung"
+        ],
+        "loesung": "Eine Verbindung"
+      },
+      {
+        "frage": "Wie trennt man Salz von Wasser?",
+        "antworten": [
+          "verdampfen",
+          "eindampfen",
+          "verdunsten"
+        ],
+        "loesung": "Durch Verdampfen"
+      },
+      {
+        "frage": "Wie trennt man Sand von Wasser?",
+        "antworten": [
+          "filtern",
+          "filtrieren"
+        ],
+        "loesung": "Durch Filtern"
+      },
+      {
+        "frage": "Wie nennt man Lösungen mit einem pH-Wert unter sieben?",
+        "antworten": [
+          "säuren",
+          "sauer"
+        ],
+        "loesung": "Säuren"
+      },
+      {
+        "frage": "Wie nennt man Lösungen mit einem pH-Wert über sieben?",
+        "antworten": [
+          "laugen",
+          "basen",
+          "basisch"
+        ],
+        "loesung": "Laugen"
+      },
+      {
+        "frage": "Womit prüft man, ob eine Lösung sauer ist?",
+        "antworten": [
+          "indikator",
+          "ph papier",
+          "lackmus"
+        ],
+        "loesung": "Mit einem Indikator"
+      },
+      {
+        "frage": "Was entsteht, wenn Eisen rostet?",
+        "antworten": [
+          "rost",
+          "eisenoxid"
+        ],
+        "loesung": "Rost, also Eisenoxid"
+      },
+      {
+        "frage": "Was braucht Eisen, damit es rostet?",
+        "antworten": [
+          "sauerstoff und wasser",
+          "wasser und luft",
+          "feuchtigkeit"
+        ],
+        "loesung": "Sauerstoff und Wasser"
+      },
+      {
+        "frage": "Wie nennt man eine chemische Reaktion mit Sauerstoff?",
+        "antworten": [
+          "oxidation"
+        ],
+        "loesung": "Eine Oxidation"
+      },
+      {
+        "frage": "Welcher Planet liegt zwischen Merkur und Erde?",
+        "antworten": [
+          "venus"
+        ],
+        "loesung": "Die Venus"
+      },
+      {
+        "frage": "Welcher Planet ist am weitesten von der Sonne entfernt?",
+        "antworten": [
+          "neptun"
+        ],
+        "loesung": "Der Neptun"
+      },
+      {
+        "frage": "Wie nennt man die vielen kleinen Körper zwischen Mars und Jupiter?",
+        "antworten": [
+          "asteroiden",
+          "asteroidengürtel"
+        ],
+        "loesung": "Asteroiden"
+      },
+      {
+        "frage": "Wie nennt man einen Himmelskörper mit leuchtendem Schweif?",
+        "antworten": [
+          "komet"
+        ],
+        "loesung": "Ein Komet"
+      },
+      {
+        "frage": "Wodurch entstehen die Jahreszeiten?",
+        "antworten": [
+          "neigung der erdachse",
+          "erdachse",
+          "schiefe der erdachse"
+        ],
+        "loesung": "Durch die Neigung der Erdachse"
+      },
+      {
+        "frage": "Um wie viel Grad ist die Erdachse geneigt?",
+        "antworten": [
+          "23,5",
+          "23"
+        ],
+        "loesung": "Um 23,5 Grad",
+        "zahlenbereich": [
+          22,
+          25
+        ]
+      },
+      {
+        "frage": "Wie heißt der längste Tag des Jahres?",
+        "antworten": [
+          "sommersonnenwende",
+          "sonnenwende"
+        ],
+        "loesung": "Die Sommersonnenwende"
+      },
+      {
+        "frage": "Welche Schicht der Atmosphäre schützt vor UV-Strahlung?",
+        "antworten": [
+          "ozonschicht",
+          "ozon"
+        ],
+        "loesung": "Die Ozonschicht"
+      },
+      {
+        "frage": "Wie heißt die unterste Schicht der Atmosphäre?",
+        "antworten": [
+          "troposphäre"
+        ],
+        "loesung": "Die Troposphäre"
+      },
+      {
+        "frage": "Wie nennt man die Erwärmung der Erde durch Gase in der Luft?",
+        "antworten": [
+          "treibhauseffekt"
+        ],
+        "loesung": "Der Treibhauseffekt"
+      },
+      {
+        "frage": "Wodurch entstehen Ebbe und Flut?",
+        "antworten": [
+          "mond",
+          "anziehung des mondes",
+          "mondanziehung"
+        ],
+        "loesung": "Durch die Anziehungskraft des Mondes"
+      },
+      {
+        "frage": "Wie nennt man geschmolzenes Gestein unter der Erdoberfläche?",
+        "antworten": [
+          "magma"
+        ],
+        "loesung": "Magma"
+      },
+      {
+        "frage": "Wie heißen die großen Platten, aus denen die Erdkruste besteht?",
+        "antworten": [
+          "erdplatten",
+          "kontinentalplatten",
+          "lithosphärenplatten"
+        ],
+        "loesung": "Die Erdplatten"
+      },
+      {
+        "frage": "Wie nennt man Gestein, das aus erstarrter Lava entsteht?",
+        "antworten": [
+          "erstarrungsgestein",
+          "vulkangestein",
+          "magmatisches gestein"
+        ],
+        "loesung": "Erstarrungsgestein"
+      },
+      {
+        "frage": "Wie heißt die Schicht unter der Erdkruste?",
+        "antworten": [
+          "erdmantel",
+          "mantel"
+        ],
+        "loesung": "Der Erdmantel"
+      },
+      {
+        "frage": "Wie nennt man die Kraft, mit der die Erde alles anzieht, in einer Zahl?",
+        "antworten": [
+          "9,81",
+          "9,8",
+          "10"
+        ],
+        "loesung": "Rund 9,81 Meter pro Sekunde im Quadrat",
+        "zahlenbereich": [
+          9,
+          10
+        ]
+      },
+      {
+        "frage": "Wie nennt man Energie, die nicht verbraucht wird, sondern nur umgewandelt?",
+        "antworten": [
+          "energieerhaltung",
+          "umwandlung"
+        ],
+        "loesung": "Die Energieerhaltung"
+      },
+      {
+        "frage": "Wie nennt man ein Gerät, das Bewegung in Strom umwandelt?",
+        "antworten": [
+          "generator",
+          "dynamo"
+        ],
+        "loesung": "Ein Generator"
+      },
+      {
+        "frage": "Wie nennt man ein Gerät, das Strom in Bewegung umwandelt?",
+        "antworten": [
+          "motor",
+          "elektromotor"
+        ],
+        "loesung": "Ein Elektromotor"
+      },
+      {
+        "frage": "Wie nennt man den Widerstand, den Luft einem bewegten Körper entgegensetzt?",
+        "antworten": [
+          "luftwiderstand"
+        ],
+        "loesung": "Der Luftwiderstand"
+      },
+      {
+        "frage": "Wie nennt man den Punkt, an dem ein Körper im Gleichgewicht ist?",
+        "antworten": [
+          "schwerpunkt"
+        ],
+        "loesung": "Der Schwerpunkt"
+      },
+      {
+        "frage": "Schätzfrage: Wie dick ist die Erdkruste unter den Kontinenten?",
+        "schaetzfrage": true,
+        "loesung": "rund 35 Kilometer"
+      },
+      {
+        "frage": "Schätzfrage: Wie heiß ist der Erdkern?",
+        "schaetzfrage": true,
+        "loesung": "rund 5000 Grad"
       }
     ],
     "mittelstufe": [

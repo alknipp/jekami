@@ -496,6 +496,496 @@ JEKAMI_FRAGEN.allgemein = {
           4,
           4
         ]
+      },
+      {
+        "frage": "Was ergibt zwölf plus acht?",
+        "antworten": [
+          "20",
+          "zwanzig"
+        ],
+        "loesung": "20",
+        "zahlenbereich": [
+          20,
+          20
+        ]
+      },
+      {
+        "frage": "Was ergibt dreißig minus zwölf?",
+        "antworten": [
+          "18",
+          "achtzehn"
+        ],
+        "loesung": "18",
+        "zahlenbereich": [
+          18,
+          18
+        ]
+      },
+      {
+        "frage": "Was ergibt vier mal sechs?",
+        "antworten": [
+          "24",
+          "vierundzwanzig"
+        ],
+        "loesung": "24",
+        "zahlenbereich": [
+          24,
+          24
+        ]
+      },
+      {
+        "frage": "Was ergibt sieben mal sieben?",
+        "antworten": [
+          "49",
+          "neunundvierzig"
+        ],
+        "loesung": "49",
+        "zahlenbereich": [
+          49,
+          49
+        ]
+      },
+      {
+        "frage": "Was ergibt neun mal zehn?",
+        "antworten": [
+          "90",
+          "neunzig"
+        ],
+        "loesung": "90",
+        "zahlenbereich": [
+          90,
+          90
+        ]
+      },
+      {
+        "frage": "Was ergibt fünfzig geteilt durch fünf?",
+        "antworten": [
+          "10",
+          "zehn"
+        ],
+        "loesung": "10",
+        "zahlenbereich": [
+          10,
+          10
+        ]
+      },
+      {
+        "frage": "Was ergibt achtzehn geteilt durch drei?",
+        "antworten": [
+          "6",
+          "sechs"
+        ],
+        "loesung": "6",
+        "zahlenbereich": [
+          6,
+          6
+        ]
+      },
+      {
+        "frage": "Was ist die Hälfte von fünfzig?",
+        "antworten": [
+          "25",
+          "fünfundzwanzig"
+        ],
+        "loesung": "25",
+        "zahlenbereich": [
+          25,
+          25
+        ]
+      },
+      {
+        "frage": "Was ist das Doppelte von sieben?",
+        "antworten": [
+          "14",
+          "vierzehn"
+        ],
+        "loesung": "14",
+        "zahlenbereich": [
+          14,
+          14
+        ]
+      },
+      {
+        "frage": "Was ergibt fünfundzwanzig plus fünfundzwanzig?",
+        "antworten": [
+          "50",
+          "fünfzig"
+        ],
+        "loesung": "50",
+        "zahlenbereich": [
+          50,
+          50
+        ]
+      },
+      {
+        "frage": "Welche Zahl kommt vor der hundert?",
+        "antworten": [
+          "99",
+          "neunundneunzig"
+        ],
+        "loesung": "99",
+        "zahlenbereich": [
+          99,
+          99
+        ]
+      },
+      {
+        "frage": "Welche Zahl ist größer: 67 oder 76?",
+        "antworten": [
+          "76"
+        ],
+        "loesung": "76",
+        "zahlenbereich": [
+          76,
+          76
+        ]
+      },
+      {
+        "frage": "Wie viele Zehner stecken in der Zahl vierzig?",
+        "antworten": [
+          "4",
+          "vier"
+        ],
+        "loesung": "4",
+        "zahlenbereich": [
+          4,
+          4
+        ]
+      },
+      {
+        "frage": "Wie viele Paare sind zehn Socken?",
+        "antworten": [
+          "5",
+          "fünf"
+        ],
+        "loesung": "5",
+        "zahlenbereich": [
+          5,
+          5
+        ]
+      },
+      {
+        "frage": "Welche Zahlen stehen auf einem Würfel?",
+        "antworten": [
+          "1 bis 6",
+          "eins bis sechs"
+        ],
+        "loesung": "Eins bis sechs"
+      },
+      {
+        "frage": "Wie viele Tage hat der Januar?",
+        "antworten": [
+          "31",
+          "einunddreißig"
+        ],
+        "loesung": "31",
+        "zahlenbereich": [
+          31,
+          31
+        ]
+      },
+      {
+        "frage": "Welcher Monat ist der erste im Jahr?",
+        "antworten": [
+          "januar"
+        ],
+        "loesung": "Der Januar"
+      },
+      {
+        "frage": "Welcher Monat ist der letzte im Jahr?",
+        "antworten": [
+          "dezember"
+        ],
+        "loesung": "Der Dezember"
+      },
+      {
+        "frage": "In welcher Jahreszeit fällt bei uns Schnee?",
+        "antworten": [
+          "winter"
+        ],
+        "loesung": "Im Winter"
+      },
+      {
+        "frage": "In welcher Jahreszeit blühen die meisten Blumen?",
+        "antworten": [
+          "frühling",
+          "frühjahr"
+        ],
+        "loesung": "Im Frühling"
+      },
+      {
+        "frage": "Wie viele Stunden hat ein halber Tag?",
+        "antworten": [
+          "12",
+          "zwölf"
+        ],
+        "loesung": "12",
+        "zahlenbereich": [
+          12,
+          12
+        ]
+      },
+      {
+        "frage": "Wie viele Minuten sind eine halbe Stunde?",
+        "antworten": [
+          "30",
+          "dreißig"
+        ],
+        "loesung": "30",
+        "zahlenbereich": [
+          30,
+          30
+        ]
+      },
+      {
+        "frage": "Wie viele Buchstaben hat das Wort Blume?",
+        "antworten": [
+          "5",
+          "fünf"
+        ],
+        "loesung": "5",
+        "zahlenbereich": [
+          5,
+          5
+        ]
+      },
+      {
+        "frage": "Wie heißt die Mehrzahl von Kind?",
+        "antworten": [
+          "kinder"
+        ],
+        "loesung": "Kinder"
+      },
+      {
+        "frage": "Wie heißt die Mehrzahl von Buch?",
+        "antworten": [
+          "bücher"
+        ],
+        "loesung": "Bücher"
+      },
+      {
+        "frage": "Womit beginnt jeder Satz?",
+        "antworten": [
+          "großer buchstabe",
+          "großbuchstabe",
+          "groß"
+        ],
+        "loesung": "Mit einem großen Buchstaben"
+      },
+      {
+        "frage": "Welche Wörter schreibt man im Deutschen immer groß?",
+        "antworten": [
+          "nomen",
+          "hauptwörter",
+          "namenwörter"
+        ],
+        "loesung": "Die Nomen"
+      },
+      {
+        "frage": "Wie nennt man ein Wort, das eine Tätigkeit beschreibt?",
+        "antworten": [
+          "verb",
+          "tunwort",
+          "tuwort"
+        ],
+        "loesung": "Ein Verb"
+      },
+      {
+        "frage": "Wie heißt das Zeichen am Ende eines Ausrufs?",
+        "antworten": [
+          "ausrufezeichen"
+        ],
+        "loesung": "Das Ausrufezeichen"
+      },
+      {
+        "frage": "Nenne einen Selbstlaut.",
+        "antworten": [
+          "a",
+          "e",
+          "i",
+          "o",
+          "u"
+        ],
+        "loesung": "Zum Beispiel A"
+      },
+      {
+        "frage": "Wie viele Selbstlaute gibt es im Deutschen?",
+        "antworten": [
+          "5",
+          "fünf"
+        ],
+        "loesung": "5",
+        "zahlenbereich": [
+          5,
+          5
+        ]
+      },
+      {
+        "frage": "Wie heißt das Gegenteil von groß?",
+        "antworten": [
+          "klein"
+        ],
+        "loesung": "Klein"
+      },
+      {
+        "frage": "Wie heißt das Gegenteil von hell?",
+        "antworten": [
+          "dunkel"
+        ],
+        "loesung": "Dunkel"
+      },
+      {
+        "frage": "Wie heißt das Gegenteil von alt?",
+        "antworten": [
+          "neu",
+          "jung"
+        ],
+        "loesung": "Neu"
+      },
+      {
+        "frage": "Wie heißt das Gegenteil von laut?",
+        "antworten": [
+          "leise"
+        ],
+        "loesung": "Leise"
+      },
+      {
+        "frage": "Wie viele Räder hat ein Auto?",
+        "antworten": [
+          "4",
+          "vier"
+        ],
+        "loesung": "4",
+        "zahlenbereich": [
+          4,
+          4
+        ]
+      },
+      {
+        "frage": "Welche Farbe hat ein Stoppschild?",
+        "antworten": [
+          "rot"
+        ],
+        "loesung": "Rot"
+      },
+      {
+        "frage": "Wie viele Farben hat eine Ampel?",
+        "antworten": [
+          "3",
+          "drei"
+        ],
+        "loesung": "3",
+        "zahlenbereich": [
+          3,
+          3
+        ]
+      },
+      {
+        "frage": "Wo überquert man eine Straße am sichersten?",
+        "antworten": [
+          "zebrastreifen",
+          "ampel",
+          "fußgängerüberweg"
+        ],
+        "loesung": "Am Zebrastreifen"
+      },
+      {
+        "frage": "Welche Nummer wählt man bei der Polizei?",
+        "antworten": [
+          "110"
+        ],
+        "loesung": "Die 110",
+        "zahlenbereich": [
+          110,
+          110
+        ]
+      },
+      {
+        "frage": "Wie viele Finger hat man an einer Hand?",
+        "antworten": [
+          "5",
+          "fünf"
+        ],
+        "loesung": "5",
+        "zahlenbereich": [
+          5,
+          5
+        ]
+      },
+      {
+        "frage": "Wie viele Zehen hat ein Mensch?",
+        "antworten": [
+          "10",
+          "zehn"
+        ],
+        "loesung": "10",
+        "zahlenbereich": [
+          10,
+          10
+        ]
+      },
+      {
+        "frage": "Wie nennt man den Beruf, der Brot backt?",
+        "antworten": [
+          "bäcker",
+          "bäckerin"
+        ],
+        "loesung": "Der Bäcker"
+      },
+      {
+        "frage": "Wie nennt man den Beruf, der Haare schneidet?",
+        "antworten": [
+          "friseur",
+          "friseurin"
+        ],
+        "loesung": "Der Friseur"
+      },
+      {
+        "frage": "Wie nennt man den Beruf, der kranke Tiere behandelt?",
+        "antworten": [
+          "tierarzt",
+          "tierärztin"
+        ],
+        "loesung": "Der Tierarzt"
+      },
+      {
+        "frage": "Wie nennt man den Beruf, der Häuser baut?",
+        "antworten": [
+          "maurer",
+          "bauarbeiter"
+        ],
+        "loesung": "Der Maurer"
+      },
+      {
+        "frage": "Woraus wird Butter gemacht?",
+        "antworten": [
+          "milch",
+          "sahne"
+        ],
+        "loesung": "Aus Milch"
+      },
+      {
+        "frage": "Woraus wird Brot gebacken?",
+        "antworten": [
+          "mehl",
+          "getreide"
+        ],
+        "loesung": "Aus Mehl"
+      },
+      {
+        "frage": "Woraus wird Käse gemacht?",
+        "antworten": [
+          "milch"
+        ],
+        "loesung": "Aus Milch"
+      },
+      {
+        "frage": "Wie nennt man das Buch, in dem Wörter erklärt werden?",
+        "antworten": [
+          "wörterbuch",
+          "lexikon"
+        ],
+        "loesung": "Ein Wörterbuch"
       }
     ],
     "unterstufe": [
@@ -946,6 +1436,462 @@ JEKAMI_FRAGEN.allgemein = {
           2.4,
           2.7
         ]
+      },
+      {
+        "frage": "Was ergibt dreizehn mal vier?",
+        "antworten": [
+          "52",
+          "zweiundfünfzig"
+        ],
+        "loesung": "52",
+        "zahlenbereich": [
+          52,
+          52
+        ]
+      },
+      {
+        "frage": "Was ergibt 256 geteilt durch acht?",
+        "antworten": [
+          "32",
+          "zweiunddreißig"
+        ],
+        "loesung": "32",
+        "zahlenbereich": [
+          32,
+          32
+        ]
+      },
+      {
+        "frage": "Was ist ein Fünftel von 250?",
+        "antworten": [
+          "50",
+          "fünfzig"
+        ],
+        "loesung": "50",
+        "zahlenbereich": [
+          50,
+          50
+        ]
+      },
+      {
+        "frage": "Wie viel Prozent sind ein Viertel?",
+        "antworten": [
+          "25",
+          "fünfundzwanzig"
+        ],
+        "loesung": "25 Prozent",
+        "zahlenbereich": [
+          25,
+          25
+        ]
+      },
+      {
+        "frage": "Wie viel sind zwanzig Prozent von achtzig?",
+        "antworten": [
+          "16",
+          "sechzehn"
+        ],
+        "loesung": "16",
+        "zahlenbereich": [
+          16,
+          16
+        ]
+      },
+      {
+        "frage": "Wie lautet null Komma fünf als Bruch?",
+        "antworten": [
+          "ein halb",
+          "1/2",
+          "die hälfte"
+        ],
+        "loesung": "Ein Halb"
+      },
+      {
+        "frage": "Wie viel Grad hat ein gestreckter Winkel?",
+        "antworten": [
+          "180"
+        ],
+        "loesung": "180 Grad",
+        "zahlenbereich": [
+          180,
+          180
+        ]
+      },
+      {
+        "frage": "Wie nennt man ein Dreieck mit drei gleich langen Seiten?",
+        "antworten": [
+          "gleichseitig",
+          "gleichseitiges dreieck"
+        ],
+        "loesung": "Gleichseitig"
+      },
+      {
+        "frage": "Wie nennt man ein Dreieck mit einem rechten Winkel?",
+        "antworten": [
+          "rechtwinklig",
+          "rechtwinkliges dreieck"
+        ],
+        "loesung": "Rechtwinklig"
+      },
+      {
+        "frage": "Wie berechnet man den Umfang eines Rechtecks?",
+        "antworten": [
+          "zwei mal länge plus zwei mal breite",
+          "2a plus 2b"
+        ],
+        "loesung": "Zweimal Länge plus zweimal Breite"
+      },
+      {
+        "frage": "Wie viele Kanten hat ein Würfel?",
+        "antworten": [
+          "12",
+          "zwölf"
+        ],
+        "loesung": "12",
+        "zahlenbereich": [
+          12,
+          12
+        ]
+      },
+      {
+        "frage": "Wie viele Flächen hat ein Würfel?",
+        "antworten": [
+          "6",
+          "sechs"
+        ],
+        "loesung": "6",
+        "zahlenbereich": [
+          6,
+          6
+        ]
+      },
+      {
+        "frage": "Wie heißt der Körper mit zwei Kreisen als Grund- und Deckfläche?",
+        "antworten": [
+          "zylinder"
+        ],
+        "loesung": "Der Zylinder"
+      },
+      {
+        "frage": "Wie viel ist die Wurzel aus 81?",
+        "antworten": [
+          "9",
+          "neun"
+        ],
+        "loesung": "9",
+        "zahlenbereich": [
+          9,
+          9
+        ]
+      },
+      {
+        "frage": "Was ergibt zwei hoch fünf?",
+        "antworten": [
+          "32",
+          "zweiunddreißig"
+        ],
+        "loesung": "32",
+        "zahlenbereich": [
+          32,
+          32
+        ]
+      },
+      {
+        "frage": "Wie nennt man Zahlen, die kleiner als null sind?",
+        "antworten": [
+          "negative zahlen",
+          "negativ"
+        ],
+        "loesung": "Negative Zahlen"
+      },
+      {
+        "frage": "Auf welchen Zehner rundet man 47?",
+        "antworten": [
+          "50",
+          "fünfzig"
+        ],
+        "loesung": "Auf 50",
+        "zahlenbereich": [
+          50,
+          50
+        ]
+      },
+      {
+        "frage": "Wie viele Nullen hat eine Billion?",
+        "antworten": [
+          "12",
+          "zwölf"
+        ],
+        "loesung": "12",
+        "zahlenbereich": [
+          12,
+          12
+        ]
+      },
+      {
+        "frage": "Wie nennt man ein Wort, das ein Nomen ersetzt?",
+        "antworten": [
+          "pronomen",
+          "fürwort"
+        ],
+        "loesung": "Ein Pronomen"
+      },
+      {
+        "frage": "Wie heißt die Zeitform der Vorvergangenheit?",
+        "antworten": [
+          "plusquamperfekt",
+          "vorvergangenheit"
+        ],
+        "loesung": "Das Plusquamperfekt"
+      },
+      {
+        "frage": "Wie nennt man das Satzglied mit dem Verb?",
+        "antworten": [
+          "prädikat"
+        ],
+        "loesung": "Das Prädikat"
+      },
+      {
+        "frage": "Wie nennt man einen Satz aus Hauptsatz und Nebensatz?",
+        "antworten": [
+          "satzgefüge"
+        ],
+        "loesung": "Ein Satzgefüge"
+      },
+      {
+        "frage": "Wie nennt man Bindewörter wie und, oder und aber?",
+        "antworten": [
+          "konjunktionen",
+          "bindewörter"
+        ],
+        "loesung": "Konjunktionen"
+      },
+      {
+        "frage": "Wie lautet die Steigerung von gut?",
+        "antworten": [
+          "besser",
+          "besser am besten"
+        ],
+        "loesung": "Besser, am besten"
+      },
+      {
+        "frage": "Wie nennt man die Beugung eines Verbs?",
+        "antworten": [
+          "konjugation"
+        ],
+        "loesung": "Die Konjugation"
+      },
+      {
+        "frage": "Wie nennt man die Beugung eines Nomens?",
+        "antworten": [
+          "deklination"
+        ],
+        "loesung": "Die Deklination"
+      },
+      {
+        "frage": "Wie nennt man ein Wort, das aus einer anderen Sprache übernommen wurde?",
+        "antworten": [
+          "fremdwort",
+          "lehnwort"
+        ],
+        "loesung": "Ein Fremdwort"
+      },
+      {
+        "frage": "Wie nennt man eine kurze Geschichte mit Tieren und einer Lehre?",
+        "antworten": [
+          "fabel"
+        ],
+        "loesung": "Eine Fabel"
+      },
+      {
+        "frage": "Wie nennt man ein Gedicht mit vierzehn Versen?",
+        "antworten": [
+          "sonett"
+        ],
+        "loesung": "Ein Sonett"
+      },
+      {
+        "frage": "Wie nennt man den Gleichklang am Ende zweier Verszeilen?",
+        "antworten": [
+          "reim",
+          "endreim"
+        ],
+        "loesung": "Der Reim"
+      },
+      {
+        "frage": "Wie nennt man das Betonungsmuster eines Gedichts?",
+        "antworten": [
+          "metrum",
+          "versmaß"
+        ],
+        "loesung": "Das Metrum"
+      },
+      {
+        "frage": "Wie viele Stunden hat eine Woche?",
+        "antworten": [
+          "168"
+        ],
+        "loesung": "168",
+        "zahlenbereich": [
+          168,
+          168
+        ]
+      },
+      {
+        "frage": "Wie viele Tage hat ein Schaltjahr?",
+        "antworten": [
+          "366"
+        ],
+        "loesung": "366",
+        "zahlenbereich": [
+          366,
+          366
+        ]
+      },
+      {
+        "frage": "Wie heißt die Währung der Vereinigten Staaten?",
+        "antworten": [
+          "dollar",
+          "us dollar"
+        ],
+        "loesung": "Der Dollar"
+      },
+      {
+        "frage": "Wofür steht die Abkürzung PC?",
+        "antworten": [
+          "personal computer"
+        ],
+        "loesung": "Personal Computer"
+      },
+      {
+        "frage": "Wofür steht die Abkürzung WWW?",
+        "antworten": [
+          "world wide web"
+        ],
+        "loesung": "World Wide Web"
+      },
+      {
+        "frage": "Wie nennt man ein Programm zum Aufrufen von Internetseiten?",
+        "antworten": [
+          "browser"
+        ],
+        "loesung": "Ein Browser"
+      },
+      {
+        "frage": "Wie nennt man schädliche Software allgemein?",
+        "antworten": [
+          "schadsoftware",
+          "malware",
+          "virus",
+          "viren"
+        ],
+        "loesung": "Schadsoftware"
+      },
+      {
+        "frage": "Wie heißt das bekannteste deutsche Rechtschreibwörterbuch?",
+        "antworten": [
+          "duden"
+        ],
+        "loesung": "Der Duden"
+      },
+      {
+        "frage": "Wie nennt man die Nummer, mit der ein Buch eindeutig gekennzeichnet ist?",
+        "antworten": [
+          "isbn"
+        ],
+        "loesung": "Die ISBN"
+      },
+      {
+        "frage": "Wie nennt man ein Nachschlagewerk mit Sachartikeln?",
+        "antworten": [
+          "lexikon",
+          "enzyklopädie"
+        ],
+        "loesung": "Ein Lexikon"
+      },
+      {
+        "frage": "Wie heißt die Zahl null mit einem anderen Wort?",
+        "antworten": [
+          "nichts",
+          "nix",
+          "zero"
+        ],
+        "loesung": "Nichts"
+      },
+      {
+        "frage": "Wie nennt man die Einheiten Meter, Kilogramm und Sekunde zusammen?",
+        "antworten": [
+          "grundeinheiten",
+          "si einheiten",
+          "basiseinheiten"
+        ],
+        "loesung": "Grundeinheiten"
+      },
+      {
+        "frage": "Wie viele Millimeter hat ein Meter?",
+        "antworten": [
+          "1000",
+          "tausend"
+        ],
+        "loesung": "1000",
+        "zahlenbereich": [
+          1000,
+          1000
+        ]
+      },
+      {
+        "frage": "Wie viele Milliliter hat ein Liter?",
+        "antworten": [
+          "1000",
+          "tausend"
+        ],
+        "loesung": "1000",
+        "zahlenbereich": [
+          1000,
+          1000
+        ]
+      },
+      {
+        "frage": "Wie viele Kilogramm hat eine Tonne?",
+        "antworten": [
+          "1000",
+          "tausend"
+        ],
+        "loesung": "1000",
+        "zahlenbereich": [
+          1000,
+          1000
+        ]
+      },
+      {
+        "frage": "Wie nennt man den Bruchstrich in Worten?",
+        "antworten": [
+          "geteilt durch",
+          "durch"
+        ],
+        "loesung": "Geteilt durch"
+      },
+      {
+        "frage": "Wie heißt das Zeichen für Prozent?",
+        "antworten": [
+          "prozentzeichen"
+        ],
+        "loesung": "Das Prozentzeichen"
+      },
+      {
+        "frage": "Wie nennt man eine Zahl, die sich nicht als Bruch schreiben lässt?",
+        "antworten": [
+          "irrational",
+          "irrationale zahl"
+        ],
+        "loesung": "Eine irrationale Zahl"
+      },
+      {
+        "frage": "Wie nennt man die Anrede am Anfang eines Briefes?",
+        "antworten": [
+          "anrede"
+        ],
+        "loesung": "Die Anrede"
       }
     ],
     "mittelstufe": [

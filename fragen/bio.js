@@ -421,11 +421,388 @@ JEKAMI_FRAGEN.bio = {
         "loesung": "Mit der Nase"
       },
       {
-        "frage": "Wie nennt man Tiere, die Fleisch fressen?",
+        "frage": "Wie heißt das Junge vom Huhn?",
         "antworten": [
-          "fleischfresser"
+          "küken"
         ],
-        "loesung": "Fleischfresser"
+        "loesung": "Ein Küken"
+      },
+      {
+        "frage": "Wie heißt das männliche Huhn?",
+        "antworten": [
+          "hahn"
+        ],
+        "loesung": "Der Hahn"
+      },
+      {
+        "frage": "Welches Tier gibt uns Wolle?",
+        "antworten": [
+          "schaf"
+        ],
+        "loesung": "Das Schaf"
+      },
+      {
+        "frage": "Welches Tier legt die Eier, die wir essen?",
+        "antworten": [
+          "huhn",
+          "hühner"
+        ],
+        "loesung": "Das Huhn"
+      },
+      {
+        "frage": "Welches Tier läuft an Land am schnellsten?",
+        "antworten": [
+          "gepard"
+        ],
+        "loesung": "Der Gepard"
+      },
+      {
+        "frage": "Welches ist das größte Tier an Land?",
+        "antworten": [
+          "elefant"
+        ],
+        "loesung": "Der Elefant"
+      },
+      {
+        "frage": "Welches Tier trägt einen Panzer und zieht sich hinein zurück?",
+        "antworten": [
+          "schildkröte"
+        ],
+        "loesung": "Die Schildkröte"
+      },
+      {
+        "frage": "Welches Tier hüpft und quakt?",
+        "antworten": [
+          "frosch"
+        ],
+        "loesung": "Der Frosch"
+      },
+      {
+        "frage": "Welches Tier sammelt Nüsse für den Winter?",
+        "antworten": [
+          "eichhörnchen"
+        ],
+        "loesung": "Das Eichhörnchen"
+      },
+      {
+        "frage": "Welcher Vogel kann nicht fliegen und lebt im Eis?",
+        "antworten": [
+          "pinguin"
+        ],
+        "loesung": "Der Pinguin"
+      },
+      {
+        "frage": "Welches Tier hat schwarze und weiße Streifen?",
+        "antworten": [
+          "zebra"
+        ],
+        "loesung": "Das Zebra"
+      },
+      {
+        "frage": "Welches Tier wird König der Tiere genannt?",
+        "antworten": [
+          "löwe"
+        ],
+        "loesung": "Der Löwe"
+      },
+      {
+        "frage": "Wie viele Höcker hat ein Dromedar?",
+        "antworten": [
+          "1",
+          "einen",
+          "eins"
+        ],
+        "loesung": "1",
+        "zahlenbereich": [
+          1,
+          1
+        ]
+      },
+      {
+        "frage": "Welches Tier trägt sein Junges in einem Beutel?",
+        "antworten": [
+          "känguru",
+          "koala"
+        ],
+        "loesung": "Das Känguru"
+      },
+      {
+        "frage": "Welches Tier im Meer ist ein Säugetier?",
+        "antworten": [
+          "wal",
+          "delfin"
+        ],
+        "loesung": "Der Wal"
+      },
+      {
+        "frage": "Welches Tier frisst am liebsten Bambus?",
+        "antworten": [
+          "panda"
+        ],
+        "loesung": "Der Panda"
+      },
+      {
+        "frage": "Wie nennt man ein Tier, das bei Menschen zu Hause lebt?",
+        "antworten": [
+          "haustier"
+        ],
+        "loesung": "Ein Haustier"
+      },
+      {
+        "frage": "Wie heißt der Baum mit der weißen Rinde?",
+        "antworten": [
+          "birke"
+        ],
+        "loesung": "Die Birke"
+      },
+      {
+        "frage": "Welche Frucht ist gelb und krumm?",
+        "antworten": [
+          "banane"
+        ],
+        "loesung": "Die Banane"
+      },
+      {
+        "frage": "Wo wachsen Kartoffeln?",
+        "antworten": [
+          "erde",
+          "in der erde",
+          "unter der erde"
+        ],
+        "loesung": "In der Erde"
+      },
+      {
+        "frage": "Welche große gelbe Blume dreht sich zur Sonne?",
+        "antworten": [
+          "sonnenblume"
+        ],
+        "loesung": "Die Sonnenblume"
+      },
+      {
+        "frage": "Woraus wächst eine neue Pflanze?",
+        "antworten": [
+          "samen",
+          "aus einem samen",
+          "korn"
+        ],
+        "loesung": "Aus einem Samen"
+      },
+      {
+        "frage": "Wie heißt die Frucht der Eiche?",
+        "antworten": [
+          "eichel"
+        ],
+        "loesung": "Die Eichel"
+      },
+      {
+        "frage": "Was braucht ein Samen, damit er keimt?",
+        "antworten": [
+          "wasser",
+          "wärme",
+          "wasser und wärme"
+        ],
+        "loesung": "Wasser und Wärme"
+      },
+      {
+        "frage": "Welche Farbe hat eine reife Tomate?",
+        "antworten": [
+          "rot"
+        ],
+        "loesung": "Rot"
+      },
+      {
+        "frage": "Wie nennt man Pilze, die man nicht essen darf?",
+        "antworten": [
+          "giftpilze",
+          "giftig"
+        ],
+        "loesung": "Giftpilze"
+      },
+      {
+        "frage": "Womit hört der Mensch?",
+        "antworten": [
+          "ohren",
+          "ohr"
+        ],
+        "loesung": "Mit den Ohren"
+      },
+      {
+        "frage": "Womit schmeckt der Mensch?",
+        "antworten": [
+          "zunge"
+        ],
+        "loesung": "Mit der Zunge"
+      },
+      {
+        "frage": "Wie viele Sinne hat der Mensch?",
+        "antworten": [
+          "5",
+          "fünf"
+        ],
+        "loesung": "5",
+        "zahlenbereich": [
+          5,
+          5
+        ]
+      },
+      {
+        "frage": "Welches Organ pumpt das Blut durch den Körper?",
+        "antworten": [
+          "herz"
+        ],
+        "loesung": "Das Herz"
+      },
+      {
+        "frage": "Wo sitzt das Gehirn?",
+        "antworten": [
+          "kopf",
+          "im kopf",
+          "schädel"
+        ],
+        "loesung": "Im Kopf"
+      },
+      {
+        "frage": "Wie nennt man die Zähne, die Kinder wieder verlieren?",
+        "antworten": [
+          "milchzähne"
+        ],
+        "loesung": "Milchzähne"
+      },
+      {
+        "frage": "Was atmet der Mensch ein?",
+        "antworten": [
+          "luft",
+          "sauerstoff"
+        ],
+        "loesung": "Luft"
+      },
+      {
+        "frage": "Warum sollen wir Obst und Gemüse essen?",
+        "antworten": [
+          "gesund",
+          "vitamine",
+          "weil es gesund ist"
+        ],
+        "loesung": "Weil es gesund ist"
+      },
+      {
+        "frage": "Wie nennt man Tiere und Pflanzen mit einem Wort?",
+        "antworten": [
+          "lebewesen"
+        ],
+        "loesung": "Lebewesen"
+      },
+      {
+        "frage": "Wie heißt der Ort, an dem man viele Tiere anschauen kann?",
+        "antworten": [
+          "zoo",
+          "tierpark"
+        ],
+        "loesung": "Der Zoo"
+      },
+      {
+        "frage": "Was passiert mit Blättern, die lange am Boden liegen?",
+        "antworten": [
+          "verrotten",
+          "zu erde",
+          "vermodern"
+        ],
+        "loesung": "Sie verrotten zu Erde"
+      },
+      {
+        "frage": "Welches Tier baut Waben aus Wachs?",
+        "antworten": [
+          "biene",
+          "bienen"
+        ],
+        "loesung": "Die Biene"
+      },
+      {
+        "frage": "Welches Tier hat einen Stachel und kann stechen?",
+        "antworten": [
+          "biene",
+          "wespe",
+          "hummel"
+        ],
+        "loesung": "Die Biene oder die Wespe"
+      },
+      {
+        "frage": "Welches Tier lebt im Wasser und hat Flossen?",
+        "antworten": [
+          "fisch",
+          "fische"
+        ],
+        "loesung": "Der Fisch"
+      },
+      {
+        "frage": "Wie nennt man ein junges Tier allgemein?",
+        "antworten": [
+          "jungtier",
+          "baby"
+        ],
+        "loesung": "Ein Jungtier"
+      },
+      {
+        "frage": "Welches Tier gräbt Gänge unter der Wiese und macht Hügel?",
+        "antworten": [
+          "maulwurf"
+        ],
+        "loesung": "Der Maulwurf"
+      },
+      {
+        "frage": "Welcher Vogel hämmert mit dem Schnabel an Bäume?",
+        "antworten": [
+          "specht"
+        ],
+        "loesung": "Der Specht"
+      },
+      {
+        "frage": "Welches Tier wird oft Meister Lampe genannt?",
+        "antworten": [
+          "hase"
+        ],
+        "loesung": "Der Hase"
+      },
+      {
+        "frage": "Welches Tier ist bekannt dafür, sehr langsam zu sein?",
+        "antworten": [
+          "schnecke",
+          "faultier"
+        ],
+        "loesung": "Die Schnecke"
+      },
+      {
+        "frage": "Wie nennt man eine Pflanze, die man essen kann?",
+        "antworten": [
+          "gemüse",
+          "nutzpflanze"
+        ],
+        "loesung": "Gemüse"
+      },
+      {
+        "frage": "Wie nennt man die harte Schale einer Nuss?",
+        "antworten": [
+          "nussschale",
+          "schale"
+        ],
+        "loesung": "Die Schale"
+      },
+      {
+        "frage": "Wie nennt man den Saft, den Bienen zu Honig machen?",
+        "antworten": [
+          "nektar"
+        ],
+        "loesung": "Nektar"
+      },
+      {
+        "frage": "Schätzfrage: Wie viele Rippen hat ein Mensch?",
+        "schaetzfrage": true,
+        "loesung": "24 Rippen"
+      },
+      {
+        "frage": "Schätzfrage: Wie alt kann eine Eiche werden?",
+        "schaetzfrage": true,
+        "loesung": "über 500 Jahre"
       }
     ],
     "unterstufe": [
@@ -709,13 +1086,6 @@ JEKAMI_FRAGEN.bio = {
         "loesung": "Der Oberschenkelknochen"
       },
       {
-        "frage": "Welches Organ entgiftet das Blut und bildet die Galle?",
-        "antworten": [
-          "leber"
-        ],
-        "loesung": "Die Leber"
-      },
-      {
         "frage": "Wie heißt der Muskel unter der Lunge, der beim Atmen hilft?",
         "antworten": [
           "zwerchfell"
@@ -828,19 +1198,420 @@ JEKAMI_FRAGEN.bio = {
         "loesung": "Die Skelettmuskeln"
       },
       {
-        "frage": "Wie heißt die Gruppe der Tiere mit Fell, die lebende Junge gebären?",
-        "antworten": [
-          "säugetiere"
-        ],
-        "loesung": "Die Säugetiere"
-      },
-      {
         "frage": "Wie nennt man Pflanzen, die Blüten und Samen bilden?",
         "antworten": [
           "blütenpflanzen",
           "samenpflanzen"
         ],
         "loesung": "Blütenpflanzen"
+      },
+      {
+        "frage": "Welches Organ baut Giftstoffe im Blut ab?",
+        "antworten": [
+          "leber"
+        ],
+        "loesung": "Die Leber"
+      },
+      {
+        "frage": "Wie viele Zähne hat ein erwachsener Mensch?",
+        "antworten": [
+          "32",
+          "zweiunddreißig"
+        ],
+        "loesung": "32",
+        "zahlenbereich": [
+          32,
+          32
+        ]
+      },
+      {
+        "frage": "Wie heißt die harte Schicht außen auf den Zähnen?",
+        "antworten": [
+          "zahnschmelz"
+        ],
+        "loesung": "Der Zahnschmelz"
+      },
+      {
+        "frage": "Welches Organ steuert alle Vorgänge im Körper?",
+        "antworten": [
+          "gehirn"
+        ],
+        "loesung": "Das Gehirn"
+      },
+      {
+        "frage": "Wie heißt der Nervenstrang im Rückgrat?",
+        "antworten": [
+          "rückenmark"
+        ],
+        "loesung": "Das Rückenmark"
+      },
+      {
+        "frage": "Welcher Knochen schützt das Gehirn?",
+        "antworten": [
+          "schädel",
+          "schädelknochen"
+        ],
+        "loesung": "Der Schädel"
+      },
+      {
+        "frage": "Wie nennt man die bewegliche Verbindung zweier Knochen?",
+        "antworten": [
+          "gelenk"
+        ],
+        "loesung": "Ein Gelenk"
+      },
+      {
+        "frage": "Wie heißen die Stränge, die Muskeln mit Knochen verbinden?",
+        "antworten": [
+          "sehnen",
+          "sehne"
+        ],
+        "loesung": "Sehnen"
+      },
+      {
+        "frage": "Wie viele Rippenpaare hat der Mensch?",
+        "antworten": [
+          "12",
+          "zwölf"
+        ],
+        "loesung": "12",
+        "zahlenbereich": [
+          12,
+          12
+        ]
+      },
+      {
+        "frage": "Wie heißt die Flüssigkeit im Magen, die Nahrung zersetzt?",
+        "antworten": [
+          "magensäure"
+        ],
+        "loesung": "Die Magensäure"
+      },
+      {
+        "frage": "Wie heißt der Darmabschnitt nach dem Dünndarm?",
+        "antworten": [
+          "dickdarm"
+        ],
+        "loesung": "Der Dickdarm"
+      },
+      {
+        "frage": "Wie nennt man die körpereigene Abwehr gegen Krankheitserreger?",
+        "antworten": [
+          "immunsystem",
+          "abwehr"
+        ],
+        "loesung": "Das Immunsystem"
+      },
+      {
+        "frage": "Was bewirkt eine Impfung im Körper?",
+        "antworten": [
+          "trainiert das immunsystem",
+          "abwehr lernt",
+          "antikörper"
+        ],
+        "loesung": "Sie trainiert das Immunsystem"
+      },
+      {
+        "frage": "Welcher Teil des Auges bündelt das Licht?",
+        "antworten": [
+          "linse",
+          "augenlinse"
+        ],
+        "loesung": "Die Linse"
+      },
+      {
+        "frage": "Wie heißen die Sinneszellen der Netzhaut?",
+        "antworten": [
+          "stäbchen und zapfen",
+          "stäbchen",
+          "zapfen"
+        ],
+        "loesung": "Stäbchen und Zapfen"
+      },
+      {
+        "frage": "Wie heißen die fünf Klassen der Wirbeltiere?",
+        "antworten": [
+          "fische amphibien reptilien vögel säugetiere"
+        ],
+        "loesung": "Fische, Amphibien, Reptilien, Vögel, Säugetiere"
+      },
+      {
+        "frage": "Zu welcher Wirbeltierklasse gehören Schlangen?",
+        "antworten": [
+          "reptilien"
+        ],
+        "loesung": "Zu den Reptilien"
+      },
+      {
+        "frage": "Womit atmen Insekten?",
+        "antworten": [
+          "tracheen"
+        ],
+        "loesung": "Mit Tracheen"
+      },
+      {
+        "frage": "Aus wie vielen Abschnitten besteht ein Insektenkörper?",
+        "antworten": [
+          "3",
+          "drei"
+        ],
+        "loesung": "3",
+        "zahlenbereich": [
+          3,
+          3
+        ]
+      },
+      {
+        "frage": "Wie nennt man es, wenn ein Insekt seine Hülle abstreift?",
+        "antworten": [
+          "häutung"
+        ],
+        "loesung": "Die Häutung"
+      },
+      {
+        "frage": "Wie nennt man Tiere mit weichem Körper wie Schnecken und Muscheln?",
+        "antworten": [
+          "weichtiere",
+          "mollusken"
+        ],
+        "loesung": "Weichtiere"
+      },
+      {
+        "frage": "Wie nennt man Tiere mit Außenskelett wie Krebse und Insekten?",
+        "antworten": [
+          "gliederfüßer",
+          "arthropoden"
+        ],
+        "loesung": "Gliederfüßer"
+      },
+      {
+        "frage": "Womit findet sich eine Fledermaus im Dunkeln zurecht?",
+        "antworten": [
+          "echoortung",
+          "ultraschall",
+          "echolot"
+        ],
+        "loesung": "Mit Echoortung"
+      },
+      {
+        "frage": "Wie nennt man das Wegfliegen der Vögel im Herbst?",
+        "antworten": [
+          "vogelzug"
+        ],
+        "loesung": "Der Vogelzug"
+      },
+      {
+        "frage": "Wie nennt man Tiere, die andere Tiere jagen?",
+        "antworten": [
+          "raubtiere",
+          "räuber"
+        ],
+        "loesung": "Raubtiere"
+      },
+      {
+        "frage": "Wie nennt man das Tier, das gejagt wird?",
+        "antworten": [
+          "beute",
+          "beutetier"
+        ],
+        "loesung": "Die Beute"
+      },
+      {
+        "frage": "Wie nennt man es, wenn ein harmloses Tier wie ein gefährliches aussieht?",
+        "antworten": [
+          "mimikry"
+        ],
+        "loesung": "Mimikry"
+      },
+      {
+        "frage": "Welche Stoffe braucht eine Pflanze für die Fotosynthese?",
+        "antworten": [
+          "wasser und kohlenstoffdioxid",
+          "wasser co2 licht",
+          "wasser und co2"
+        ],
+        "loesung": "Wasser, Kohlenstoffdioxid und Licht"
+      },
+      {
+        "frage": "Was entsteht bei der Fotosynthese neben Zucker?",
+        "antworten": [
+          "sauerstoff"
+        ],
+        "loesung": "Sauerstoff"
+      },
+      {
+        "frage": "Wie heißt der Vorgang, bei dem Zellen Zucker mit Sauerstoff verbrennen?",
+        "antworten": [
+          "zellatmung"
+        ],
+        "loesung": "Die Zellatmung"
+      },
+      {
+        "frage": "Wie heißen die Blütenteile, die Pollen bilden?",
+        "antworten": [
+          "staubblätter",
+          "staubgefäße"
+        ],
+        "loesung": "Die Staubblätter"
+      },
+      {
+        "frage": "Wie heißt der weibliche Teil einer Blüte?",
+        "antworten": [
+          "stempel",
+          "fruchtblatt"
+        ],
+        "loesung": "Der Stempel"
+      },
+      {
+        "frage": "Wie nennt man die Verbreitung von Samen durch den Wind?",
+        "antworten": [
+          "windverbreitung",
+          "anemochorie"
+        ],
+        "loesung": "Windverbreitung"
+      },
+      {
+        "frage": "Wie heißt der Samenbehälter der Nadelbäume?",
+        "antworten": [
+          "zapfen"
+        ],
+        "loesung": "Der Zapfen"
+      },
+      {
+        "frage": "Wie nennt man die oberste Schicht eines Waldes?",
+        "antworten": [
+          "kronenschicht",
+          "baumschicht"
+        ],
+        "loesung": "Die Kronenschicht"
+      },
+      {
+        "frage": "Wie nennt man Pflanzen in der Nahrungskette mit dem Fachwort?",
+        "antworten": [
+          "produzenten",
+          "erzeuger"
+        ],
+        "loesung": "Produzenten"
+      },
+      {
+        "frage": "Wie nennt man Tiere in der Nahrungskette mit dem Fachwort?",
+        "antworten": [
+          "konsumenten",
+          "verbraucher"
+        ],
+        "loesung": "Konsumenten"
+      },
+      {
+        "frage": "Wie nennt man Lebewesen und Umwelt zusammen als System?",
+        "antworten": [
+          "ökosystem"
+        ],
+        "loesung": "Ein Ökosystem"
+      },
+      {
+        "frage": "Was bewirkt zu viel Dünger in einem See?",
+        "antworten": [
+          "überdüngung",
+          "algenblüte",
+          "algen"
+        ],
+        "loesung": "Eine Überdüngung mit Algenblüte"
+      },
+      {
+        "frage": "Wie nennt man Pflanzen, die Wasser in dicken Blättern speichern?",
+        "antworten": [
+          "sukkulenten",
+          "kakteen"
+        ],
+        "loesung": "Sukkulenten"
+      },
+      {
+        "frage": "Wie nennt man Tiere, die Eier legen?",
+        "antworten": [
+          "eierleger",
+          "ovipar",
+          "eierlegend"
+        ],
+        "loesung": "Eierlegende Tiere"
+      },
+      {
+        "frage": "Zu welcher Wirbeltierklasse gehört der Frosch?",
+        "antworten": [
+          "amphibien",
+          "lurche"
+        ],
+        "loesung": "Zu den Amphibien"
+      },
+      {
+        "frage": "Wie nennt man Pflanzen, die auf anderen Pflanzen wachsen?",
+        "antworten": [
+          "aufsitzerpflanzen",
+          "epiphyten"
+        ],
+        "loesung": "Epiphyten"
+      },
+      {
+        "frage": "Wie viel Blut hat ein erwachsener Mensch ungefähr?",
+        "antworten": [
+          "5",
+          "fünf",
+          "5 liter",
+          "6"
+        ],
+        "loesung": "Rund 5 Liter",
+        "zahlenbereich": [
+          4,
+          7
+        ]
+      },
+      {
+        "frage": "Wie nennt man die Übertragung von Pollen zwischen Blüten?",
+        "antworten": [
+          "bestäubung"
+        ],
+        "loesung": "Die Bestäubung"
+      },
+      {
+        "frage": "Welches Organ reguliert den Wasserhaushalt des Körpers?",
+        "antworten": [
+          "niere",
+          "nieren"
+        ],
+        "loesung": "Die Nieren"
+      },
+      {
+        "frage": "Wie heißt die Haut, die das Trommelfell im Ohr bildet?",
+        "antworten": [
+          "trommelfell"
+        ],
+        "loesung": "Das Trommelfell"
+      },
+      {
+        "frage": "Wie nennt man die jährliche Wanderung von Tieren über weite Strecken?",
+        "antworten": [
+          "wanderung",
+          "migration",
+          "tierwanderung"
+        ],
+        "loesung": "Die Tierwanderung"
+      },
+      {
+        "frage": "Wie nennt man Bakterien, die Krankheiten auslösen?",
+        "antworten": [
+          "krankheitserreger",
+          "erreger"
+        ],
+        "loesung": "Krankheitserreger"
+      },
+      {
+        "frage": "Schätzfrage: Wie viele Insektenarten sind weltweit beschrieben?",
+        "schaetzfrage": true,
+        "loesung": "rund 1 Million"
+      },
+      {
+        "frage": "Schätzfrage: Wie viele Liter Blut pumpt das Herz an einem Tag?",
+        "schaetzfrage": true,
+        "loesung": "rund 7000 Liter"
       }
     ],
     "mittelstufe": [
@@ -1106,13 +1877,6 @@ JEKAMI_FRAGEN.bio = {
           "pankreas"
         ],
         "loesung": "Die Bauchspeicheldrüse"
-      },
-      {
-        "frage": "Welches Organ speichert die Galle?",
-        "antworten": [
-          "gallenblase"
-        ],
-        "loesung": "Die Gallenblase"
       },
       {
         "frage": "Wie heißt der rote Blutfarbstoff, der Sauerstoff transportiert?",
